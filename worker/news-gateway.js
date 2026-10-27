@@ -1,7 +1,6 @@
 /**
  * Career Signal public news search gateway for Cloudflare Workers Free.
  * - Google News RSS: keyless
- * - Naver Search API: optional, credentials ONLY in Worker environment secrets
  * - Strict upstream allowlist, fixed paths, bounded query, no arbitrary URL proxy.
  * - Origin allowlist helps browser access; it is not authentication.
  */
@@ -23,9 +22,6 @@ function parseRSS(xml,from,to){
  }
  return results;
 }
-function parseNaver(data,from,to){
- return (data.items||[]).slice(0,100).map(a=>({title:unescapeHTML(a.title),url:a.originallink||a.link,published_at:day(a.pubDate),publisher:'Naver News',source:'Naver News',kind:'news',date_kind:'published'})).filter(a=>a.title&&validLink(a.url)&&a.published_at&&a.published_at>=from&&a.published_at<=to);
-}
 async function google(q,from,to,language){
  const loc=language==='en'?{hl:'en-US',gl:'US',ceid:'US:en'}:{hl:'ko',gl:'KR',ceid:'KR:ko'};
  const rss=new URL('https://news.google.com/rss/search');
@@ -37,28 +33,19 @@ async function google(q,from,to,language){
  if(xml.length>1_500_000)throw Error('Google RSS response too large');
  return parseRSS(xml,from,to);
 }
-async function naver(q,from,to,env){
- if(!env.NAVER_CLIENT_ID||!env.NAVER_CLIENT_SECRET)return {results:[],status:'not_configured'};
- const url=new URL('https://openapi.naver.com/v1/search/news.json');
- url.searchParams.set('query',q);url.searchParams.set('display','100');url.searchParams.set('sort','date');
- const r=await fetch(url.toString(),{headers:{'X-Naver-Client-Id':env.NAVER_CLIENT_ID,'X-Naver-Client-Secret':env.NAVER_CLIENT_SECRET,'Accept':'application/json'}});
- if(!r.ok)throw Error('Naver API HTTP '+r.status);
- return {results:parseNaver(await r.json(),from,to),status:'ok'};
-}
-export default {async fetch(request,env){
+export default {async fetch(request){
  const origin=request.headers.get('Origin');
  if(origin&&origin!==ALLOWED_ORIGIN)return json({error:'origin not allowed'},403);
  if(request.method==='OPTIONS')return new Response(null,{status:204,headers:CORS});
  if(request.method!=='GET')return json({error:'method not allowed'},405);
  const u=new URL(request.url);
- if(u.pathname==='/health')return json({ok:true,provider:'Career Signal News Gateway',google:true,naverConfigured:!!(env.NAVER_CLIENT_ID&&env.NAVER_CLIENT_SECRET)});
+ if(u.pathname==='/health')return json({ok:true,provider:'Career Signal Google News Gateway',google:true});
  if(u.pathname!=='/search')return json({error:'not found'},404);
  const q=(u.searchParams.get('q')||'').trim().slice(0,100),from=u.searchParams.get('from')||'',to=u.searchParams.get('to')||'';
  if(q.length<2||q.length>90||!/^[0-9]{4}-[0-9]{2}-[0-9]{2}$/.test(from)||!/^[0-9]{4}-[0-9]{2}-[0-9]{2}$/.test(to)||!day(from)||!day(to)||from>to||new Date(to)-new Date(from)>40*864e5)return json({error:'invalid search input or date range'},400);
  const tasks=[
    ['Google News KR',()=>google(q,from,to,'ko')],
-   ['Google News EN',()=>google(q,from,to,'en')],
-   ['Naver News',()=>naver(q,from,to,env)]
+   ['Google News EN',()=>google(q,from,to,'en')]
  ];
  const results=await Promise.all(tasks.map(async([name,fn])=>{try{const answer=await fn();return {name,success:true,items:Array.isArray(answer)?answer:answer.results,info:answer.status||'ok'}}catch(e){return {name,success:false,items:[],error:String(e?.message||e).slice(0,100)}}}));
  const all=[],seen=new Set();
