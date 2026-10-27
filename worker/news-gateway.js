@@ -32,7 +32,7 @@ async function google(q,from,to,language){
  if(!r.ok)throw Error('Google News HTTP '+r.status);
  const xml=await r.text();
  if(xml.length>1_500_000)throw Error('Google RSS response too large');
- if(!/<rss[\\s>]/i.test(xml)||!/<channel[\\s>]/i.test(xml))throw Error('Google returned non-RSS content');
+ if(!/<rss(?:\s|>)/i.test(xml)||!/<channel(?:\s|>)/i.test(xml))throw Error('Google returned non-RSS content');
  return parseRSS(xml,from,to);
 }
 export default {async fetch(request){
