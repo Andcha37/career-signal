@@ -12,7 +12,6 @@ export const SOURCES = [
 export const MAX_QUERIES=8;
 const MAX_ARTICLES=90;
 const API_TIMEOUT=18000;
-const BOUNDARY=String.raw`[^p{L}p{N}]`;
 
 export function planQueries(terms,cap=MAX_QUERIES){
   const unique=[...new Set(terms.map(v=>String(v).trim()).filter(Boolean))];
