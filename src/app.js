@@ -2,6 +2,7 @@ import {families,allRoles} from './taxonomy.js';
 import {keywords,monthBack,briefing} from './research.js';
 import {liveResearch} from './live-search.js';
 import {companyQueries} from './company-research.js';
+import {searchNews} from './news-search.js';
 const root=document.getElementById('root');
 const today=new Date().toLocaleDateString('en-CA');
 let mode='roles',selected=new Set(),articles=[],essay='',filter='';
@@ -45,12 +46,16 @@ async function run(){
  const from=monthBack(date.value),to=date.value;
  status.textContent='실시간 검색 시작 · 공개 서비스에 검색어가 전달됩니다.';
  try{
- const response=await liveResearch({terms,from,to,companyNames:names,onProgress:()=>{status.textContent='실시간 공개 검색 서비스 조회 중…'}});
- const rows=response.articles;articles=rows;
- const providers=[...new Set(response.checked.map(x=>x.source))].join(' · ');
+ const news=await searchNews({terms,from,to,mode,companyNames:names,onProgress:()=>{status.textContent='구글·네이버 뉴스 검색 중…'}});
+ const response=await liveResearch({terms:mode==='company'?names:terms,from,to,companyNames:names,onProgress:()=>{status.textContent='공개 연구·커뮤니티 검색 중…'}});
+ const seen=new Set();const rows=[...news.articles,...response.articles].filter(a=>{const k=String(a.title).toLowerCase().replace(/[\\s\\p{P}\\p{S}]/gu,'');if(!k||seen.has(k))return false;seen.add(k);return true}).sort((a,b)=>b.published_at.localeCompare(a.published_at)).slice(0,90);articles=rows;
+ const providers=[...new Set([...news.checked,...response.checked].map(x=>x.source))].join(' · ');
  status.textContent='실시간 검색 '+rows.length+'건 · 검색 시각 '+new Date(response.startedAt).toLocaleString('ko-KR')+' · '+providers;
  if(response.plan.partial){add(items,'p','notice','선택된 '+response.plan.total+'개 직무 중 '+response.plan.queries.length+'개 대표 검색어를 분산 선택해 조회했습니다. 전체 직무의 완전한 검색은 아닙니다.');}
- if(response.problems.length){add(items,'p','notice','일부 제공자 검색에 실패했습니다: '+[...new Set(response.problems)].join(' | ')+' · 브라우저 직접 요청에는 CORS 또는 제공자 속도 제한이 적용될 수 있습니다.');}
+ if(news.scopeNote)add(items,'p','notice',news.scopeNote);
+ if(!news.configured)add(items,'p','notice','구글·네이버 뉴스 미연결: Cloudflare Worker를 배포하고 주소를 설정해야 합니다. 아래 결과는 다른 공개 검색 서비스의 자료입니다.');
+ const allProblems=[...news.problems,...response.problems];
+ if(allProblems.length){add(items,'p','notice','제공자 제한·연결 상태: '+[...new Set(allProblems)].join(' | ')+' · 브라우저 직접 요청에는 CORS와 호출 제한이 적용될 수 있습니다.');}
  if(!rows.length){add(items,'p','notice','조회된 자료가 없습니다. 제공자 접근 제한, CORS 오류, 해당 기간에 일치하는 자료 없음 등의 원인이 있을 수 있습니다. 검색어를 바꿔 다시 시도하세요.');return}
  add(items,'h3','section-title','실시간 검색 결과 / Sources');
  for(let i=0;i<rows.length;i++){
