@@ -6,6 +6,7 @@
  */
 const ALLOWED_ORIGIN='https://andcha37.github.io';
 const MAX_ITEMS=80;
+const GATEWAY_VERSION='2026-10-28-search-diagnostics';
 const CORS={'Access-Control-Allow-Origin':ALLOWED_ORIGIN,'Access-Control-Allow-Methods':'GET, OPTIONS','Access-Control-Allow-Headers':'Content-Type','Vary':'Origin'};
 function json(body,status=200){return new Response(JSON.stringify(body),{status,headers:{'Content-Type':'application/json; charset=utf-8','X-Content-Type-Options':'nosniff','Cache-Control':'no-store',...CORS}})}
 function tag(xml,name){return new RegExp('<'+name+'(?:\\s[^>]*)?>([\\s\\S]*?)<\\/'+name+'>','i').exec(xml)?.[1]||''}
@@ -31,6 +32,7 @@ async function google(q,from,to,language){
  if(!r.ok)throw Error('Google News HTTP '+r.status);
  const xml=await r.text();
  if(xml.length>1_500_000)throw Error('Google RSS response too large');
+ if(!/<rss[\\s>]/i.test(xml)||!/<channel[\\s>]/i.test(xml))throw Error('Google returned non-RSS content');
  return parseRSS(xml,from,to);
 }
 export default {async fetch(request){
@@ -39,7 +41,7 @@ export default {async fetch(request){
  if(request.method==='OPTIONS')return new Response(null,{status:204,headers:CORS});
  if(request.method!=='GET')return json({error:'method not allowed'},405);
  const u=new URL(request.url);
- if(u.pathname==='/health')return json({ok:true,provider:'Career Signal Google News Gateway',google:true});
+ if(u.pathname==='/health')return json({ok:true,provider:'Career Signal Google News Gateway',google:true,version:GATEWAY_VERSION,note:'Health checks worker only; use /search to test upstream Google News.'});
  if(u.pathname!=='/search')return json({error:'not found'},404);
  const q=(u.searchParams.get('q')||'').trim().slice(0,100),from=u.searchParams.get('from')||'',to=u.searchParams.get('to')||'';
  if(q.length<2||q.length>90||!/^[0-9]{4}-[0-9]{2}-[0-9]{2}$/.test(from)||!/^[0-9]{4}-[0-9]{2}-[0-9]{2}$/.test(to)||!day(from)||!day(to)||from>to||new Date(to)-new Date(from)>40*864e5)return json({error:'invalid search input or date range'},400);
@@ -50,5 +52,7 @@ export default {async fetch(request){
  const results=await Promise.all(tasks.map(async([name,fn])=>{try{const answer=await fn();return {name,success:true,items:Array.isArray(answer)?answer:answer.results,info:answer.status||'ok'}}catch(e){return {name,success:false,items:[],error:String(e?.message||e).slice(0,100)}}}));
  const all=[],seen=new Set();
  for(const r of results){for(const a of r.items){const key=a.title.toLocaleLowerCase().replace(/[\s\p{P}\p{S}]/gu,'');if(!key||seen.has(key))continue;seen.add(key);all.push(a)}}
- return json({articles:all.slice(0,150),sources:results.map(r=>({source:r.name,count:r.items.length,success:r.success,status:r.info||r.error})),searched_at:new Date().toISOString(),note:'Public news titles and metadata only. Search text and visitor IP may be processed by Cloudflare and upstream providers.'});
+ const sources=results.map(r=>({source:r.name,count:r.items.length,success:r.success,status:r.info||r.error}));
+ const failed=results.every(r=>!r.success);
+ return json({ok:!failed,version:GATEWAY_VERSION,articles:all.slice(0,150),sources,searched_at:new Date().toISOString(),error:failed?'Google News feeds are unavailable; see sources for details.':null,note:'Google News titles and metadata only. Queries and visitor IP can be seen by Cloudflare and the upstream service.'},failed?502:200);
 }};
