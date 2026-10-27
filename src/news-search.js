@@ -7,6 +7,9 @@ export function expandCompanyNames(name,aliases=[]){
  const variants={
  '현대':['현대자동차','현대차','Hyundai Motor','현대그룹','현대건설','현대백화점','현대해상'],
  '현대자동차':['현대자동차','현대차','Hyundai Motor'],
+ '현대해상':['현대해상','현대해상화재보험','Hyundai Marine & Fire Insurance','Hyundai Marine'],
+ '대한항공':['대한항공','Korean Air'],
+ '스타벅스':['스타벅스','Starbucks','SCK컴퍼니'],
  '현대차':['현대자동차','현대차','Hyundai Motor'],
  '삼성':['삼성전자','Samsung Electronics','삼성물산','삼성SDI'],
  '네이버':['네이버','NAVER'],
@@ -18,7 +21,7 @@ export function expandCompanyNames(name,aliases=[]){
 export async function searchNews({terms,from,to,mode='keywords',companyNames=[],onProgress=()=>{}}){
  if(!NEWS_GATEWAY_URL)return {articles:[],problems:['구글 뉴스 검색 게이트웨이가 아직 연결되지 않았습니다. Cloudflare Worker 배포 후 src/config.js의 NEWS_GATEWAY_URL을 설정하세요.'],checked:[],configured:false,startedAt:new Date().toISOString()};
  const companyTerms=mode==='company'?expandCompanyNames(companyNames[0],companyNames.slice(1)):terms;
- const qs=[...new Set(companyTerms.map(x=>String(x).trim()).filter(Boolean))].slice(0,mode==='company'?7:4);
+ const qs=[...new Set(companyTerms.map(x=>String(x).trim()).filter(Boolean))].slice(0,mode==='company'?4:3);
  const batches=[],checked=[],problems=[];
  await Promise.all(qs.map(async q=>{
   const url=new URL(NEWS_GATEWAY_URL.replace(/\/$/,'')+'/search');
@@ -27,7 +30,7 @@ export async function searchNews({terms,from,to,mode='keywords',companyNames=[],
   try{
    const res=await fetch(url,{credentials:'omit',referrerPolicy:'no-referrer',signal:controller.signal});
    const json=await res.json().catch(()=>({error:'JSON 응답을 받지 못했습니다.'}));
-   if(!res.ok)throw Error('News gateway HTTP '+res.status+': '+(json.sources||[]).map(x=>x.source+' '+x.status).join(', ').slice(0,200));
+   if(!res.ok)throw Error('News gateway HTTP '+res.status+': '+(json.sources||[]).map(x=>x.source+' '+x.status).join(', ').slice(0,240));
    batches.push(json.articles||[]);
    for(const s of json.sources||[]){checked.push(s);if(!s.success)problems.push(s.source+': '+s.status)}
    onProgress();
