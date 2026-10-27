@@ -1,12 +1,21 @@
-# Google News gateway
+# News API (no RSS, no web scraping)
 
-Career Signal uses Google News RSS in Korean and English through a Cloudflare Worker, because browser requests to RSS are constrained by CORS. No search API keys or credentials are required.
+Career Signal's Cloudflare Worker connects only to the documented JSON endpoint of **GNews API**. Google News RSS and Bing News RSS have been completely removed from executable code.
 
-## Deployment
-1. Create a Cloudflare Workers **Free** account and a Worker named `career-signal-news`; do not upgrade to a paid tier.
-2. Paste [the Worker source](news-gateway.js) into its editor and click Deploy.
-3. Copy the worker's base URL, e.g. `https://career-signal-news.<subdomain>.workers.dev`.
-4. Set `NEWS_GATEWAY_URL` in [src/config.js](../src/config.js) to that base URL, commit and allow Pages to publish.
-5. Verify `/health`, then search a company on the website.
+## Safety-first default
+The API is disabled unless BOTH Cloudflare Worker secrets are configured:
+- `GNEWS_API_KEY`: GNews credential (use **Worker Secrets**, never GitHub, Pages or browser code)
+- `GNEWS_USAGE_APPROVED`: the literal value `true`, **only after** independently confirming that your GNews subscription permits the planned publicly accessible AI-assisted news research service and display/summarization of returned metadata.
 
-The Worker searches Google News KR and EN and extracts public article headline metadata. It does **not** retrieve article bodies. Google News RSS can change or become unavailable, and Google/Cloudflare can observe user search terms and IP addresses. The public Worker endpoint is not abuse-proof; Origin restrictions alone are not authentication. The operator GitHub username is public.
+Until then, `/search` responds `503 NEWS_API_NOT_ENABLED`. This is deliberate. No requests go to the upstream service without approval.
+
+## Cloudflare GitHub deployment
+The repo is already configured via `wrangler.toml`. The active Worker should report version `2026-10-28-licensed-api-v3` at `/health` once the deployment finishes. You do not need to share passwords or API keys in chat.
+
+## Provider rights and costs
+The GNews Free plan is not assumed to allow production usage. An official API is **not automatically permission to republish or commercially exploit third-party article material**. Confirm exact subscription contract, commercial/public use, AI processing, permitted attribution, retention, display and redistribution. Paid plans may incur fees; do not activate them to preserve a zero-cost constraint.
+
+Provider API docs: https://docs.gnews.io/endpoints/search-endpoint
+Authentication: https://docs.gnews.io/authentication
+
+The browser sends a user-initiated query to your Worker; Cloudflare and the provider may process request metadata. News APIs return metadata, not independently verified full article content.
