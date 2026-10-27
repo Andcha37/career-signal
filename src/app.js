@@ -46,9 +46,19 @@ async function run(){
  const from=monthBack(date.value),to=date.value;
  status.textContent='실시간 검색 시작 · 공개 서비스에 검색어가 전달됩니다.';
  try{
- const news=await searchNews({terms,from,to,mode,companyNames:names,onProgress:()=>{status.textContent='구글 뉴스 검색 중…'}});
- const response=await liveResearch({terms:mode==='company'?names:terms,from,to,companyNames:names,onProgress:()=>{status.textContent='공개 연구·커뮤니티 검색 중…'}});
- const seen=new Set();const rows=[...news.articles,...response.articles].filter(a=>{const k=String(a.title).toLowerCase().replace(/[\\s\\p{P}\\p{S}]/gu,'');if(!k||seen.has(k))return false;seen.add(k);return true}).sort((a,b)=>b.published_at.localeCompare(a.published_at)).slice(0,90);articles=rows;
+ // The retrieval layer is independent from the local LLM; only Research starts either.
+ const [newsResult,otherResult]=await Promise.allSettled([
+  searchNews({terms,from,to,mode,companyNames:names,onProgress:()=>{status.textContent='Google News 자료 수집 중…'}}),
+  liveResearch({terms:mode==='company'?names:terms,from,to,companyNames:names,onProgress:()=>{status.textContent='연구·커뮤니티 자료 수집 중…'}})
+ ]);
+ const news=newsResult.status==='fulfilled'?newsResult.value:{articles:[],problems:['Google News: '+String(newsResult.reason)],checked:[],configured:false};
+ const response=otherResult.status==='fulfilled'?otherResult.value:{articles:[],problems:['기타 자료: '+String(otherResult.reason)],checked:[],plan:{partial:false,total:0,queries:[]},startedAt:new Date().toISOString()};
+ const seen=new Set();
+ const rows=[...news.articles,...response.articles].filter(a=>{
+  const k=String(a.title||'').toLocaleLowerCase().replace(/[\s\p{P}\p{S}]/gu,'');
+  if(!k||seen.has(k))return false;seen.add(k);return true;
+ }).sort((a,b)=>b.published_at.localeCompare(a.published_at)).slice(0,90);
+ articles=rows;
  const providers=[...new Set([...news.checked,...response.checked].map(x=>x.source))].join(' · ');
  status.textContent='실시간 검색 '+rows.length+'건 · 검색 시각 '+new Date(response.startedAt).toLocaleString('ko-KR')+' · '+providers;
  if(response.plan.partial){add(items,'p','notice','선택된 '+response.plan.total+'개 직무 중 '+response.plan.queries.length+'개 대표 검색어를 분산 선택해 조회했습니다. 전체 직무의 완전한 검색은 아닙니다.');}
