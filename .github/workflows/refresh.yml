@@ -1,5 +1,9 @@
 name: Refresh public news index
 on:
+  push:
+    paths:
+      - 'scripts/refresh.py'
+      - '.github/workflows/refresh.yml'
   workflow_dispatch:
   schedule:
     - cron: '25 4,16 * * *'
