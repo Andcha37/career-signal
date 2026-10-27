@@ -1,19 +1,7 @@
 {
-  "generated_at": "2026-10-27T20:00:34.189981+00:00",
+  "generated_at": "2026-10-27T20:07:24.901672+00:00",
   "coverage_note": "Google News RSS의 직무별 상위 공개 기사 메타데이터를 수집했습니다. 전체 웹을 포괄하지 않으며 기사 본문은 수집하지 않습니다.",
   "articles": [
-    {
-      "id": "28394e33021f0257",
-      "title": "DOE Explains...Machine Learning - Department of Energy (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PVlNDLW5nbE9XU2EtaTV5Z3FTbDc5M25uTEtMbFYzVlFNUTkwZWVLZDlzSjQtVndMcWp2TVQ4M0pfcUlMak9HZXZsYTdyRzVDTE5RdG1tSk9WbVNiTWlWSkhwSGRfWjNLSDZr?oc=5",
-      "publisher": "Department of Energy (.gov)",
-      "published_at": "2026-10-23T14:00:32+00:00",
-      "kind": "news",
-      "family_ids": [
-        "ai-data"
-      ],
-      "date_kind": "published"
-    },
     {
       "id": "addcc864004cdaa6",
       "title": "Krenicki Center: Advancing Impact Through AI & Analytics - Purdue University",
@@ -87,11 +75,11 @@
       "date_kind": "published"
     },
     {
-      "id": "53945cefcc88a566",
-      "title": "Machine Learning Market Size, Share, Growth | Trends [2034] - Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04ZktXM19SRGJ4UWF3QnIwUUFUMGJJV1RNNGwyVWQtT1VPaG5ONzhfVUp2MXJWd2E4T2N6RXVtMWVOQVJ1SkJrcG5YNHQtcUZ6Yk50Nnk4b0h1eHRkZXRTUXNYcWhsZjJLREZGOFR2YWw1T0RuYVppVlh3?oc=5",
-      "publisher": "Fortune Business Insights",
-      "published_at": "2026-10-05T07:00:00+00:00",
+      "id": "0050d0e5d49380f8",
+      "title": "Top Data Science Trends Reshaping the Industry in 2027 - Simplilearn.com",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WLW9DS0lrS080V3hzN3huLUktNGhaaHBuVV9lWjAtc2xDV1FGNUp4UkpQckRYLVFwaXlGYkV5S2hRRVhqMktiVUs5dXRELUxrU3RVSDdLcElkbXpfSDZLYTNOSDRfdw?oc=5",
+      "publisher": "Simplilearn.com",
+      "published_at": "2026-10-23T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "ai-data"
@@ -140,6 +128,18 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51RnlPU3ZnUnN1UW44RVp0azhPVjNBeHk2QUh2NGZKMGxOZmZHT0xCdDlOOWxXZ1lGUzJPb1lQZWY5Tm0yNWw2UjdnV2EtWmNiWU42QlJENA?oc=5",
       "publisher": "Coursera",
       "published_at": "2026-10-20T20:11:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "ai-data"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "1c402d192fa2dea0",
+      "title": "Artificial Intelligence and Machine Learning Job Trends - Simplilearn.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZDhXUW4yS21pQTN3YzhuZVFzMnVLMDhFeDlvZHBSVzJPVGtaaWxCMGVhWjltMU95V1VCdWt0aC1rZnhJdmJXRGVRZ0Z6OE9od0t2bjJSSG0zcVJiX2txZ0pGbDFYeU5NNEtxbDVNemFHS0J6RHp2aDh2Z2ExUGs2cE1maDk?oc=5",
+      "publisher": "Simplilearn.com",
+      "published_at": "2026-10-22T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "ai-data"
@@ -339,6 +339,18 @@
       "date_kind": "published"
     },
     {
+      "id": "aef3f7e0b0e7b16f",
+      "title": "Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMFR2ZlpwRkYtTDJmOGFnc0ZPY1VzOTZ2bWZXV25PRkxMMTdrMXJkUHdXVmlzLURJV29DTmZIdlNUVXFVZ2hDcU1rblVUczBLdm1Xb3NLWFcwdHNjTmR0Slc2U0MxY2NKN2J6TmZIaG43d29fSk5fTDZJSUNUbWlwOUtDc2YzeVJWb1hSMHlaaE5QUQ?oc=5",
+      "publisher": "The New York Times",
+      "published_at": "2026-10-08T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "sw"
+      ],
+      "date_kind": "published"
+    },
+    {
       "id": "401c3a7f73e739fb",
       "title": "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90 - BBC",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UNG9aQmd2OEpaVVota1dlRkRkQ3JfWXhVZEREamNMLTBTSl9rbl9zdlpmOEdPdzY0WVlLYkZadHZ0d0VJaVg1X2FOQTdHMy1BUWdzNjU2YkpfZUU?oc=5",
@@ -391,18 +403,6 @@
       "title": "Margaret Hamilton, a Pioneering Software Engineer Who Made the First Human Moon Landing Possible, Dies at 90 - Smithsonian Magazine",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQclplYnFkakszUmY3cWdnNVBLOUxtOW9IUXdHSmpLaDJTYTVucG54dlNYakJabnJZbTB2ZjFyQXY3aXJGeFRkSVlVNmM0d0o4bktEaFFFLUJmSmFUaFZScGpqZ2JONjVISVhzYmRFVi1tVW4zQUUtQ2VrU09EYWxRMTR4RFJsVnhtcGZxWVBKbEdBcEpLa2JQeHEtdGVqcE1CTzB0dk4tWEVEVmVOdk05QVAyVEdueDdZS015cWNTVTA4YjRIN3FfUU5MNUl5bGx0WmpqWjRweGR0XzBiSzEtcDU0Z3JMd01uR3g0a2J2ODM?oc=5",
       "publisher": "Smithsonian Magazine",
-      "published_at": "2026-10-08T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "sw"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "aef3f7e0b0e7b16f",
-      "title": "Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMFR2ZlpwRkYtTDJmOGFnc0ZPY1VzOTZ2bWZXV25PRkxMMTdrMXJkUHdXVmlzLURJV29DTmZIdlNUVXFVZ2hDcU1rblVUczBLdm1Xb3NLWFcwdHNjTmR0Slc2U0MxY2NKN2J6TmZIaG43d29fSk5fTDZJSUNUbWlwOUtDc2YzeVJWb1hSMHlaaE5QUQ?oc=5",
-      "publisher": "The New York Times",
       "published_at": "2026-10-08T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
@@ -507,18 +507,6 @@
       "date_kind": "published"
     },
     {
-      "id": "2faf0204aeeb375d",
-      "title": "Ahold Delhaize update on status of cybersecurity incident - Ahold Delhaize",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYzVQTEROWllYUWQ4c1FHSmQ3V05aZ2JIUUpxbmdndzdWTFRiMmRpNGplTkkxWEJ3UlJzUUZlT2xWYjNOOE8tTkZMWE9wYlpuUEwtWFFwTjRtRWpsUE9zdF9tcVdGVWkwaHFya0NTNW01TWtEQ1pFbUxWdl9XdWpUZ3ZCTloza2QyUVpOUGZOZmhRQWRXTHpxZQ?oc=5",
-      "publisher": "Ahold Delhaize",
-      "published_at": "2026-10-19T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "cyber"
-      ],
-      "date_kind": "published"
-    },
-    {
       "id": "1ed0a57141802663",
       "title": "OpenAI Eyes Acquisition That Could Boost Cybersecurity Business - The Information",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOEx3Zy1mSzNfMW1VYzRzTXE2YUg4alU4N1hVUVJVNGNsR21wY3N4ckNhS1g4UGI4QkxHYWUxSjlpX0hobjJleVJSV096Uk1xRmIxVWMzWXY0NlQ0ZGlOSWxEREhnaHRBcWoyZjlFQXhxSm9RaEdYR1h0YmNndHZQcEp6bVpzREd1MWV5YUF4QU1LR0FH?oc=5",
@@ -536,6 +524,18 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRU02a3ZxaDlRMjlianZFMkFvN3NNbUx1dHE0YzhZT2Z5TnFHbU12SW1GdnYtZ3g1LWJuSGZKRDlCbnk4clRQa2l4cXNtMUFDb1RvLWZiNFZfTk9hVU1kUWlBZGQ0YWNqcmlOaUo4YmxQaUpSU1pUUEN0NnVzUU1SVkx3bFBpa2c4NmdTa29MNUk4Zw?oc=5",
       "publisher": "National Institute of Standards and Technology (.gov)",
       "published_at": "2026-10-14T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "cyber"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "2faf0204aeeb375d",
+      "title": "Ahold Delhaize update on status of cybersecurity incident - Ahold Delhaize",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYzVQTEROWllYUWQ4c1FHSmQ3V05aZ2JIUUpxbmdndzdWTFRiMmRpNGplTkkxWEJ3UlJzUUZlT2xWYjNOOE8tTkZMWE9wYlpuUEwtWFFwTjRtRWpsUE9zdF9tcVdGVWkwaHFya0NTNW01TWtEQ1pFbUxWdl9XdWpUZ3ZCTloza2QyUVpOUGZOZmhRQWRXTHpxZQ?oc=5",
+      "publisher": "Ahold Delhaize",
+      "published_at": "2026-10-19T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "cyber"
@@ -763,7 +763,7 @@
       "title": "Mighty Auto Parts Welcomes Joe Guidry as Product Manager - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdDNOQ0c0S1c5RTlxVEVIZHczcGpLZ1RoSlh1SVZ3M09TYlFpN0ZoMUlOQjcyTUlYN1V6eVFRWDNsMnBjYnhDYXFnVjRBbzdSMHpMTmdveU5sTVoyalQ1NVZvSldHNGZxUExObTlNdEhlUWpHT2JWcVNfZEZOQ01zdU5wUmplRGJsbm1OYnd5amFWcUtRa3Rtb29rcw?oc=5",
       "publisher": "Yahoo Finance",
-      "published_at": "2026-10-15T12:00:00+00:00",
+      "published_at": "2026-10-15T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "product"
@@ -788,18 +788,6 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVkRKdDJnTk85d2tZZVIxU05aSDRGTTdvZ192a2luTFBrSnZnTnhOWHFxNEk4TFR2cTE4ZTBQOFI4ejZLZUZiQ1lvMERObkdmRzFuNDFid3JuT0Y5ZlNMODFHVGhVNGZkcEphcWhIQnZoUGZmU2NyOFNGNjhGaGtYNk02ZERrZGZtcG1ISml3cUZteURabHAwZlp0WnpUcE5EUnprdkdtYmhWY3JZRi1WZkRpOVU?oc=5",
       "publisher": "Qualys",
       "published_at": "2026-10-26T10:53:38+00:00",
-      "kind": "news",
-      "family_ids": [
-        "product"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "a9ec67b5717af23a",
-      "title": "8×8 Accelerates Product Innovation with Appointment of Boris Grinshpun as Global Vice President, Product Management - Telecom Reseller / Technology Reseller News",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZ0M5aG45MWFzSlV0SXdWeUlLOHNPX0dyMTJ2d2dtQThGMGQwREZ0OGNxWWVBSlJnVDNaTmhUTTQ5b1hseWVIREEtNXlhNk96aGNOdE82Q2kzQTZuSWpTVnZNYkF3STZFX2Q1bDlFSTJUdTJ4eHhoV2pQVnVseV9oTnVTTUp4OVFfYUljclpkaUlVTzYycWxMZzd1SjZYUWtnUXR5Y0lQTTk3ZXM0THdYRTBkV3RhX0FaLXJSZnU3N2NRRkp5ajJWLTdZZTgxWmpEMTBwMG9QYUxFSGszNm1ZWUh4azhhZnJWaFHSAe8BQVVfeXFMTW9TdmxZRnJVTFlnQlpteF9TUWQ2M00zOFhYMnh1UHozTTQwNU90QWk1UC1KZzN3bVlURE1PRjdLYmxIUXF0a0V4TTdGVjhpa2xZb2xCUmtMSnhjUGFaS1hJX3oyYVdpN0haYVQ3N1hSU2QyMmlrQXVnNE8tRTl4ZXlYWUpZSDFzYm1sQWRsT0JTeFRkZ1lYREFlSjNkRzZBckxvZ2tzYUtmTEUyblBxX0daMmVMRkxrTk02emlLVFdtWW9hYzRFMGQ0dDc2LVM3LUg2ZldXSFprMm12aGhLODFUbUZ3YkU1ZjAzek9iek0?oc=5",
-      "publisher": "Telecom Reseller / Technology Reseller News",
-      "published_at": "2026-10-23T22:26:54+00:00",
       "kind": "news",
       "family_ids": [
         "product"
@@ -855,6 +843,18 @@
       "date_kind": "published"
     },
     {
+      "id": "ffc2336501614ced",
+      "title": "The Roadmap to Becoming an AI Product Manager in 2026 - KDnuggets",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVHB1ZUc4TXM1V2pvNXQ3RU9uRUtCa2tUbEttVTRfTWhRQWlGWVlxMkFfcnBjQ2IteWowYmdIUVJkQzZHeVFJT05ZZzdqdHJNeXgwWEJmZXBtajVSczV4MkVXaU44bzJILWlSUlNUd0txWHlIcUpBeFpfRVhCWDhvU1RDRXdmdw?oc=5",
+      "publisher": "KDnuggets",
+      "published_at": "2026-10-20T14:08:10+00:00",
+      "kind": "news",
+      "family_ids": [
+        "product"
+      ],
+      "date_kind": "published"
+    },
+    {
       "id": "850f62ec744ad83d",
       "title": "pragmatic Institute Expands Hands-on Workshops for Product Managers and Product Marketers - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUFZBMzBhOEhBXzhDbEFUWlRzOEhXS3lQaGY3YmdQZXRLcWVmajh3R3U2dU9NSDZDdzl1cHdBNExuck9UczR6ZDZmcXJ1X1V1YkVEcHo5NWNpRF8wU1RHTk1CS2pSLUxIUzFMTi0tU1NiSXpjcTlIYmJua0xWcV9rZERFSzJhX2pCRlNFWXpDUnp0cHdXdUZPQklCZ3Jrejc1S084MFNBa1VtMnc?oc=5",
@@ -863,18 +863,6 @@
       "kind": "news",
       "family_ids": [
         "product"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "bba596a0d9f331e2",
-      "title": "Stay in the Know: Keeping Up With Digital Marketing Trends - Business.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZTRWQzBTSUJFd2d2VXF4aWxSLWswaVQ5cUhaT2tBVE9GdVgwX3dhaFl6bmJkUWZsZE5sT0pKM1p3WEl4YnZTUUxjdll1b2RCZ0ZVMnc3NjJhTEJtSlFjOFN6NnV1ZkZzZXI5aFFjLWpxeDE0MjFOOW1uVFdJTVFldDJmT2QyZw?oc=5",
-      "publisher": "Business.com",
-      "published_at": "2026-09-28T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "marketing"
       ],
       "date_kind": "published"
     },
@@ -891,11 +879,23 @@
       "date_kind": "published"
     },
     {
-      "id": "1daf2ab65bde74e2",
-      "title": "Cardinal Digital Marketing Debuts AI Growth Operating System for Healthcare Marketers at Scaling Up 2026 - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS1E5SldzT21rM0VVQXhRQ3UxRkpReHhYUEk4cXZlSHRqOF9zdURVSlJYLTRQNzc3bGlLczlLVHR5eEtmX0Nub3E2YWdCTG42aDhSOUZ6eEpCd0xVZklWQ1NRcE15aXJMOWVXSHVRWURPUXhITTZkbzdId1JjdzloR3piYjllUy1hVlN2TldhZjl0bzBIX0JzLXZmdWdhQQ?oc=5",
-      "publisher": "Yahoo Finance",
-      "published_at": "2026-10-01T07:00:00+00:00",
+      "id": "56e24f2554125418",
+      "title": "How Liquid Death is building an AI-native marketing organization - Marketing Dive",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRnF2TDNEelpibUdkQnY1a3BzSzBwZ2pJd2o3TmFuUWJOZFJCR0tIdE0xbHItSU1HV1NCeEtzcDBSM2NSX1VrTWZENGpBMGVnVkZ3UnpwY2hqNnpZcmVMX3AyMEpaYjZLb1R3ejhMZmVrQ09wU0xXWHNxVEdkNE1NbEdNZk84RVYtMEZZeHdvUkwwZmJpVmVSaGV1SVZmcVJWNVh6d292bE4tY1k?oc=5",
+      "publisher": "Marketing Dive",
+      "published_at": "2026-10-07T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "marketing"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "ca5f65d7a8f4a2e8",
+      "title": "How Power Digital Marketing Transformed LoveShackFancy With Generative AI Tools - Muse by Clio",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV3VyMkdnd2VaSVNjT3FzUDBKVDdTWWZBRUIyOWlZRWlkSUFFb3FUcThILUEtdEdnaXQyZC1qX1hPajl4ZzNPcjlPcl84V0ZubGJCR013a1RkVGF0a0wyTlkzZDl6czZnWVV6MVNrSi1rbEJlbkFrTU1xcXRlTkV1ZWx1c0JBUUQ0b2xNU0Y1Z094Tm1WSFA0Y2szWEtrT0pJckpKY3kwa2dUamxqV2k4bloyMEdIaVp5d2NSRw?oc=5",
+      "publisher": "Muse by Clio",
+      "published_at": "2026-10-22T20:01:03+00:00",
       "kind": "news",
       "family_ids": [
         "marketing"
@@ -927,6 +927,18 @@
       "date_kind": "published"
     },
     {
+      "id": "9bcb7e3ecb6d27b1",
+      "title": "Can Campbell's Digital Marketing Strategy Fuel Everyday Meal Sales? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaU11bDVRN2Ezb2F5b1NNay0tcVc1UnpSUk5ZZTlfZFVja3o4LTF4eDlqYzkyaE1YaU1KelEtdGhNeVplUEt0cElYVVYxeFJ4UjZ1U1ZTYlpDWVNuWHU3MFJ0OHhKR19XanVpVGhIdEw2WTBSVmtka05Wc3ZrTkZ5VU91Z1VITFFMUjg3Qksxb3M0ZGpBdmZ5TVlteXBoTE9GTkpqMGtsZU91RUVoS2c?oc=5",
+      "publisher": "Yahoo Finance",
+      "published_at": "2026-10-20T12:30:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "marketing"
+      ],
+      "date_kind": "published"
+    },
+    {
       "id": "06d30083aec0ea05",
       "title": "Opinion | I Started a Business Last Year. Now I’m Getting Crushed. - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9VdHdYTmpLVExNUHpXSHQtR3RtUjFGQkZZdGRHZkNpSE9mbzV2U1pYZ3BwNGt3cFNMTm9RM0hLb0p3Q29UNEtfS1JyZUxQenRrZ2U1OUFNY3pMYmdmemExN0Rxa25vYjc3V0IzNHVScWNmcUN3SmRhZTRRWEY?oc=5",
@@ -939,11 +951,11 @@
       "date_kind": "published"
     },
     {
-      "id": "5d818df159904bd7",
-      "title": "Rhythm And Reasoning: Digital Marketing In Our First AI Holiday 10/13/2026 - MediaPost",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT3d0V2c1U0lWS2ZCdE40ZmJPOWdnc1d1WjktWEt6YnhiZmt1VW5ybTJVYTg1d19FcFV3MWtGbVRXcVJqOVUzRlJYWUp5SGIxNmdoQkdHV3FpX2UwWklTZC05UlZKR0lSYjRiRDNHOGlwZVl2VXZYcGJZbDZPQjYwNWNyTlRValIwTXI0dV9OWVBLQmFZaFlNUlRlMXRCRkdUX2c4LTVUSjRXV211enZGZzRlNE5OLWZOenB2TGo2LUw?oc=5",
-      "publisher": "MediaPost",
-      "published_at": "2026-10-13T07:00:00+00:00",
+      "id": "ed80b93f3c85ba28",
+      "title": "New digital marketing firm launches in Hoover area - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMTNDMjNONUd3Nng5cEJWZGc2MGFnU256M1owSFdNRzJRMHhmVk41SU1DSTZyWlotUFd6eHVhSXdWZFF5MkZvNXBYTjVtUlR5b1E4V3gyd2ZOQTdWYVBjQ1pLejNENGRKTEVZSVo0MzdZc3hyWFhYVmI1NFc2MXRvS2xjT3ZHSHpKa1FYbzFMWUVIaWp2R282WVZ2cmlfN2xSeDhFSm50MEtqcmUwYWc?oc=5",
+      "publisher": "The Business Journals",
+      "published_at": "2026-09-28T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "marketing"
@@ -963,11 +975,23 @@
       "date_kind": "published"
     },
     {
-      "id": "ede971ce2e86518d",
-      "title": "Top App Marketing Companies (2026) - Business of Apps",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iOHBIX2I3SmVnTk9lM045WEdzeTBkNjlZbTZHTEVZbUROLUY3bEtMaElEeF9HMXI3bDVMS3NVSWZKWTN5TF9pRnJqUDBPdEtkMUNzQ1kzYUhkV1RTOF9uYUNLb3I1OUlK?oc=5",
-      "publisher": "Business of Apps",
-      "published_at": "2026-10-23T07:00:00+00:00",
+      "id": "10b63551b9ce2ec5",
+      "title": "Generative AI transforms internet marketing, ushers in ‘citation economy’ - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTnBMX1JwX29Tdzdvcmd0YS1uZGZKc1RyYnRSM0VBZEF1UElWOFRRNjBKQWlhQ0NSNGVJMTV1ekszRlJJRkxQNHJCa0c0N0VFT0RzZnQ5aG82MEdHbzF6VDl4UHZrYS03cTVYTXZFTVpWZXRlSnV3TlMycXZaaFMwdHVjVnhmU0dNbXd3cXJhOEdTZVhENnlxdFBRdHhzQjhkaHc5cGhOdzNoSEtpaVFV?oc=5",
+      "publisher": "Anadolu Ajansı",
+      "published_at": "2026-10-13T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "marketing"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "811f127fd00acd72",
+      "title": "PaperAirplane Media's Digital Asset Management Platform The Hangar Surpasses 2 Million Digital Asset Downloads - Boxoffice Pro",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVnlSZEZSMXlOV2ZRbFlYbi1tcWthcWlGeHZTdTRLVS1JdmVoc0JBb09CY1FVMDZVMjdjejFNV191UEJadDlHbGhscll2ZE0zTFVFUV8zQVZsRnBoQUtTaUoxcUhKaUdWc0NtSUgyMFUwcUYtVTR1V2ducEVzUndCWHJWM2dCS0p3S0xIeGNheVJJbmNTSHlxWFhrUjA3bzcwbXFVbHV3SklLbV9kMGNFV1ZKMWhNYlI1TzBfb2Zvcm02cUFpUFNQUVJ5OVJRa1VOaFp6SDRR?oc=5",
+      "publisher": "Boxoffice Pro",
+      "published_at": "2026-09-29T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "marketing"
@@ -999,11 +1023,11 @@
       "date_kind": "published"
     },
     {
-      "id": "b91239ac58577f1e",
-      "title": "Digital marketing 101: How to get started and grow - INQUIRER.net USA",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tTW9QZ1A0WS1wV21WWnh0QkFEWG5HVjNpUTNJdVBBLUNHZUxMSXVnQndsekJmM3hFb3pjajJrNURhb0tvLU1ZcWxIQXYwQ1BIZG5JekZoX3FZdkt1YjVpR1NB?oc=5",
-      "publisher": "INQUIRER.net USA",
-      "published_at": "2026-10-21T03:33:00+00:00",
+      "id": "02370ce753410053",
+      "title": "DEKUPLE Group: H1 2026 RESULTS | DIGITAL MARKETING GROWTH AND IMPROVED PROFITABILITY - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPamFjNi00djRFYm5NenFndzJISFB4aGF3OFBqMGZTWTQ3SEF2dkF4WDdUaUJLRHNFM09RTUZyaVlJSDc3WlN6UEl3OU9YbkkxRlJET0RoUm95WVEwUkRaNTlvRDNMZF9PY2dzdzRKWlN6M1hSY1V5UXZqdjhEOEx6RzExTkc?oc=5",
+      "publisher": "Yahoo Finance UK",
+      "published_at": "2026-09-28T05:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "marketing"
@@ -1011,11 +1035,11 @@
       "date_kind": "published"
     },
     {
-      "id": "11f28713527cb7cc",
-      "title": "Can Campbell's Digital Marketing Strategy Fuel Everyday Meal Sales? - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdXp5bDNBUDZSMVVuUEhTZGZ3bjE1VjJHQVNha0x2Zkk4VC1TaWVOSjVveF9WX2tkaFY5bWVEMUxxNHNvbVZLM0dadHR6Y3VOYTFRN1VUenA3dWVDTkc5d1h0Y1gyM0NHaWNYWUFWeTlTZDcxOXVZbVp0MnhrSy1PSGRIMFNFbzBhb0ZZMlZOWEJYM1ZIaXRmb1BKcURPS2RWaFJmMkVydkZ5a0ZjTFpnbW1kVTB2aEtmRkNPZFF3?oc=5",
-      "publisher": "TradingView",
-      "published_at": "2026-10-20T12:30:00+00:00",
+      "id": "e646559960aacbe4",
+      "title": "ECD Digital Strategy leader on making the Inc 5000: 'We're really just getting started' - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNkdkVFBPMzRjMF91MEtlZ3VxcG1XcFhvb1dPa01jdDY3RTRDS2E5b285MG50alBzOXNXeFdYeW9kYXZ5eGQ3cVpyWmZsREJoSkRSZnVmX2x3cTVXVFlsTEhsa1FuMkhhX0t4aDU2cG03Z1FidmtxRjNoUEh0cnJ4V25Jdw?oc=5",
+      "publisher": "The Business Journals",
+      "published_at": "2026-10-04T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "marketing"
@@ -1023,34 +1047,22 @@
       "date_kind": "published"
     },
     {
-      "id": "057282193ca6f07f",
-      "title": "165 Digital Marketing Statistics (2026) – Market Size & Growth - DemandSage",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsWFBzVzlvem1RaVJVdzZiR3NvaWRCQTNJQ0hhTnhlRnBMbmUweXUzQlowS1VuWXlkSzZSMGdNRFZXU1RJY1dhakc0WGktYm94Wk9FRm0wSXNDd1U5OVJxal9RdThlZUU?oc=5",
-      "publisher": "DemandSage",
-      "published_at": "2026-10-15T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "marketing"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "36fd1a1f32337acf",
-      "title": "How New-Age Social Media Marketing Is Changing and What You Need to Know - Business.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOay1UYmpmUElDZDFfcUUzcVhsNXRwNjl4SjVBQnpXWTJlUlBCd0pxano0aHVwWFpwV2gyS3dYSDl6bnFWbjNTQnJvWjV5NGVoSjBMX0pCR2Vza0lpWkRwZlh4czF5ZFAwQ2ZOTkdldmI0elpkel9YY2M3SkVqS2FRSGw3ay12Z2lnalNDVVpuSGQzcEtZenZhZWlESWRZd3p4cjh1dmZBYm5MVlU?oc=5",
-      "publisher": "Business.com",
-      "published_at": "2026-10-20T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "marketing"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "adfb49a55f59601a",
-      "title": "NEO Battery Engages Connect 4 Marketing for Digital Marketing Services - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTTlNaTUxN3R1aWM0dXBCdFFLd1pLWDExYnhXeEdJU2xDczRNNXI5MWhEYklNb2RLOTIyRU5KNlR1RWJkWEZVT1c2TF9RZy1naVQzSXFMWDVNbmlRU2VvVGVMS016VDRiNnQyZXJlOUZtZGtQRXQtM0VvY2RJcVJsaXFYUWR3Sk82V0VINHNOb2o3dng0MGVNeXFaM1ZjQQ?oc=5",
+      "id": "730dcb6eeb573f32",
+      "title": "Andrew Garson Opens Applications for the Andrew Garson Scholarship for Digital Marketing Professionals - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaVhiMFJaWkJqUVNUa2kzeUpQLVg5THU5QUxVaG1mY0J5YjFkNV95eUF2TjlhZUtHbzVKZlE1ckgzUC1MNE1iWVI0TEZfVmVwN1B3MlcyaHZWalI4OU51alg0Tnp1ekdPMW1OVlhTTGd2aG5ZbUFfcjEycENFT0FTeTRXcUpzdnZZajMzSTFOV2E1cTlpUHlNWHliQXNGYTNrZFR2cENSRGJfX1k?oc=5",
       "publisher": "Yahoo Finance",
+      "published_at": "2026-10-14T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "marketing"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "08b1fb97c8248273",
+      "title": "NEO Battery Engages Connect 4 Marketing for Digital Marketing Services - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQczJzX096ckMxSnRLV3dRTVIxdEhfMEV3cmIxRGtKMVB6OGktSjlTcTBQVG5aQ0dPZEZ0ck1QNEhXU3EzdVVlNVJyU0xvVkp3a0dwNVNiLWQtU0FIWDBEVEJHeDRCNkEzNlJrVXc5SkY1cTNYZVBkVkNLZDZkTWp0ejU2TmM?oc=5",
+      "publisher": "Yahoo! Finance Canada",
       "published_at": "2026-10-26T12:13:00+00:00",
       "kind": "news",
       "family_ids": [
@@ -1064,18 +1076,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS1BnbDVjeE5UX2pJS1Jta1luMUxuRGhaR3NtblE2Nm5HOTVZczNUTHlrTWo1cmg4SjVaQ0hGWTMtTWJFUm91Vjd3X0ZwR0p0SnpQSGVRel8wZU1mMWJUbTU1NWdOdTZyZXRsMzRlZDdxX1QxTFZIV183VDFQZ3JDRHpITW9Ra19n?oc=5",
       "publisher": "Yahoo! Finance Canada",
       "published_at": "2026-10-01T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "marketing"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "45aac917159458d7",
-      "title": "White Coat Web to Share Digital Marketing Insights with Independent Practice Owners at Two Texas Medical Conferences This October - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTTNWQ1pkSHhwTEhsa3VuSmpLdGR4cFFDODlteGJaM0lLVmpFUVZNeHhPZTBKdEprSUpraGlicDZHXzU1QTQ0Q0ItZWIySnhQU1ZTalJDY2RBTUpoRUV6ZV80d2wxdjdxV2cyMGpfSkNqcThrMzVPbXFneExUNFVnbjVETXBOZUw5bWZQTTRsRFdqa0VjeFRBNmJYRTBlb0pIdG1SWg?oc=5",
-      "publisher": "Yahoo Finance",
-      "published_at": "2026-10-16T12:41:00+00:00",
       "kind": "news",
       "family_ids": [
         "marketing"
@@ -1239,6 +1239,18 @@
       "date_kind": "published"
     },
     {
+      "id": "cf46920ec2ad34f1",
+      "title": "Inaugural Arts Business Cohort Culminates in ‘Making It’ Showcase - City of Boulder (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU3phUjI2NmFXcjBmUUtLSEVtcm8wamQtUTNSWGN2OGgyZGNDTktMS3BpdUY3LWZfOFUwNzNQdkJnUlBOaHlCRGF2b1d4dGxiTkxrYkNGOWJuRHFVaDZoVVFnWFJURWppRE9mWmdkN0FoblQ5ZjExcGt4bUFTX3BlUlRZaDAxU2FSLUpqblhBTHRoaWNxbnVxcg?oc=5",
+      "publisher": "City of Boulder (.gov)",
+      "published_at": "2026-10-27T12:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "sales"
+      ],
+      "date_kind": "published"
+    },
+    {
       "id": "8b99d587f7c92fea",
       "title": "Helping small businesses put AI to work - OpenAI",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hblBZcnhraWVOaEE1MTZnS3F5bUFYRUhRdm9jMlZvTUxrdlhCMHVYYUJHUHNaNWxmcGJlVTFyc2laSHRvek14Z2N0YmZfeHVBbUVudlQxWTBqTmdsVDl1VFU5YlJVMkhRZmtHbDhBZDEwTEU?oc=5",
@@ -1256,18 +1268,6 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JUndjNUlQY1hXUTVjdFhheWRLOXpTTWg2bnZCNERmTi14MTQ0a0ZfNXZMQXdCcTl6ZUM5ODNwc3ViZlhrY0FuTXRKallOT3J4M01tWGRITTdwaGxLa2hN?oc=5",
       "publisher": "The University of Rhode Island",
       "published_at": "2026-10-26T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "sales"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "cf46920ec2ad34f1",
-      "title": "Inaugural Arts Business Cohort Culminates in ‘Making It’ Showcase - City of Boulder (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU3phUjI2NmFXcjBmUUtLSEVtcm8wamQtUTNSWGN2OGgyZGNDTktMS3BpdUY3LWZfOFUwNzNQdkJnUlBOaHlCRGF2b1d4dGxiTkxrYkNGOWJuRHFVaDZoVVFnWFJURWppRE9mWmdkN0FoblQ5ZjExcGt4bUFTX3BlUlRZaDAxU2FSLUpqblhBTHRoaWNxbnVxcg?oc=5",
-      "publisher": "City of Boulder (.gov)",
-      "published_at": "2026-10-27T12:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "sales"
@@ -1316,6 +1316,18 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONzJEanVQYlFGY2pNd3VnRC1zZllfbG1LLVRsVWwtbGtMNVNsVWZ4Y3k5M09OZTBNdWdTUEVScUVMeXY5N0I2UElNVFdkNUh6R2IxUnlWMkFJQXA4Nm5rZ3VUNGlIOXVqSnEteHRQekhOS2I4YUs5RmtlQ1RxUi1tTmpSUFJjQXlpa1pnc2steERfdGRMaGFtby11cWdzTXZEcTV5alhR?oc=5",
       "publisher": "Yahoo Finance",
       "published_at": "2026-10-25T14:51:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "strategy"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "d58afef8ee76a3f6",
+      "title": "Business Strategy: Re-Centering Ethics as Pharma’s Competitive Advantage - IFPMA",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaF9yWTliVVAtV21PT254bHE0dVo4NEktWTRwVVBFdUhkOVJyZmJGYVVvLW9vX0RRWWFSY2hoVTU4bDJyU0NMdGZ3dlFsRHBSWVNtV3ZhSEtBWTdJY1VEdHBuZjc5T0hIUmRVdlVDOXZCYUJPOHFwRjZBVnNwdVJVOTcxcTZkU3l0NkJRX3VTRTV4X2IxU19ISmtCZ1NxQmtYMzVodw?oc=5",
+      "publisher": "IFPMA",
+      "published_at": "2026-10-21T07:10:27+00:00",
       "kind": "news",
       "family_ids": [
         "strategy"
@@ -1407,11 +1419,35 @@
       "date_kind": "published"
     },
     {
+      "id": "47acf3082a48edac",
+      "title": "What Sets Great Strategists Apart in the AI Era - Harvard Business Review",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zNWhrUTctd3RBRlNLUm1Kd25wQ1IwX05YQ2FrZ29Wckx6Y0c1UF9sbERublpVcTdSNE9hcmhVSkZPT1MwNngxZ0ZmejBCTW9zZWpSVy1pM1BhRTVyeUtOTHNyMGFtLTVvZk1ZLVJmV1hUZW1xc3JlZEY3UQ?oc=5",
+      "publisher": "Harvard Business Review",
+      "published_at": "2026-10-13T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "strategy"
+      ],
+      "date_kind": "published"
+    },
+    {
       "id": "96bdf023ad896214",
       "title": "Watch Robinhood's Kerbrat on Business Strategy, Crypto - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdGNCVUFDZnNQaVdxZTA4cnB4cjc0MDQwNlhfVERCRFExVGtycHd3LXpYNkNHbjBYSUZiUU9qaVpVMThYTDJGbk9XNjdOLUZKWTZxOFJSXzZiNUFtWENRVVU2Z3pqbUlELUlWT0lwYTQ4OG12U3dpN2ZJTUt6dzZ3c05sNDVkTjVxOEFKcC1TbHZ4RTQ2TFNFbTFLUlJtRGZubEM5aA?oc=5",
       "publisher": "Bloomberg.com",
       "published_at": "2026-10-07T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "strategy"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "e99695e1ffbd222b",
+      "title": "Business Strategy: Oklahoma aerospace is entering its next chapter - The Journal Record",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc3czbjN6UEVkUTZ2c2JmLXNKSnJWbDNFMUYyQ1lGYkIzOWRBVmFuUTZoSnJjMXZlRTF1eHhqQTc0anBEUGVneUtyOEF0RFdnbzExZklhQlZMSmxISFc2a2dHSnFVZDBhaWhKNkdZZF83a05aUDJBTlJLRzBSU2VWMDZrS1V5NnpsTTZXRVdtTnJiQ0FIMTZQRA?oc=5",
+      "publisher": "The Journal Record",
+      "published_at": "2026-10-06T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "strategy"
@@ -1455,59 +1491,23 @@
       "date_kind": "published"
     },
     {
+      "id": "074eabca5fa1c73e",
+      "title": "How Family Businesses Should Plan for Generational Success - Goldman Sachs",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRlJJMHJXX0hxVHZ1ekYxMTRQVmZQdXNfQVdtTVk4OTJRekdQc25iU1VBVkl0N3VWRU1nSE9ZVkxPWEVQSUs5OTRyeXdQdHJqSjR6T3pBNTFaR0pFckNmS1J1QTFsSGdHYk9WTDBaRHZwVkwyZzJJbTdkcXVNZ3gxQUZwSWdJVno4WEpWejBvVHpTdGNzME9Zb0dzdXo2VEZXN09aSnpfYkZ0T0hCWWZHY0N4X3pDNURPVkVqbQ?oc=5",
+      "publisher": "Goldman Sachs",
+      "published_at": "2026-09-29T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "strategy"
+      ],
+      "date_kind": "published"
+    },
+    {
       "id": "01b4f28928431c09",
       "title": "Optimizing, not abandoning: How streamers can earn a core spot in consumers’ entertainment portfolios - Deloitte",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcVBCVUVxWjdyNkp6VkxIbVFnS0hqS05rUWc3dDRJN2I5LXdwWDl5VVJsdFU4VG1vRlNId0l3XzN5VmxrMGF2Nlg4OUZ1YlBSRk9RaXM3S01TX19uQlFIMWM4bC1iX2psY1c0S1VWR2lGeDNjNmVJOEhZZ0NHWHFEa3NrMjB1bFBGNnlwME1sZVZZZldKSjFNSw?oc=5",
       "publisher": "Deloitte",
       "published_at": "2026-10-15T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "strategy"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "182a0df014f54903",
-      "title": "2027-2029 Strategy - Arcadis",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM0Y5dWhUVTV1djgwNjNYaWpLY0E2STc4SmJkS0N1dS1kSWh4OVQwbFhUY1VoanVvVmYyZDJSN2FNX3RFeU44UmplSGZoTUdiS0xZVGVUWW9VTzhwaDc1SUlhQmdBWmRTc19mV1BSQWZyTUtoZjFEaDBMMW5VS0xvSUN1c1Zrd2tJemZFVDBZM2FWN2ZEX0NuWE9jX1VqR2tBdHZpTWxpa1JWbTZJLUkw?oc=5",
-      "publisher": "Arcadis",
-      "published_at": "2026-09-28T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "strategy"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "8575265fa92b48ad",
-      "title": "AI in Business Strategy: 5 CEOs Debate Judgment Gap [2026] - shattered.io",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhSHNPV1F2RUEtMnk3WXhfZXJ6U2ZIdWQ5UEdDbUhKeUFpMVROVWY5c1M5MTRsVWQ0dG1Xa0tUc2wzZEc3VDRPR2dQNG1KMy0yMGVIbldNRjlIbWhnMUFkcnJVVGpVMGdYWTdDMg?oc=5",
-      "publisher": "shattered.io",
-      "published_at": "2026-10-19T19:11:06+00:00",
-      "kind": "news",
-      "family_ids": [
-        "strategy"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "be433bfc192ccf56",
-      "title": "Coca-Cola Business Strategy: Distribution, Bottlers and Re-Franchising - FourWeekMBA",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1USVVVSFpVYTBydjRUY3JMQk81WWxrdkRkdXQ1M0pLX3J1dU4xVWExRlFOYl9kbjZPdm80WGZOSkhwNEV6YUZfdDNXaHpvbEZucndhQVVRdHZPOTNpOXpfVFpR?oc=5",
-      "publisher": "FourWeekMBA",
-      "published_at": "2026-10-19T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "strategy"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "9fb369f1f0af2886",
-      "title": "Visibility Is a Business Strategy, Not a Vanity Project - South Florida Caribbean News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JQ19DLVJPbUlfY2dHbFVYOFBLRHotNTZNdnVVUFQxUHNVekhlSmdacUJrSXVON3A5ck1EWWI3WTdkOHplM1VEOHVBWjR0ZGFVSjllXzVHQUp1S2xaY0h2MHZUdjMtNU9ZRlVubmp4b0JxQ2s2bTZDdEhkcGJaUdIBgwFBVV95cUxPeUZqQk1qRnphTUZrdU1UZ3B0Unh5d2htcUZTbDlSUE5ucFNrN1N4enZNRFVUTDdOclF5NDNSWndjVUVJd19qczlwOEM5Tm05ak9TN3hTV1JLaXk4X3piT25uYnR4MlVkTUJROVZudENWZVpmdzljN3lSYUpwX25rd2xGNA?oc=5",
-      "publisher": "South Florida Caribbean News",
-      "published_at": "2026-10-01T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "strategy"
@@ -1539,6 +1539,18 @@
       "date_kind": "published"
     },
     {
+      "id": "a58300e576120bce",
+      "title": "11 Types of Business Degrees with High Paying Careers in 2026 - University of North Dakota",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1EM0FJMDVmWE1ISVNSZUpUUkxJaThJcDdpUWIybE5RVlNjcjFSWG0zaGZVSzBhU0l4OEZ1eDUyQ21VcXVGMDFBanVzc0VoeFAwMmkzdXB3eWNvd3ZYc3RzVg?oc=5",
+      "publisher": "University of North Dakota",
+      "published_at": "2026-10-19T18:36:36+00:00",
+      "kind": "news",
+      "family_ids": [
+        "finance"
+      ],
+      "date_kind": "published"
+    },
+    {
       "id": "b9031983b506e9b0",
       "title": "Agentic AI systems in audit: Reshaping the enterprise - Deloitte",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWs3aEQyMW9TeU85ajNqamRna1JwSHo1dDNGOVNyU01ZMUN3Z3A0aTdLdWE3SXFqZ3lPM0NzZ0hjN2JuZG5LS3p3WEkwUlVzbmNucVp4MVp6WWVKMGdPeUdFU0QxcjJjRm1uaDlpWlVrWXBIcFpzNm9Rdm9ISGlCUkRwWVRiZEw4SDdsc1NzVWVhNlZJRGNmc2VkX3lua3FSanFUUi1TZmJBZU8wb3ZrNXphUWhCdWZxTjUtSjZ1d2VBYV9WN2w4enE1OA?oc=5",
@@ -1551,11 +1563,35 @@
       "date_kind": "published"
     },
     {
+      "id": "a5bce63cd5272ed1",
+      "title": "ISG Provider Lens® Finance and Accounting Outsourcing Services 2026 - PwC",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVjdCcjZtWnQ1RGI0NTJ0REhuOGt3Q0toc3k4dnpIcDlCRDdWdVo2UURNaWNDTGlPRV9ubG9ETEExYV9GcFh0VUdxZjMxZ2NFUkhXcjh0WF9KVHFPY3p5emZLd09LWERtRzJRTXVScDJiTGtlRFdxT2lVLWtWZjdYSDNrQVJ5RlNUdHkyaG90N3VCVU90U1c1SC10UUppMDNOYmJSRldHb1A1dFBfLWlwZ05rcWpVQ2hYMER5a0hCUnAzTjNO?oc=5",
+      "publisher": "PwC",
+      "published_at": "2026-10-09T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "finance"
+      ],
+      "date_kind": "published"
+    },
+    {
       "id": "16fe444f20380844",
       "title": "Is an Accounting Degree Worth It? | SNHU - Southern New Hampshire University",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQi01UW8wRTFRVEgwLXVqR2JVMFpMZHh2V0tCN0VqY21HNS1JZThJUl9mQnp2T2VnSE1xbjFKY3F6UnlYY3NnUE1kLVY4RzRyM2RwVUdsZG1zaGZyd0VXMEdlZVRYamllVTVMT3gwVTVYMm1rSWFSc1RMN1FTenQ3UXpCdE9WaHM?oc=5",
       "publisher": "Southern New Hampshire University",
       "published_at": "2026-10-16T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "finance"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "8704a7bedf474869",
+      "title": "Accounting Brief: Financial reporting implications of tariffs - RSM US LLP",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU05pX29UeE9IWm5kaXZGYW1lemdPYWpleWlWbG8xWWRXRTdaZTc2dlRkUUxIdDNYcUdqakZSeEt0TnRWek80UzZkQXRIRVRqQXZ2Yy05ME1TbUgzZmgtc2FraGg4aXhjTnE3SEcwNmhpdnFCd3VLUXZOQ3UzbEtGMktuTWtjVHFLZXo3eVZtWE9CQWRtREtyelBQRDV3TGdiRlV3VGFjbDdJV1NKN2RJRA?oc=5",
+      "publisher": "RSM US LLP",
+      "published_at": "2026-10-24T19:11:32+00:00",
       "kind": "news",
       "family_ids": [
         "finance"
@@ -1599,22 +1635,10 @@
       "date_kind": "published"
     },
     {
-      "id": "e2f4be2f1f15a9c5",
-      "title": "Profile Products appoints Mark Spencer as chief financial officer - Produce Grower -",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVGswTUJFQXlRbG1pQ3JXcWR4dUxqdlFuQWpKUXhaeGFlVFRFZjRWd3ppX0N0MndYcUxqd21iLXY5UFVUOUxlM1o2Z0ZvdVdTS0NMVS1NWnQ3Tnpod2NYLUF0LXNLdHpCa1gtMUsyODBHR01ZOXI2X2RiQTN0QUhqdzZlc2xqWExDMnpaSER6YUE1cE43VVE5a0xFMzJQTkZkMFZ3ZEN1REVQUQ?oc=5",
-      "publisher": "Produce Grower -",
-      "published_at": "2026-10-14T15:05:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "finance"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "2b19e782199efb78",
-      "title": "Blackline CFO focuses on integration post-NetNow acquisition - CFO Dive",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd1Z1eERUS3BBYU1ZZ3k3cXJOMFU2by1ic01mSTJkLTktYUZ4QVQxZEUxR3hrdUJ6UjhXcE5WTnRwU1cyMVJRaVJxWVhuUkhYRjZOT2tfOXBPRUlFNFdSTmpNMDhDeVphYmFUeFVoWFJPaVBKX0tYUmo5MVBsN0hhNVNDaHk2bzRPbG9jYXBVdGQ0Szh6TFh4aFVn?oc=5",
-      "publisher": "CFO Dive",
+      "id": "fef4886f725e06dc",
+      "title": "EY named a Leader across four quadrants in ISG’s Finance and Accounting Outsourcing Services 2026 study - EY",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQS0FMcXFHU3JlMlkzdGp4YnJUWWRwWi1KOXJuSzBXb1ZVT3dJSC1BdVRvYkhOQVRLdTcwZTM4M1ZaemZHTlI4UWZGOUh3Z2IxRWR4MFl3b1hZdmhDdng4aHZVYUN6UWhXUlhndHJxejA5a1ZiT0lnTzVhSHNac0xfZE9VdXJEaHVZUzNqQ3dvakYxYkdLbkxuYWlnSTJkR0ZuQlNxM0dkZ1BNYThGMGhDVmRZQ0lMek5hU1oxZXVRZzUtY25FWFlSakEySk1tSmszelE5R293QTlkZjFZ?oc=5",
+      "publisher": "EY",
       "published_at": "2026-10-07T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
@@ -1623,10 +1647,10 @@
       "date_kind": "published"
     },
     {
-      "id": "f66e69267bcb53fd",
-      "title": "AI tools for finance professionals — Which one and when? Part 1 - Financial Management magazine",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUEJObUR6RFRfamh5UGtnS0QtS2F4ZUFfVUJUQVNna3U2MlBkMHNKenN1Wk0xX3ladk1tcnlwYm5ELWxjMFkwdW80eG9yRFZvR1VCS0dOY2VsNkp1ZVlEbUMzM0oxT3pabWhUa1Zia3BnTUNnYnlvQ3o4aFZQenNNbndPU21MRXY4UFg5WEhvSXhzZ3JSYmZza1JGQjdTZGVBbzFoRDVnWFk?oc=5",
-      "publisher": "Financial Management magazine",
+      "id": "acaa7f26bf8f5924",
+      "title": "Butler County mental health board eliminates finance department after audits find accounting discrepancies - Journal-News.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaDcybHZVSURwZjJoVzhodkhhUW1nRk92dUpSakZSQkhpbXRPNFFpS0xaS05qMUU1X1FOckl5cC1NYmhyaDhjenV6NnlYbTBLTUJ2MDdhdkVCQy1lRWJBeTNXekFPMmJiNFhuUF9LSFVLUW44NkQ0TG5QTDdkbmF2VTVCdkw3cHY0WllZcDd0R2E?oc=5",
+      "publisher": "Journal-News.com",
       "published_at": "2026-09-29T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
@@ -1635,11 +1659,23 @@
       "date_kind": "published"
     },
     {
-      "id": "97f4bb1399b2b800",
-      "title": "Graphic Packaging Holding Company Appoints Aditya Gandhi as Chief Accounting Officer - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS1huZndzZjhoeG9CenpxUlN1bnVmZHdxRFZKVmhmSzFaT0ZTTlZRbXVtYWpxaDJlUV9ib0RnM1dHNFh6dEVJUDBDcDIyVG1NMFM0bTBCdzdWcW4yN0xiUDFYM1llQ2kxekplb3JhVW92dm1uWkZFQ01DWldtOXg1OV9MZm9ZX2w5T2M2ZjFCZ09rdlZQaVZjeUVHUnh2Z1dsb2lPTjBaVVRKTzA?oc=5",
-      "publisher": "Yahoo Finance",
-      "published_at": "2026-09-28T07:00:00+00:00",
+      "id": "34231178cfcec373",
+      "title": "Accounting firm HBK adds The Curchin Group of Red Bank - ROI-NJ",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbi1Kd0QyRWZhYXNDQUt2NUxHQ1MxVi03Z3JycHpEa2JObUNyOFpMMVdTT1lKaDFOYUNkekRHeEU1NlhMMzUwNnVUYzZfRkwtZ1Nyalp2MnNONkxtcXRzcks1T1Fqa1BBSnVSUzVRQ1hoTk9tZTVDS28ybjZPdXB5Vld5YUxQdXdKWnhILThFWGJSUFNyME5xdHpDZ25mNjZuc0VBdmtQaGd0YjNoYVlrVlJWdG1pT1pnYUlqWHhQampxUnM5?oc=5",
+      "publisher": "ROI-NJ",
+      "published_at": "2026-10-20T17:50:26+00:00",
+      "kind": "news",
+      "family_ids": [
+        "finance"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "431a5525e2d27259",
+      "title": "Senator Asks 4 Accounting Giants to Describe Malta Tax Advice - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbTN4TEZyd1AwSzZhSnB1SnJmR3liYTI5bVI3WVNlV284dTFJLXNVY1cwTXFUYzMwbE9PZlM1M041Z0J0ZXdSUjFXcTh0VENmVWdpNEV5a2FiUGMtd2lsX0UwdF8wVld1OV9iNzBsdkFSS194LVFiMFVlTWs3aC1KWURkMlZEdGM5?oc=5",
+      "publisher": "The New York Times",
+      "published_at": "2026-10-21T09:02:33+00:00",
       "kind": "news",
       "family_ids": [
         "finance"
@@ -1659,23 +1695,11 @@
       "date_kind": "published"
     },
     {
-      "id": "fb8f7d9851cf18f4",
-      "title": "Profile Products names Mark Spencer as CFO - Lawn & Landscape",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaXQ4X004cTBuOG1PV3NsUWNUQi1BLURzUjlMeTVTUFhaNnNENER6VmZlcjJMUjVBVVdBTzAyTHNoZWJkZzZBTGQtY0k3bG1EZ1paWl91VFhwUURYM0JFdGxhYzVHcDVLSmVITUI3elhEclplamZlaHFhd0J6MU1QaGlFdkJlMWNPWnMxZTNOQVBYd0xIMC05eVUwMEp5Ukg4QXZF?oc=5",
-      "publisher": "Lawn & Landscape",
-      "published_at": "2026-10-06T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "finance"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "e4b359216a290192",
-      "title": "Get 450 Hours Back: Workday's Financial Audit Agent Is Here - Workday Blog",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQbTd4QVFjQXpsZkJpdlAyVmY1eWl1cVdYT3NuZjduU2tjVFNqb3FnRFN3ZUNsdXV6bzN4TGxWYlVIbHNJaHMyYTJDZE1DQ3VfZHdrZkpwRjItSzM1RkM0ZWZOd1U3dTA1QnJPUWpqVndfZ2FR?oc=5",
-      "publisher": "Workday Blog",
-      "published_at": "2026-10-16T13:26:04+00:00",
+      "id": "cbd034361054dbc2",
+      "title": "Accounting for AI's professional impact - divergent studies on how young finance professionals see AI adding up when it comes to career prospects - Diginomica",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa09FMThSOGFTWW1WVG83YkdSY0FJMWo3cXM5S0pZeW00NVE2Y0Q1VWdCMzdsUzU5TFBQbURvLTdFSVBLU21QdDE5cUFCSkxyci1hc3pTMDVjaF9TZWp6LVhldi1kYWpBLVl2ZUFMT2s5bVV0LU1WclkyUlZSS01UQXd2U1NqVURWblpfNzZsWlFHR0ZydWx1SHhlUTV1b3JmOGJHM2RJc2puWHUzbVVkUnh2M3Jqelo2RW1sNmFn?oc=5",
+      "publisher": "Diginomica",
+      "published_at": "2026-10-08T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "finance"
@@ -1695,35 +1719,11 @@
       "date_kind": "published"
     },
     {
-      "id": "9d8e59d86742fc2b",
-      "title": "How CFOs are designing a new finance workforce - Accounting Today",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPajI4T1RiSTNLQnBWZVVQeVpJS3YwLVZJZjlEVWEzRGpENW1McURDc0x5dzl5bHN5XzgtUFBvbE5JRlZUdWpXUS1YT09hSERmSnhvM3NwTy1jUlRRTEJ4b0JJX3NNRFJ3eWJvVXRYRWl0ekxzeUZWSWRWNGJhZGJhTDIyMXRHUE9odm1DZzluTQ?oc=5",
-      "publisher": "Accounting Today",
-      "published_at": "2026-10-23T13:41:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "finance"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "ebe6e10a6c64eab3",
-      "title": "Global Hedge Accounting Rules Opened for Comments on Efficacy - Bloomberg Tax",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRWZkYVdBem9BZ09ZcGV6QU85ME9Lbjh2NmdTT3V2U3UwU2NydXZaWS00TGFIczRIMWlZU0FvdGFvNnc2aWNYNm1DcnQwLVA0ZHRQUjF4U28tNGg3TVlBT0h4ZnVOOU85dnU3VTd1RGxQMkpOeDRqYWRFVU9mQ1ZtYndzTWNMbWRXU0N3ZEZ1NXZRMFgwcW1VZlNjSDlKY1RIclQzUWl3cTZBeUhKYi0yakZB?oc=5",
-      "publisher": "Bloomberg Tax",
-      "published_at": "2026-09-28T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "finance"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "2269b71d9114ab07",
-      "title": "MAVI bets on the AI boom creating demand for a new kind of accountant - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWVVOQ0MtYzlLdFNmUGQwTGMzbHpVUmhLZFJFdWZ5emZDa3dGRE5HS052NEVud1VBeUVURFJTQ0R0enhaeE1FWkk5dUNYenBIX1VfbFFOc08tYnhDR0gzNkU1SDY2WDRycHRXQVViSWptVU5OQTJEdUN5ckphQnJJTlItLXhiVm1KU2hFa2hLZzNLbmNX?oc=5",
-      "publisher": "Yahoo Finance",
-      "published_at": "2026-09-28T07:00:00+00:00",
+      "id": "b82774a83a5100c5",
+      "title": "Climate accounting body in battle over corporate ‘capture’, say staff - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYTRuaE9WRFpzandsSGVLVTY3ZjFOZXNMazlsR3pfWS1RbUNoOVplVzN0Q0NtSzF5VG9jOUROQnJZb1BDZlBubnFLT1dOTUJKQncxcm93dWtTeU9UVTV1OEZieXRycVg5ZDMtMGdYbnJtaDlaUm1UQnR4WVdtdmw4WTcxbm8?oc=5",
+      "publisher": "Financial Times",
+      "published_at": "2026-10-25T05:00:18+00:00",
       "kind": "news",
       "family_ids": [
         "finance"
@@ -1735,30 +1735,6 @@
       "title": "Valley National Bank to acquire fintech Bluevine for $340M - Banking Dive",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeUVaOS1kXzFNNVgyc3ZZRGN2ekpnLWpPWW80aDlWTkRVOEY4aUNYMEVwS3R3MDloVkNmZTFlRFpIM0VJQVFlVVRNbFJ5c25YNnVrR3hzTFdteUVfNkFiM1dMLWVxS0hMeDVBbk1uT1BHX3hTSGR2R2EwaWZDdVM4WngwY08zTkJIZEFvd0hLZDgwMlJ6dXNpdm9VZTQtdUhEWlhWcGd3VE80MC01ZktGVVlycU4?oc=5",
       "publisher": "Banking Dive",
-      "published_at": "2026-09-28T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "finserv"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "fcbc87f3d8327b7c",
-      "title": "Fintech | What It Is, How It Works, Companies, & Key Risks - Britannica",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16ZU5HZHpCRHRVQWJpdUIwZTRoazRWa1czVWVZT0JIQnJfQVlEY3hIQzlQamRwTnlsWGRGc3BqR05fNEtJcFI5elVKQ011NC1lS0lyQmVMU3FuUkNWM1Y1V2I0b0NkMHZmUFdvb3ln?oc=5",
-      "publisher": "Britannica",
-      "published_at": "2026-10-22T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "finserv"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "abe804fc2a64ec87",
-      "title": "Fintech’s Next Chapter: Five Insights from the Fed’s Payments Chief - Philadelphia Federal Reserve Bank",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQblVBd25rbzNYN3h4RHhEQkhIOURwZElDN2lXSDZJVFdIYjkxb0NGbTlJSFVMc2lGdmtXUWtyRjN4c3Jtd3NWeHZfWGNaM3hxX2R6aEJEam5SX1ZhdHI1SHhqaVdPYTdzNnRRMDBuWUZ4Q0dMWFh4Vi02cG04TDl1TWF4U2hLczJBa3ppYzRteFBzSVNvOHp1QUQ4SVZjTDRCdFZRYURpM1V3OVJiS250RkZLNGk2OERrdWw2aWtjdnIxNjRxenVwMw?oc=5",
-      "publisher": "Philadelphia Federal Reserve Bank",
       "published_at": "2026-09-28T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
@@ -1779,11 +1755,11 @@
       "date_kind": "published"
     },
     {
-      "id": "0f3f11b7721d5f9b",
-      "title": "Rain applies for US national trust bank charter - FinTech Futures",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZmFRTl9sM3ZkTTdaQVJnT0dfOW0yXzZNZ2JveURuOEtFM0NiZ0pWN2s4WkltRVRlWFZGZEkya3E4Nmo0VVpVTlBuWHVNajczcGVQZXdYUGhiNFNfZ0Z4ODJndVFnN2tKSG9LdFMxaDU0VXRHbmVZeFBuUzVJX2NpMUNDc3RGaHVwMERhOU1GaTN0LUpoYlNUR05HdWdTMWl0YkRhYUlRVG9nN0xhTUFTXw?oc=5",
+      "id": "cf4bbd39b03873c2",
+      "title": "Emprise Bank taps AI-native start-up Maximum for core banking tech overhaul - FinTech Futures",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNEZuYWtid0sxOF8wSHNDMl9McHFzU3JEcnYzRVVjRVg1eUhEQ1VjN1FEdVhsdWc2aElXUF8wQkhRUnJxa1BFVUFobVBfdXlXSkU3RkRJWnJQY2hxbzQ2a0ozZzBxSTlKM1VlVFNiWmpIZmdINmZIOFdZYlAzd3cydFAwWjNtSmt2MHNqTE1sUnpiTXlwaDhEbHpkMkpnUHJQOWg0cHdTN29Cekd5?oc=5",
       "publisher": "FinTech Futures",
-      "published_at": "2026-10-06T07:00:00+00:00",
+      "published_at": "2026-10-15T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "finserv"
@@ -1803,11 +1779,11 @@
       "date_kind": "published"
     },
     {
-      "id": "60e2f702bd0402f5",
-      "title": "Unlocking Cross-Border Fintech in West Africa - Global Finance Magazine",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRTzBtMDdjUEVsd19pNnJuSFhCc3E0SWlGWUJKTlpMX1M5SzFIcFJRaVpoUHRWNFVwZmJCcS1FT3N6OEt3YUt1WWVMRWFROGZrRVR2cXVyQy1qYXVEc0k1Z3VucTkzbC05M1BaRm9ISWJOVjJBY2ptVVdYckE?oc=5",
-      "publisher": "Global Finance Magazine",
-      "published_at": "2026-10-13T06:00:00+00:00",
+      "id": "8538da70b4d6d9fb",
+      "title": "Fintech Rundown: A Rapid Review of Weekly News - Finovate",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKN09ic1hXVk50OG5uREhFWV83aXRUajFVa1Mwd2Q1YjNNek1XRkpnZzJacUpWMlRkUEt2ekFyRnh5cTFzYmdhRmwxLWVkR3VIYVFuTlhKaVJ2RlRwejJJdzR2SWU5THJRN3RwQW1xUDBmcFh1Y3pabS05NA?oc=5",
+      "publisher": "Finovate",
+      "published_at": "2026-10-19T15:40:16+00:00",
       "kind": "news",
       "family_ids": [
         "finserv"
@@ -1815,11 +1791,11 @@
       "date_kind": "published"
     },
     {
-      "id": "cd2e7902cddeacce",
-      "title": "U.S. bank Valley National buys Israeli fintech Bluevine for $340 million - CTech",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jTS00dlRJVW02aFNMSndxS1FXRE56UXp2Tkt5QnA1aDZvR2dLQjh3LTl5SjFjbWxHeG5uWEhnd0pQTVUwcnhqTEtvWkxsSzZyQnRxTzdxOFFTd2FzeWVLRTBFcGdteTB4?oc=5",
-      "publisher": "CTech",
-      "published_at": "2026-09-28T07:00:00+00:00",
+      "id": "60e2f702bd0402f5",
+      "title": "Unlocking Cross-Border Fintech in West Africa - Global Finance Magazine",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRTzBtMDdjUEVsd19pNnJuSFhCc3E0SWlGWUJKTlpMX1M5SzFIcFJRaVpoUHRWNFVwZmJCcS1FT3N6OEt3YUt1WWVMRWFROGZrRVR2cXVyQy1qYXVEc0k1Z3VucTkzbC05M1BaRm9ISWJOVjJBY2ptVVdYckE?oc=5",
+      "publisher": "Global Finance Magazine",
+      "published_at": "2026-10-13T06:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "finserv"
@@ -1875,11 +1851,11 @@
       "date_kind": "published"
     },
     {
-      "id": "3b25ee3217a33b09",
-      "title": "Valley Bank to acquire Jersey City fintech Bluevine for $340M - NJBIZ",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wc0p6dXhWMjdhOS1qR0gxUjdOZkk1NXppSlV3TkcteXZKVGd6RF9Xa21NdGFkZ21DR3NZb0NTSzVqaVNkZ0ZtT2NYbFRSREEzUHZuOHc4WEZRVFIySlZCaTZUTy1JWlJmQ0tGQnFsVFU?oc=5",
-      "publisher": "NJBIZ",
-      "published_at": "2026-09-28T07:00:00+00:00",
+      "id": "87b98c9feb42a964",
+      "title": "How Bluevine will change under Valley Bank without losing its core - Tearsheet",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQm5vTVItVXVEVVZIQ1ZnS2hLWWpJQW1rREFfa29NakNzUXRFLWlsVElPOWpaazJ5OEIwdHpzRmRtUXlfVXRKWDFxTUdPZ2hlRnRoaGhFQS1mOG9oeE5yU2Z6UlhZLWFlQW9HeTkwcTJCak9BcFdXYmNwNmdyemtDRHNaUWVGYUhRNmx1ZExMTkhwVTlSUTVPX0haRktRRVdEaFE?oc=5",
+      "publisher": "Tearsheet",
+      "published_at": "2026-10-20T11:37:40+00:00",
       "kind": "news",
       "family_ids": [
         "finserv"
@@ -1887,35 +1863,47 @@
       "date_kind": "published"
     },
     {
-      "id": "ecaf1e67d2611e76",
-      "title": "Fintech Rundown: A Rapid Review of Weekly News - Finovate",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJekc3QTRBMWJPQjZqS1NBOVhKMC1EWHR3WkFaUms2TzlYX2cycXpCVEtzaVVBRmVET0drQjY2MjNaNElTRmFWQ19Ld0lfMXh1SWVac3BUclJYM2JleEoyY0RJeGs4NmlFcmlpb3JrS2FCOHE4YTFTYk9law?oc=5",
-      "publisher": "Finovate",
-      "published_at": "2026-09-28T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "finserv"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "8043861146f36dcf",
-      "title": "Fintech Upgrade applies for ILC charter - Banking Dive",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbEd5Wm5wUEZKRHB4bGtVMk1EVHdTYXA3ODZzTElVVmFhYUtpUjRxbnJZR3ZkWXYyZUFRR2hER3RtcmxtakZCeW9SdHdUVWduOXkzLVF4Qk5NOWxhR0dQUWFCZ2JpcFg1WkdaWmFfdGU2QV9NbWpWdjdXa3lOb2k4d2I3WmpWa2tHYUdkRnpORngtdw?oc=5",
-      "publisher": "Banking Dive",
-      "published_at": "2026-10-12T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "finserv"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "cf4bbd39b03873c2",
-      "title": "Emprise Bank taps AI-native start-up Maximum for core banking tech overhaul - FinTech Futures",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNEZuYWtid0sxOF8wSHNDMl9McHFzU3JEcnYzRVVjRVg1eUhEQ1VjN1FEdVhsdWc2aElXUF8wQkhRUnJxa1BFVUFobVBfdXlXSkU3RkRJWnJQY2hxbzQ2a0ozZzBxSTlKM1VlVFNiWmpIZmdINmZIOFdZYlAzd3cydFAwWjNtSmt2MHNqTE1sUnpiTXlwaDhEbHpkMkpnUHJQOWg0cHdTN29Cekd5?oc=5",
-      "publisher": "FinTech Futures",
+      "id": "8b09d2625bf84a17",
+      "title": "Citizens' payment exec on how banks can coexist with fintechs - American Banker",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdUFIR29DeHZiblo1eW5ldWNCVENWcWVEdDdtZ3BZX0dqY0J3Tl9tTHExNUU2c2lvd3FIMEdfaHNSWG1GT1ltVlB5ZDNSTjBEY2tHVWRkTDlwaXptaHdKWmUxckdnN28zTmItdVV4M3puTUwzYXNHdllLVy1uZWtnWlZBV1ZLLXFjall1clNGY1U0WmQ1cnpBekJTN2hkUQ?oc=5",
+      "publisher": "American Banker",
       "published_at": "2026-10-15T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "finserv"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "9734ffcdefe61408",
+      "title": "Why a Bank Built a Fintech to Compete With Itself - The Financial Brand",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd0t5dFZ1eFNkOVgycEhDNElDaHlGNU0td1FrMHE0LWR0RmRfcElLM2FGY2hEV1YwdUV3NjhwempuZnBfR3l6LTNmb3JtcXVvUHdZLWwxN2Z4M3lfWW9NUEFGcWVtX1pBWHViR3dpOEpjT0J3RW1DWmg0eWNDZXFuQWhKUHlrbC1tVnNRQW56WmR5WDVrTExGT2VNREw?oc=5",
+      "publisher": "The Financial Brand",
+      "published_at": "2026-10-27T07:57:32+00:00",
+      "kind": "news",
+      "family_ids": [
+        "finserv"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "a5ea9a62a0415781",
+      "title": "Ramp applies for national trust bank charter from OCC - Banking Dive",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSXJYclJMUkM3c1psSXVCblctdzZqS1F0VktxbXRsOThXY2l6d0ZGNW5nX2NMR3dCUzU0N19vWDhJdHFVT2xsMWwyWHgyaHZkX3FLcVNLMU1TSGs0VGVpNDdtRmRCdnc1LXZEcGNVZkxEcWU2dkQxLTVFSzJRTi0xWnBhSWVBc204eDFMY1J2OFZZR2xxT3BjR3I3UkZRbDQ?oc=5",
+      "publisher": "Banking Dive",
+      "published_at": "2026-10-20T13:38:27+00:00",
+      "kind": "news",
+      "family_ids": [
+        "finserv"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "1e27b4abeba9c0ca",
+      "title": "10x Banking extends into embedded finance with Tungsten Pay+ ledger deal - FinTech Futures",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNemdZWFc3STFxUm9zNE9uaXMyTzR1eldWMk5sV2JKUDdwakYyM0NnbzZfbmdsejB3NkNWQmdJb1FEaERuNk1QMTlWZk9QY1Y0U25qSGVWZGg1eWMydkRkQ3ZDZGdrbi1tN2lFNmJDbU10SERwa2FmRTBIWEFHYnY5X0ltRE14eXllUThfU1pad2ZYSTlvT1k3NVRlY0tkblI5SmxXR0RmbXdvZ3c?oc=5",
+      "publisher": "FinTech Futures",
+      "published_at": "2026-10-16T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "finserv"
@@ -1940,6 +1928,18 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZFoyVXRsTU9BWlkxdVlRYWZrMG50M0tzNDUtSVI2MmtycExmRlYxN25IX3hVcGlsdW9LTTRjVGNaby03M3AzbTYxQVMyLUpSdV9HQjhMOHV0V3ZRbEYwQThxakdISVMzMTM5Y2xhNnM3aVJERDlCYjRTcHFxUWRCSTZMTjAxTTdLTU9JaGNjU1BkYzktUDhVclY1OWpWTVVWRUxBeG92SQ?oc=5",
       "publisher": "FinTech Futures",
       "published_at": "2026-10-13T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "finserv"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "e4039f09d990ea36",
+      "title": "Cross River to acquire customer-loyalty specialist Accrue - Banking Dive",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ3Q1c2N0Z1l5c292ejNEYVpMS3ZPMlY3bE9OS28ySC14SzZGbVNQNTNkSVJQMHNmdWp6anpaSHdWUmxaRzRjV180UVBkbV9yWGUyMjM1WjNpYWFibTBOX2JPNEFvRTlSVnoxYWczU2k3dVhGa1hNbDU5cHAwQng3TG1qV1BiOU5vOWc4RjExM1plenRoWDNVekk1QnNZTnVOUGwyZg?oc=5",
+      "publisher": "Banking Dive",
+      "published_at": "2026-10-21T16:43:42+00:00",
       "kind": "news",
       "family_ids": [
         "finserv"
@@ -1983,11 +1983,11 @@
       "date_kind": "published"
     },
     {
-      "id": "cbcce16b7fe991fe",
-      "title": "HR job that fell one vote short in August returns to Wausau City Council - Wausau Pilot & Review",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTWZBcFI4cC1SbHJpX1MtWVlwQk9UWnZueVRnU2t2VjJPb05aMTdEMHpqaXEta3NoTzJRc0kwUWVIZFFxTlE5V2tNSjJWdVBkcTQ4LVBCVGdhU1k5a1ZoQzVwbjlvT3ZFYzNkMWRENkNQcjNCTUpJVmdOdUVaLUcyWVRqQ2x2LWIyOFF2NVpFZnpTazN0Um96M2VPS1Z2YjVLOXVYcWM4SEFUeWM4RGtmN09zc3RwSWFR?oc=5",
-      "publisher": "Wausau Pilot & Review",
-      "published_at": "2026-10-25T16:30:00+00:00",
+      "id": "519f3ade97e88e14",
+      "title": "September's hiring rebound comes with a warning on retention - Human Resources Director",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDkyVjhXNy1tX1llVFg3ajk4c3RlN2dUWUpsOUxsQU9Za2VKcUxJbEpraHMxUmdKQXJndDliMXhaQmlkSHNVYW1tUHA1cmxsSWZqRXFkckpWZjg4Vk14YjFJTlozbXdfR1BuMTZyNmVLa09BTnJDcVRBNHIwdURDQUppREhScS1xUk5TcE5ESVJLZmk2d19DMmlKREdnTDJYaGdfLVB3a0ZhTDB1OHc4RVhNX0RIQQ?oc=5",
+      "publisher": "Human Resources Director",
+      "published_at": "2026-09-30T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "hr"
@@ -1995,11 +1995,11 @@
       "date_kind": "published"
     },
     {
-      "id": "519f3ade97e88e14",
-      "title": "September's hiring rebound comes with a warning on retention - Human Resources Director",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDkyVjhXNy1tX1llVFg3ajk4c3RlN2dUWUpsOUxsQU9Za2VKcUxJbEpraHMxUmdKQXJndDliMXhaQmlkSHNVYW1tUHA1cmxsSWZqRXFkckpWZjg4Vk14YjFJTlozbXdfR1BuMTZyNmVLa09BTnJDcVRBNHIwdURDQUppREhScS1xUk5TcE5ESVJLZmk2d19DMmlKREdnTDJYaGdfLVB3a0ZhTDB1OHc4RVhNX0RIQQ?oc=5",
-      "publisher": "Human Resources Director",
-      "published_at": "2026-09-30T07:00:00+00:00",
+      "id": "cbcce16b7fe991fe",
+      "title": "HR job that fell one vote short in August returns to Wausau City Council - Wausau Pilot & Review",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTWZBcFI4cC1SbHJpX1MtWVlwQk9UWnZueVRnU2t2VjJPb05aMTdEMHpqaXEta3NoTzJRc0kwUWVIZFFxTlE5V2tNSjJWdVBkcTQ4LVBCVGdhU1k5a1ZoQzVwbjlvT3ZFYzNkMWRENkNQcjNCTUpJVmdOdUVaLUcyWVRqQ2x2LWIyOFF2NVpFZnpTazN0Um96M2VPS1Z2YjVLOXVYcWM4SEFUeWM4RGtmN09zc3RwSWFR?oc=5",
+      "publisher": "Wausau Pilot & Review",
+      "published_at": "2026-10-25T16:30:00+00:00",
       "kind": "news",
       "family_ids": [
         "hr"
@@ -2103,11 +2103,11 @@
       "date_kind": "published"
     },
     {
-      "id": "22a97bea205ea716",
-      "title": "eBay to cut 1,000 jobs while hiring in priority areas - HR Executive",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYXF0M05tUDYwcjBZN3MyY2p0d2Z1b1UwOEdudU9iU2JwT1hSTVBHdEEtU0xucmxvOFVhNWJvNkVQTW9JemJNdXhRbmxDWEJMNXdPVzNuV2ZObkZlN1JremNtdG9rY3R5a200d3ljaUJBbXpBb2MwS25rMGg1ajRVaU1KUQ?oc=5",
+      "id": "1eed61d68ad1191e",
+      "title": "4 employee concerns about AI in hiring that HR must address today - HR Executive",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcEltd2E5YTdpcml6SHkxMkZ0VC1XQmdIWUZQMF8xOXlBWjJRbnl6TkhqRmxVVE1qMEIwQ3F4N1MtLTMyUFVjVndCUW1adTNNVkxVM2xKQ1VwTmFXYzY0Q05BSzJKNkU4dndQS3YtVW1oYkVzVFVtcFZXWExGWWMzc1VKeF92ZXBnM1VTLTRrM29obzA?oc=5",
       "publisher": "HR Executive",
-      "published_at": "2026-10-26T11:33:09+00:00",
+      "published_at": "2026-10-16T06:18:07+00:00",
       "kind": "news",
       "family_ids": [
         "hr"
@@ -2127,11 +2127,11 @@
       "date_kind": "published"
     },
     {
-      "id": "78c2981708d1db87",
-      "title": "HR is adding AI recruiting agents before it knows how to audit them - HR Executive",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ29qZVpIQTgtRi1oS2lxRFVLb0t6aGNRbTgyVzVTa2RnOUJxSk55ckRYSG01OEtpd1NWTTBiS1BuZlVGQXBVZncxVUw2NUU5eUI3OGpjdXRGNFZHcDZyZmt5ckU4dXQ3UUJUT0tLdm1UUWY0UTVyNTVQbW9tZ0VlNUw4dHpjWG1CcHVCaXVwRHJ5bUdFY0hN?oc=5",
+      "id": "22a97bea205ea716",
+      "title": "eBay to cut 1,000 jobs while hiring in priority areas - HR Executive",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYXF0M05tUDYwcjBZN3MyY2p0d2Z1b1UwOEdudU9iU2JwT1hSTVBHdEEtU0xucmxvOFVhNWJvNkVQTW9JemJNdXhRbmxDWEJMNXdPVzNuV2ZObkZlN1JremNtdG9rY3R5a200d3ljaUJBbXpBb2MwS25rMGg1ajRVaU1KUQ?oc=5",
       "publisher": "HR Executive",
-      "published_at": "2026-10-09T07:00:00+00:00",
+      "published_at": "2026-10-26T11:33:09+00:00",
       "kind": "news",
       "family_ids": [
         "hr"
@@ -2139,11 +2139,11 @@
       "date_kind": "published"
     },
     {
-      "id": "edad127fe0fba4e5",
-      "title": "What if the young talent we're no longer hiring due to AI could reinvent our business? - HR Executive",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRkNCVUJmU1ZLU095bjBkYUlTWDNCREd4dmZLTDhMWXZCTDVrdUxTQjdLMVBhMzhBQTlVLTJjTy1nSUplRklyR0dEMmZiUC1zZk9YbXI5ZENHVkx0cm5QdGF0azBYZ0VPTDNyMkRLc1gwR3NUX2NYSlRJN1lCWDRkUmtERGxyMjV2RElUbkxFY3VhaHJITGt5Ymd6b2VDcm1TbTNHNDRnVWE0WWkzVVE?oc=5",
+      "id": "78c2981708d1db87",
+      "title": "HR is adding AI recruiting agents before it knows how to audit them - HR Executive",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ29qZVpIQTgtRi1oS2lxRFVLb0t6aGNRbTgyVzVTa2RnOUJxSk55ckRYSG01OEtpd1NWTTBiS1BuZlVGQXBVZncxVUw2NUU5eUI3OGpjdXRGNFZHcDZyZmt5ckU4dXQ3UUJUT0tLdm1UUWY0UTVyNTVQbW9tZ0VlNUw4dHpjWG1CcHVCaXVwRHJ5bUdFY0hN?oc=5",
       "publisher": "HR Executive",
-      "published_at": "2026-10-15T07:00:00+00:00",
+      "published_at": "2026-10-09T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "hr"
@@ -2168,6 +2168,18 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6T3pGUnlXV0ptVHFmRWFnVmN4TGZZemtXb1pIVWREZ3ZkVjFXbDM3dXZnMnh5cjJhUkZ6RlBsenJ3OEhRWE9SRkVfV0NCTXM2ZW5tSVpDMDRTaHBSU1pNVlhSZVhINWFQ?oc=5",
       "publisher": "Federal Reserve Bank of Dallas",
       "published_at": "2026-09-28T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "manufacturing"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "1b40d4d70a6bb510",
+      "title": "Monthly Full Report on Manufacturers’ Shipments, Inventories, & Orders - Press Release - Census.gov",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wQk9yckZwdTUxRzU1M3N5a01BN3d0aU5ZdUd5MHRqV3dmbEx6RTJuQWFidlJyVUtkekF2dDF6Z3hGRGduWTE3OUtQd0Zra1lOaE15N3BFWjFvRW8zWnF0M09UTFpnd1BlWWc?oc=5",
+      "publisher": "Census.gov",
+      "published_at": "2026-10-02T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "manufacturing"
@@ -2211,47 +2223,11 @@
       "date_kind": "published"
     },
     {
-      "id": "afc975933f01fcf5",
-      "title": "Additive manufacturing of ultralong and architected single crystals - Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhSEtSNDUtdG1ZR2hORWdFN2xzR2ZQLXRTenVYa3U2d1B6NlFnTy1SUHdzUmY0N2tJYk1ObUZ1aV8xa0I3QXZzMlBzemozRDNDeFBSSlJTX3lMb3NDUnNR?oc=5",
-      "publisher": "Nature",
-      "published_at": "2026-10-21T22:46:06+00:00",
-      "kind": "news",
-      "family_ids": [
-        "manufacturing"
-      ],
-      "date_kind": "published"
-    },
-    {
       "id": "8bd42a7934d130c7",
       "title": "Trump Administration Announces Major Investment in American Fertilizer Manufacturing to Strengthen National Security and Support Farmers - USDA (.gov)",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPX2R6S0RPTXBFUk9DZHJycHVRVGdRUDBtVHlJOG9mVHNSczVmVkIzWDI0VHVfQlI3UlhiOHNoclRacjQxQnFWdUFLa01lVS05Q09BOTltRzZSWC1sbVR3X0VxNzdZOVg5Ymd0Y3J6T3V5aWlXaHl6Vmh2dHlNd1R6ZllTYmFJLWd2RFFJcXhhTF9MV3VQVW9kTXBaaDkyZGthVEl2UkpEQ3hmOUlfSWRsajZOd0wybGRtWk80R3lkUTlDZzJoeWZxelRzTlpKblU2Nkg5VndZakVpc3AxbDVEV09yYjVELWpuWXFZ?oc=5",
       "publisher": "USDA (.gov)",
       "published_at": "2026-10-22T18:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "manufacturing"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "513da3478de251b5",
-      "title": "New Analysis: President Trump’s Pro-Growth Policies Ignite Manufacturing Resurgence - The White House (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSEhRVEhHNUVyQWpuODc2Nm11LTlUa05TVU9jMFJIOWJSd3JFVGVEaUQ5ZlpSMThSMDVsLWhCYUo3UjFLSnVIeEtVT2VuRDhaYVR4SzhPYWhlY1Z4UkxRNHotVXlfcW44S0RxRDFpaTd5SkVhRXVpQmJSRVlBQTV0bWtwamp2anBJUzZVeW1jSkl5N1lidTVxaTdWb05icFRGQXdnQVUwVG1VbDVqVEtlVkdBdmhWZkdrMlEwTHhVVHh5OEVo?oc=5",
-      "publisher": "The White House (.gov)",
-      "published_at": "2026-10-22T17:51:54+00:00",
-      "kind": "news",
-      "family_ids": [
-        "manufacturing"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "ae5057494a7e73f4",
-      "title": "Kansas manufacturing business responds to candidates’ conflicting accounts of tariff effects - Kansas Reflector",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUmhzQnpxalRua2s1MnZKQlJDQkZhWGdwS1FnbHZKN2R5Qzhfaml1bWw2MGNDRC1lRW9ra3FOeFVfMXNTczVSQ2JtOHZQUnM5NEtta0pITFVCajZJYlh2Wm5HRVdoaTNxS25BankxUmJ1SUgyX1JlZ1MzSGcwTGhfWThDNEJWN3JISnZIOXc2TWhfdkJIQURSU0h5Q2FMeGRMaVFBLVR0aGxlc1N4cXFWTEdra2s0alRtOUUwYW92aHNoTXFhemZiVmlVYw?oc=5",
-      "publisher": "Kansas Reflector",
-      "published_at": "2026-10-23T08:55:30+00:00",
       "kind": "news",
       "family_ids": [
         "manufacturing"
@@ -2283,18 +2259,6 @@
       "date_kind": "published"
     },
     {
-      "id": "f779632dd36e6eba",
-      "title": "Sandoz creates new global biosimilar development, manufacturing and supply unit, appoints industry veteran Armin Metzger to lead next phase of growth - Sandoz",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaFlRUXJ4SUFHRWZiQ3JyNFNicEJ4R1otYmhTNU5mU3FpbVFhQmRDV0tnclpfU2tiRm5FT2l6T3QwVHZxOXh3WlZpbDE1Z2RXNnE5REUwUjV6c0tHSDI0S0c0bGtCeTV6dUJqYm95Y296UHBORGZlMzBsOFhaeGxneXdUUEJELVdQSnhST0JKOXhfTVZJZnVmSFhaNC1kbjg1b3BXZXhGNlRFMlg5VW9JdV8yd05Gc3ZRWWdGSg?oc=5",
-      "publisher": "Sandoz",
-      "published_at": "2026-10-03T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "manufacturing"
-      ],
-      "date_kind": "published"
-    },
-    {
       "id": "8fe0bd241d017664",
       "title": "Audi AG Selects Georgia to Invest $4 Billion in First US Manufacturing Facility - Georgia Economic Development",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnJoRlBFTUk1c3NnQmUwUG5jS3RGSTV5bjVqYVZ1S2lHWlpudWZwZzRGSm1WV1FsQ3hodUZvMjNkbnlxWTB4WnRxSFZka2F0ZE9yS1FzVEFvMG1qUG1uU2VLX0dlXzd1MWdSTExpY2cxUHV0dGpVNFMtMng1eXpZRnE1VUozLXA1Vm1FLXQ1bkt5Z0JzR3haV0lMTkxxMnFicG9PNU5HZHlTXzg?oc=5",
@@ -2307,47 +2271,11 @@
       "date_kind": "published"
     },
     {
-      "id": "5f4725a377f88f2b",
-      "title": "US manufacturing output rises in September - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQVYxNGI1Sk9lWk02OVNrTnNyczRlbF9WTFJUa3lLUi1mLThHVGp3Y2RQUWtNcGVnWHRqcGVZSzdzOUp6c3psQy1jS3JhM3h2RnVlTEkzcS1wZGR2aThrd1IyaDF0MnJKRXh3TjYtSmVFem5WMGNfQ1ExekdTLXdTQnlkNEhrZzFfQXNoQQ?oc=5",
-      "publisher": "Reuters",
-      "published_at": "2026-10-16T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "manufacturing"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "2f9ad7da1106d1d5",
-      "title": "US Wind pulls out of wind turbine manufacturing at Sparrows Point - Maryland Matters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcEUwWDFRQmRtcDNBc2N1OXAzS2xWX1FCOHhQSldFTDBfVlNnYzdPdHRsV1Z5SVNvMlJETVJqcFg2ME5hNkMyTUZac1hXUlkzeUg0R25sNW9xcFY5eThKY20zM3FUT2wwTDMtVkdNRFJaNEVLMXREY0p0bGprTWxOQnlQdnhLd2dNRnVpV0ExY0FDZ1hZRWxiNGhGa2ZjUWhEQ1ZlQ1d5YTQ?oc=5",
-      "publisher": "Maryland Matters",
-      "published_at": "2026-10-07T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "manufacturing"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "a82d2bb74b5431f7",
-      "title": "DENSO Manufacturing Athens Tennessee Marks Months of Solar Energy Generation - DENSO Global",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yeHFRNlVMTmNaV0dqRGRXX2dOZmhuUnU2QnB5bHUxYlZYMjhTeE5GbXN5ZS14Y1NHMGZjY3VVUmQ0a2E2YlZpTi0tMWhDZHdkOVl4SGJ0TUpZT25DUnBWSWtLMS1qbk5vX3ZiTXAxWQ?oc=5",
-      "publisher": "DENSO Global",
-      "published_at": "2026-10-01T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "manufacturing"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "77745682ba53a842",
-      "title": "Monthly Advance Report on Durable Goods Manufacturers' Shipments Inventories and Orders - Press Releases - Census.gov",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1sbHVicDRtMVlmQUdPcWJKMll6bWtGZnR0ajZmZ1FDTFdDQ29TazFXVUpiU3V6NGdINWk2UDNvdEZ5M1poUjU0Sy1wS0VzMWR4YUZtLXA0RkVlamJ0TEdkWVdfR3lqcXdwNHV1TGd2TQ?oc=5",
-      "publisher": "Census.gov",
-      "published_at": "2026-10-27T18:42:23+00:00",
+      "id": "a3e1597e6d5e317c",
+      "title": "Blue Origin Selects Hutto for $650 Million Aerospace Manufacturing Facility - Hutto, TX (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pU0xKVzdacjdjbWdDOW5FS1F5VWl6cGNlZllyNWFqU0J2R204VmdjTW8wMHRzLS01YTV5YzhjUHhVLTlpMERtWkVac3ZhWnAybV9sN25TZEktMHRx?oc=5",
+      "publisher": "Hutto, TX (.gov)",
+      "published_at": "2026-10-08T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "manufacturing"
@@ -2367,11 +2295,83 @@
       "date_kind": "published"
     },
     {
-      "id": "7c5548c41a02f4f8",
-      "title": "‘Only China has that ecosystem’: why global tech decoupling is so challenging - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNEU0ZXlaU0IxSnNiX0dLMVliMmxMSEZqbEJUS0hOb01zcWMtSDNDQ2FvOWlHblpKZGdtRFVwQ0VpZDNCcFE4RkxyRE44alEtaXV3c09VY2FJb2VVaXdWdEUtejduRUl3ZlpRZmdyRF90eWZEYmgyVUhQSHBXTkxSWHFFZkdlRi1nVVY1dHFVRnBDMTR2SVBjSUMwSmZJVmJFYXhtTldTbHVmdndQcGlfQTFWZGowVkUya2pJVUNHX0ZoTTBnVjdjNWNzdTfSAcwBQVVfeXFMTk4xYURKREZYMGNvSlE0NDlMblI3d3A0WFFWSXVmQWJscWlrcmNFU01RYzNjRTI2SGpsSmQ5alM5cnVwX0FvQmZ6OTdocDExTmNoRGtlekNYT1dsbEV5czJfMW1hd1JsWndXVHlWSHFBaURCN2FwaXNtYmYwLXhRZEFuY1VYVnFSRmFTWWRreFY2MC1OeTQxSHBPRWs4Ny0xdHUtVk00N09WcHlkekg4YXR1Y3M1cnpiaV9SbVBZQVY5Y2VrQXA0LUgyYVdD?oc=5",
-      "publisher": "South China Morning Post",
+      "id": "4297864ef8a843f4",
+      "title": "Look for the Label: Governor Newsom visits Central Valley, highlights state’s manufacturing might with new Made in California program - California State Portal | CA.gov",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVmx5b0V4LXFhT0FnRUJ4VmFjNk1iY3FmR2NXNmJjOUtMdHRsZ1VWVS1tb3o5c0w4ajU2ZUw5NG1QX3ptallERUdfdmZCZVBDa2VIUDE4aTdfRFRTa0d4amhYM21yWnE4WnJNOVdkeUVrWGpReE1MMV85NWExMC1JMzRYeXhkWGYtRElRQXpsX01KUkZQZUlwWXVPTjh4WGt0MGJGRl9zaHhFODRsdTdpTGlhSmdkcE5LZ3ZYNnYxejZhU3dHMHhiNjJzcDNfeXJZZUFKMTFhOF9FSDV6NFhDbG5GQV9nY2hLaTJBaGVpVlVGcFNVVXRXSw?oc=5",
+      "publisher": "California State Portal | CA.gov",
+      "published_at": "2026-10-14T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "manufacturing"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "27f5a8abbdbca35e",
+      "title": "US manufacturing steady in September, input prices increase - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTE5NRDZ2ZmEtOWRzU0lSeDZDUUIxTEI4d085ZGxCVE1FY2pab1VGdVZaWEV6a3I1cjg5YnBDWUxIczdYSWxMSDNjYmNVT0J5MWx4RWhiamhRLS1CbG5TUl94Z0ZUMXNoaFhmX0k3V1J4ZTl5ekdaWnpLdXpickxpc195Tk13dC1XeWlRT1BtWmJFam9SRXplS1d4aHhkR3prUmc?oc=5",
+      "publisher": "Reuters",
+      "published_at": "2026-10-01T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "manufacturing"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "78596fcbe51e4bed",
+      "title": "Anduril expanding into laptop manufacturing in partnership with Qualcomm - DefenseScoop",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOTlaNGlRWjZFeHVXVUlWR1BBcmRFV3hPRGc0M21pM2RxeXR0ZEd6bzBkQWVfdFJlRDFiaEhneF9lMjRPWGhXRTRFcXVoOWZYdzZGMm5ZeUFnMXVYSzJCTTBBZmVEREllLVUwLWZSenk3cWZIQy1hQUFXbFY5TzBmdFZuZEZyWWNPQ19nT0FOOA?oc=5",
+      "publisher": "DefenseScoop",
+      "published_at": "2026-10-27T13:01:25+00:00",
+      "kind": "news",
+      "family_ids": [
+        "manufacturing"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "a3ff6de3a69bd6dc",
+      "title": "Purdue-Google summit advances physical AI, manufacturing and workforce readiness - Purdue University",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQUZ5V1BxMFBlUkwtTlFEV2Y2VU1zRjJweVBxcU1vRExKb3N6UmhJeHo0NWMzQnk2TUtDd1FucTVQY2VWYjdwb212QlpTRnhlOGplaDE1TWhEdW1YNGNkR1JJeFlodkExeER2bGlDdy1LWXpaMGRGOXkxTFlzOFJjYTFxTlI5WTYydC1YanplNUVkUjJsSlowcW1PbktqOV9kYUlaV2h4Z2QwTzQ2VFh4NTVTUHFSYjVxYXNj?oc=5",
+      "publisher": "Purdue University",
       "published_at": "2026-10-16T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "manufacturing"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "b500ecb8dedaa466",
+      "title": "Houthi ballistic missile manufacturing - ArcGIS StoryMaps",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBReG5hQlNDTzNKSGdKaW1PNVdmMGRNWTFoTzJJWTZIbFR4cFZRVERkNDZONHBiYmtlYmQ2TnBQb0pweG5WcHdvREdnSEN6TFo4eTNnRWc5RzdVVTlwdGdfR3hJR3doQks5VU9pSjVUbGdpSHdaZmRrUA?oc=5",
+      "publisher": "ArcGIS StoryMaps",
+      "published_at": "2026-10-14T16:28:59+00:00",
+      "kind": "news",
+      "family_ids": [
+        "manufacturing"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "80433bdb043baf90",
+      "title": "Employee killed in workplace accident in Madill - KXII",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95dEhkZWhvemk5V3V4SUpEcUpBZUFlLXBwdTlUbFNvb2RDd1U5eExLTFpoYUN4NEJUc2ZwUW9SaGM2NXE1cXpGZHJONUVsYUw0U2ltME1oSWZFU1pfYzlVZk1VRUhwNzYxTmtXQ1BVRkdFMXVrUEwzVFlwWm5nOVHSAZMBQVVfeXFMUGhnUmdodC0xQVFfS3BMS0x3b2VGN01QRFllM0tjSFdHa2hNV2U3djdyVi1LemQzTndweEFiWk5wWmJWeDBtclo1TDhMNlpnYzR0STBkeG1SX1BSRGVLU3o2THc5eWxHcEc4RWtOM1BvRUlQQ21xUVIzR2FfeTFzb2JVVVA3N1BJSk9fajZqWUpZOEFz?oc=5",
+      "publisher": "KXII",
+      "published_at": "2026-10-21T18:12:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "manufacturing"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "86ff7d741e5b4973",
+      "title": "Manufacturing and Trade Inventories and Sales Latest Report - Census.gov",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lUHVZcDhMNXAyS3NZNV9tMmljV2EyS1V0Mk4xLU8xekFKU3dZVm9GbXVzZ2lHYnZ0UHIzQ2wxVW5hYmhCTUxVMTVzak5ZeW4xbFZHMnpCdXhtUQ?oc=5",
+      "publisher": "Census.gov",
+      "published_at": "2026-10-15T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "manufacturing"
@@ -2619,11 +2619,11 @@
       "date_kind": "published"
     },
     {
-      "id": "c120a7683b20dcb0",
-      "title": "Department of Commerce Announces Letters of Intent With 4 Companies for $389 Million of R&D Awards to Strengthen America’s Energy Semiconductor Supply Chain - National Institute of Standards and Technology (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdEdiaElUdmdRUmROa1VJN00tV3M0SmpBSzRacktERVIyb2FwT2xiT1ZBazFtcGZaX2V2TmtiZ0ZLdWNVNDdKWUhGVFNkaVlQYWlQTVhSWGxtdFdUVlpkMURSc3dmWEVqRHMyZzdEZ0JXdHVEWjZicTlvUV9CU1FWeG1NdlgtVG9VbEwwYnNPbzJpM203VVl6cC0ySzRhZVBveXc4UnRJaXZqUFc0aXVfMVpHa29uMDZV?oc=5",
-      "publisher": "National Institute of Standards and Technology (.gov)",
-      "published_at": "2026-10-22T12:00:00+00:00",
+      "id": "7eb5f098b0895bbc",
+      "title": "Semiconductor Boom Turns Korean Chip-Equipment Founder Into A Billionaire - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNzJ0MUktS3Y4eGlxQkJ5YklzeG1CMDBTZk5fVDRZcno5MmNiLTlQZl95SXJiUUp5b0wwWEpHczZYVzFRVEptcnFSV1NsWXpVdk1ZMWsxRVZZOC1USHFYUEtTdlJEYk9UTWFlNVE5Ql9VRjIwbUZYejFSY3hlcE40VWVhMGROMmJqN3JVejRlS0dZSkdjbTQxVEhCT0RBOVlvRFEtckRtY3FOaXhRNUduOTBtZjVEX19mLUduTmpnVmU?oc=5",
+      "publisher": "Forbes",
+      "published_at": "2026-10-01T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "semi"
@@ -2667,83 +2667,23 @@
       "date_kind": "published"
     },
     {
+      "id": "7c90152b2885af56",
+      "title": "Second Semiconductor Traceability and Provenance Workshop - National Institute of Standards and Technology (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTzVRTXNvbUQ4ZEJqU3pFT3N0YV9RTnVfcG8xTmRkSkZiaVRTLVR2emJ5dHQ2OEFXdlowbVpZYmJ5dzFqSzFaa3dxUkRoUFdqOHVsZXZjYkJ0dWZ4QnM5VUJfRW5XUks0NGpYSDkwcmF3NXIyZWRFeE1RdkF2TnBZSG1ldzNUUTFoMVg5dmFXeUJRREFkWVdIeXBsWTBVdVNpUUdRa2h2UWg?oc=5",
+      "publisher": "National Institute of Standards and Technology (.gov)",
+      "published_at": "2026-09-29T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "semi"
+      ],
+      "date_kind": "published"
+    },
+    {
       "id": "1d66f021b586130d",
       "title": "Can China repeat its electric vehicle leapfrog with semiconductors? - World Economic Forum",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWHM4LTNWakltY1N1N3Y0VDVMTG50MEVlZkZkRU9yNDJYZkI2UWpGVE9Va2NpaUlFVk5JeVVObVF1NlJRSjk3UFdSSTRsRHA3NWdrOUFhampVaTloMkNLLTI4UHYtaWpMaDliUG9vZVg1WUhfbWh2RDRaT0NZd2NoYkJKWlpfc2k5M0MtVlZSZEpnU1dVNGpac3VMaDJISXJoN3VFS25EVWtsVXZPVXRrZS15bm5RMVZFem5rWXROdw?oc=5",
       "publisher": "World Economic Forum",
       "published_at": "2026-10-01T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "semi"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "6276dd73caf1f03c",
-      "title": "US to award $389 million in R&D funds for power semiconductors, critical materials - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeHQ5cE1SRTVJQVJTRFl1bFhjWDR2ZUZ1elVOY2QwWDEtZzhBNVFfbk5NcC1UUG0tNFp5SGpMa1UyeG1mbXJtSzVmZnd5RGpWTlhQZnRPZks5SHZSUWIwSGhRRlJ3T3FpZkpNaFdSUmlObHdvWGlGREh0NTk2YWozaU8zWFVXRjRpdFNaSlVmQ0lwT0JNb3VIbkRoQnZHRzJrTGV1bWQtNlpXU1lsQ3o4amxCVmtQbW8?oc=5",
-      "publisher": "Reuters",
-      "published_at": "2026-10-22T13:49:17+00:00",
-      "kind": "news",
-      "family_ids": [
-        "semi"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "9531145cbc1a8fbd",
-      "title": "Samsung Austin Semiconductor’s Two Campuses Inject $10.9B into Central Texas Economy in 2025 - Samsung Semiconductor",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMmFzeXV5VEE1QnBnUG83NGl6Uy13c1hibnZ3MkRuaV9LT0ktbTVEX3NkbDg2dFczU1k2RDlFSF9qR2VPNGR3dzRiczNMdC1EV0FUSEFiOEVxU25iclpLU2VMTm5zNUZNaUlBQWx4R3M4cXcxVkNDOVNNd3RTRzFzeUQteEh0eV91M08yaTN3RWFPdzFMOTg2U1dfSC1zaEhpZVRHNnRWUzBIVXZwVmJGdzM5V29pcDZSMzM5VXZVSE5Qb25iRWRTczdpbE5TU0ItSmdtSUZHTQ?oc=5",
-      "publisher": "Samsung Semiconductor",
-      "published_at": "2026-10-06T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "semi"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "c6e7b4c2988c7879",
-      "title": "Lam Research, Lattice Semiconductor, Amkor, Entegris, and MACOM Stocks Trade Down, What You Need To Know - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRjN3M1FTbElZOHR2R2lwbm1JanU2YUFmMmxWUEMxLWRCUGc3RG1lMlJqdnZhVDRwbFpZQllUQVc1UElacXdQNlVQVTg4NjFRX2pmQUxWU1ZsdHU0ZFRmR2k5T0lQSFZuLURvMDFlR0UxVUZhMzZXQWpQTHNKM29EWXNIVzFYeTBDRmdOaWd5SXZtQlctNVRUODRyRDE0QnV1OFpuYXRfVFI?oc=5",
-      "publisher": "Yahoo Finance",
-      "published_at": "2026-10-15T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "semi"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "47adb9e9b7b42b9a",
-      "title": "Wolfspeed signs $1.5B DOD loan for semiconductor production, R&D - Manufacturing Dive",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdHAwdFlia2txWEFxM3dEellxZkJRYUJLMDkteVRJZHp0cHRVV1c5UmRXYjdtRWRjTlBCZUF6dGk5TkNIX1JiRmxlSHF3V2JfMUhqTmw3MEhSeHVoR3hVRnc0bGZHd01qSE5fMHY2TVNnNi1XM1p2eXFvV3JCQ0lXUjdpLUNPUGNxWVRncmktdkp6VDVyN0R2SkJrSmsweFNsVHdaOFQ1cHY?oc=5",
-      "publisher": "Manufacturing Dive",
-      "published_at": "2026-10-08T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "semi"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "1493b2307ca0d3a8",
-      "title": "Could a Clean Room Tour Spark Your Next Career Move? - IEEE Spectrum",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Nblo0bnhpTXJZQm1xWGFzZnJvb3E3eEhqUUVSWmcyZjhmczBUbE1Db25YQzFCR2UzWDZ3SVpRUkQ1NFFTUFNBRDBCclpWd1d5YUxwd1Y3TWRXYjVPWlcxRmNjSV9ZdlJseFE?oc=5",
-      "publisher": "IEEE Spectrum",
-      "published_at": "2026-10-20T13:11:39+00:00",
-      "kind": "news",
-      "family_ids": [
-        "semi"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "8dc3eda6f389e64b",
-      "title": "2D semiconductor aims to turbocharge development of high-performance electronics - Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3MW13emlqTzItWklTS3J0ejJfOE5wNllCY0hQWWtQTk9LRUZWV05PcWl4X1ZWaFBpYXhidWItNHpyVzlxb2IwMm1zbVVhSDJTSTZTeHlqT0I5V05iVVdJ?oc=5",
-      "publisher": "Nature",
-      "published_at": "2026-09-30T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "semi"
@@ -2763,11 +2703,11 @@
       "date_kind": "published"
     },
     {
-      "id": "5acc82a655e17829",
-      "title": "Jim Cramer isn't giving up on semiconductor stocks despite the sell off. Here's why - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUjVQaDlKV3pzemcta29makN6NExmVjdFWkx4Mm9faTktMHJOZXNXZzBtbHF0V3Jid3NLOHBEWXdTZV83NEdXX3FMbnZfQnpfOHZqYUI1Wk9yUVNXOUNJZTF2RG9VRGlIcjdsMTBDLXZMdzVZdE1PTVdPSVpsaHhzNm9na9IBiAFBVV95cUxNRzhhS3BiRVJtUEVSVXlhQ2ZjRF9EQThfWEpnbEdLY2RDRTRhNWxGZVNzNzJXZ3FxbDdoVW5iZFNHVXYtLXg2SzIwQUFEaUxGeFZLckRmSTQwMlJsaklJUDBXR2lNUllMd2tLNFczRWJCX2NDY1FGQUU0aTNFSWc1MFhsRldVTFFo?oc=5",
-      "publisher": "CNBC",
-      "published_at": "2026-10-13T07:00:00+00:00",
+      "id": "d39013774a42038e",
+      "title": "Semiconductor Industry in India: Incentives and Key Players - India Briefing",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQTVRbl9ZR3VpLVZOSUJfTG5yV2dtYzY3MG1WeEZrY3V0T0FoSHQzRzV3ZXptbWtxRHd4T0pCdjFqejdsVE9fTVY2WGRfaWtUR2pCTEE4VEFOOEpCcS1kMWRTZ2lGYnlZVF82YnloY3ZOOTJoQkRsLVZNQ3d5bjNIWXNnWGl2UVpRc3dJSURkSzc5U1FZMi03TUwyaWJhZlRhVmlseTNkbXRfTnhuZ2NJRUY5ZDJTc00tUjY0c0lsSGctMEJTNE9GWW1pcjZhSERsWXc?oc=5",
+      "publisher": "India Briefing",
+      "published_at": "2026-09-30T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "semi"
@@ -2775,11 +2715,11 @@
       "date_kind": "published"
     },
     {
-      "id": "d451c4a0d0d39a78",
-      "title": "US semiconductor supply chain relies on vulnerable, hidden inputs: SIA - Manufacturing Dive",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdjFDbFlXaTF3TFh5dV84TnRkSkd1NFRRQWU3M0lJWTBCM2ZNYUlJbGxaM05FNk91MzUzdE5Tc3F3a1ZwREpZb3RfVkdWLUo1RER6c1oybVJnaUJ4NnYxV0Q0VU9JRGcycDZkSG4ybnF1aU1HNTh3dllQZUQ0c1M5bklWY3RObFlsVVVrY0s4MG9CdDBMX053ejRNNm5TNDFPRU1WWktHUXQ?oc=5",
-      "publisher": "Manufacturing Dive",
-      "published_at": "2026-10-19T07:00:00+00:00",
+      "id": "5a1b3843ee24e509",
+      "title": "Electronics - Semiconductor, Revolution, Technology - Britannica",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTDJOR0U1S0NTQzZDTl9SMGI0VlU1MDJRQ3pIOG5CQl81ekdnOFZ6WWQ2VFhnV2N1RXRkYUZob2RuekNMQlN6cGozaVcwLTJBZTFpMmNqTllMRGlRWEw2TkpmYUJ1cHZFVDl6ZGp5Tl9ZS2U1VTRGYXd3c1VfZDJEeWRjdl8?oc=5",
+      "publisher": "Britannica",
+      "published_at": "2026-10-22T05:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "semi"
@@ -2787,11 +2727,47 @@
       "date_kind": "published"
     },
     {
-      "id": "4dad0928768c145e",
-      "title": "ON Semiconductor, Synaptics stocks jump on revised merger deal - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU2U0MDhIaHRad2J0WU03ZGMwRXlRYWFSQXZxamk5VjNlbzRBWjJ4c0dSbVpSWlJ2Ukpyb0JnQXBndm12OGxTN3R2STJ3eU01dXVSa0prWlUzdnBjbHotUHVoWWJya0E0Q1dBaFdxWUV2aHQtNzN5dHZPRWJqclJJODZfZ1QxSHhDVFZuY2l6Y3NZODltZDdsSkVSSEhxWk5pelZWcVhUMUYxMFBRdm15WjQwZXphVFZCeE5hY3plM3g5S00?oc=5",
+      "id": "4b21cba75b83c1cd",
+      "title": "Advanced Semiconductor Packaging in Automotive Electronics - Porsche Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWlNKQWJTQUg1aUk4SUluZDl2enhwUFdBQ3ktN0hfN3VBdGNNWjJxX3NhY2ptTGxMdlhreV9wdk5HbTlPNllqLTItUUdpYXBtYlZVVER1VkR2a1ppMllKNmtnTk9Qa0hPV19lcUdHQkd0bkQ1WERvbGM0eHoxenh3SU9MSDhZZ25SU0gtS29saDE1cTJTWXM5LVNBZHBySWVWVDZXSGtUd3FLSGx3WTAzeDl0TGRwTXh1SU1fSndFS2QwcG9jSnhkRnBkUWQzdw?oc=5",
+      "publisher": "Porsche Newsroom",
+      "published_at": "2026-09-29T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "semi"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "1493b2307ca0d3a8",
+      "title": "Could a Clean Room Tour Spark Your Next Career Move? - IEEE Spectrum",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Nblo0bnhpTXJZQm1xWGFzZnJvb3E3eEhqUUVSWmcyZjhmczBUbE1Db25YQzFCR2UzWDZ3SVpRUkQ1NFFTUFNBRDBCclpWd1d5YUxwd1Y3TWRXYjVPWlcxRmNjSV9ZdlJseFE?oc=5",
+      "publisher": "IEEE Spectrum",
+      "published_at": "2026-10-20T13:11:39+00:00",
+      "kind": "news",
+      "family_ids": [
+        "semi"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "55f0371598eb3ef2",
+      "title": "Prediction: Taiwan Semiconductor Manufacturing Stock Will Skyrocket After Oct. 15 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUUJwbWhobGxQZlR1emo1ejVPenVvXzdxejlhZFpjc2x5cXhSUWpNUmY2cS1ubE9LZ0ZHTnBzNEpDZGtmVzdvMFNtUEdpVy1ZdVRZNk5OdGdLSXV2YXF6X3BXamkwOEU2eWgtY2V6SDVCOWVxdWRHTVFBeElSemVoN1hzd2ljWUlwb3pQX3AzQ0JyNTVhTEFVTXRiTzVsa0dOR3o4cmhpTjlwNVRaTXpzbjV2VjF2Yzg?oc=5",
       "publisher": "Yahoo Finance",
-      "published_at": "2026-10-02T07:00:00+00:00",
+      "published_at": "2026-10-01T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "semi"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "8dc3eda6f389e64b",
+      "title": "2D semiconductor aims to turbocharge development of high-performance electronics - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3MW13emlqTzItWklTS3J0ejJfOE5wNllCY0hQWWtQTk9LRUZWV05PcWl4X1ZWaFBpYXhidWItNHpyVzlxb2IwMm1zbVVhSDJTSTZTeHlqT0I5V05iVVdJ?oc=5",
+      "publisher": "Nature",
+      "published_at": "2026-09-30T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "semi"
@@ -2811,11 +2787,35 @@
       "date_kind": "published"
     },
     {
-      "id": "90d341ebde0a8a9c",
-      "title": "India approves $19 billion for renewable energy programme - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORnR0ejFqdHRnUWFvaGlsRjlpeU0tamNTTU9hdkxTQklFMWNnUzJFcFRtYkxUTjA0SUJhMG94YmJieFQ4SjZQS1NXZnRHVHJ1Z2UzdjJGNHp1SkZwN29JUWlncEpBaWZNd3g5WHYyWUFUb0lEcmctaVk3ZVd5T2hnSXNheGllOU04VV83RUVGSHNRVlRKMTZqaEtYT2NLMGlVOWIwbVZGTV9oQQ?oc=5",
-      "publisher": "Reuters",
-      "published_at": "2026-09-30T07:00:00+00:00",
+      "id": "5acc82a655e17829",
+      "title": "Jim Cramer isn't giving up on semiconductor stocks despite the sell off. Here's why - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUjVQaDlKV3pzemcta29makN6NExmVjdFWkx4Mm9faTktMHJOZXNXZzBtbHF0V3Jid3NLOHBEWXdTZV83NEdXX3FMbnZfQnpfOHZqYUI1Wk9yUVNXOUNJZTF2RG9VRGlIcjdsMTBDLXZMdzVZdE1PTVdPSVpsaHhzNm9na9IBiAFBVV95cUxNRzhhS3BiRVJtUEVSVXlhQ2ZjRF9EQThfWEpnbEdLY2RDRTRhNWxGZVNzNzJXZ3FxbDdoVW5iZFNHVXYtLXg2SzIwQUFEaUxGeFZLckRmSTQwMlJsaklJUDBXR2lNUllMd2tLNFczRWJCX2NDY1FGQUU0aTNFSWc1MFhsRldVTFFo?oc=5",
+      "publisher": "CNBC",
+      "published_at": "2026-10-13T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "semi"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "36a06d14ae40c210",
+      "title": "Semiconductors pushed into insulator territory - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pMFh2Mk94cURfTVRZWWpkREJ1dnZZcExHZDJIeUE3TmM0ajZaYmdTbjJBVTlrYU9Va3lTNUI2MDdiWWJqUjdCcUtMazdsVVU4ZFZ2ckl5M0dUeXpXTUhF?oc=5",
+      "publisher": "Nature",
+      "published_at": "2026-10-07T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "semi"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "6b14c037e3907c66",
+      "title": "Smart Siting: Renewable Energy - The Nature Conservancy",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdjg4aXpBME9TaDlHOXFpRGJoazUwQmtXc24wN1lsSERUWVhZVnBlMjdraG15emhaZV9TVDdhckRNSDdtZmQ5VW9lRUlXV2hJUEdPM0hQaXV6UkVxQzM1X3A0M296M3R4eHVNamdqQ2EzUUQ1SmYwLU5aaVNsRzVLaWlBd3VzS1piVi1LU2tfT3RjbnVzUE1oUUhWZGhFdFBoSEE0ZVVVU0dDa3FmUS1jM2RFeS0?oc=5",
+      "publisher": "The Nature Conservancy",
+      "published_at": "2026-10-15T18:00:31+00:00",
       "kind": "news",
       "family_ids": [
         "energy"
@@ -2823,11 +2823,11 @@
       "date_kind": "published"
     },
     {
-      "id": "a53f75580baf1e31",
-      "title": "Renewable energy companies fuel Brazilian data center boom, investigation finds - news - Mongabay",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX29CMzJGN3V6NWtrNUdiWGpPVUs1UUcwakdhSXo1X3JDMlpWcXlDOEJfSFhKRm1pNUFuTzRYLU1rZEJIODFoMXpSSkFkM01Lem12NzJTSDhrdkhLQzRmRnVGcDVaSEFUZnVlQkFJUC1OU2lLcG16cEFjeWJvd3hXSTdRYjFlRnBwcDUxRVRkdmFvc0Zmb0ZsNUdCQTE4U3JLbmJqam1NQWYzajAtSFNqUk9WY2hmeU80Vm1V?oc=5",
-      "publisher": "news - Mongabay",
-      "published_at": "2026-10-01T07:00:00+00:00",
+      "id": "90d341ebde0a8a9c",
+      "title": "India approves $19 billion for renewable energy programme - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORnR0ejFqdHRnUWFvaGlsRjlpeU0tamNTTU9hdkxTQklFMWNnUzJFcFRtYkxUTjA0SUJhMG94YmJieFQ4SjZQS1NXZnRHVHJ1Z2UzdjJGNHp1SkZwN29JUWlncEpBaWZNd3g5WHYyWUFUb0lEcmctaVk3ZVd5T2hnSXNheGllOU04VV83RUVGSHNRVlRKMTZqaEtYT2NLMGlVOWIwbVZGTV9oQQ?oc=5",
+      "publisher": "Reuters",
+      "published_at": "2026-09-30T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "energy"
@@ -2847,47 +2847,11 @@
       "date_kind": "published"
     },
     {
-      "id": "fd421c24c17274d5",
-      "title": "Resilient Distribution Systems Powered by Solar Energy - Department of Energy (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa21UTkJzaU91dEs4ZjQ3d0lCRlJFSzdiOUxpZGZaVC13ZFZvNGJEYWF0RkdQdUIweFp6Nlc1WGQ4cGx3U2REOE5Uc1B0RnpBUDFZeGtXbWQ5anJseXR1ckVBVTFpQ2x3SzZyRGRZQkpUdzBkYjZONGhGc0d4U0w0aXNUcjNNc3I3S2ZRZmRNOUI?oc=5",
-      "publisher": "Department of Energy (.gov)",
-      "published_at": "2026-10-23T14:00:32+00:00",
-      "kind": "news",
-      "family_ids": [
-        "energy"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "609db18188f33b2c",
-      "title": "Levi’s, Marks & Spencer launch renewable energy initiative for fashion suppliers - ESG Dive",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVVVCYmVYODFNT0ZqTXpEa0IxOE83N2J1b3N0bm1kZEdUXzZQSlBZcUZmd2xpdWJXNXc2Slk0U2FnZXF0MDZQMDdhelNiYm9xYldFVjFXeVJ5dFNtQXdyVlZGcm05bWNLN2NNM1lHZzVZb0ltbFB1UUFLdnF5eWFJNTA3TWtyeF9kRFA5aENVUjI3ZkFwTG92cEpWcVNOR01hT2ZRd0VMVmM1QmdhYnEwTzFXcHVMY1hT?oc=5",
-      "publisher": "ESG Dive",
-      "published_at": "2026-09-29T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "energy"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "d8036a30035bf1bf",
-      "title": "Where Opposition to Data Centers and Renewable Energy Projects Converge - Inside Climate News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVnBHeDB1ZnZDcHNBeVUyOTBWZ3NwSFdyeW9LN1NtU2FjVExxbGpLb0dMZmpMOEdaZ1otREFhV2NZY1JzX3E5Zmk2Y28yRHMxWEsxMmxwcVMtMXpwTEp5aVp2eUZMM1NTdkhJc2x4T0lHd1J3cVRoVzJmcTZDYTZQUEF3U2FPZWdaTGRVWUpLQkZnZEVWdFEwZg?oc=5",
-      "publisher": "Inside Climate News",
-      "published_at": "2026-10-22T13:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "energy"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "9b7dc770e0f66c4e",
-      "title": "Trump just effectively killed a popular solar energy program for rural America - Grist",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObV94X1N1cDV4YWsyTE5qZW5QOUJRd1VLQ18yTW44dmZ0T2NZck5wYmo5UEMxck9PNXduekNIQS1nZ0F0NnNic2Y4aHJ4Z3dFNzlMMWw3bU1lRXZIaFR4Q29RaGpMNXVZd244blcwVTVleGFaUE8wMjM1R0RxbW5QX0g5WmNkb29BUGJmbHFsZ2l3d0I3UnVLbG1RWHk3Zmc3ZEJLcmhLallmMDN5VW00?oc=5",
-      "publisher": "Grist",
-      "published_at": "2026-10-16T07:00:00+00:00",
+      "id": "af7154706cebf07e",
+      "title": "The GEAR Framework: Measuring how renewable energy boosts climate resilience in agriculture - International Renewable Energy Agency (IRENA)",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOTZ2SnVuRmxJVFFHXzd5X0x3Z1ZWblNhUVVqam9JVVFtWjNpVkQ4czI5ZHhCdGpaY1F2NWdTY1hobkY1bnYwUE1fWDJLNklSMGNhWGMxT2ZqUjhtOFl5aXY4YS13Z18zNzh4SWNKM3Z1T1RkT3JPeE5pUU1KSDhnb1RaZWlKcnREQ1BtQUR2NF8wRWp0eXZfRWJzSXJrR3F1akJDR1o2bWx3ZWdsOTJPX0JXd3ZCVU45bEVieDU4NWxGeUVwS1BtcXZUbkRNVVU?oc=5",
+      "publisher": "International Renewable Energy Agency (IRENA)",
+      "published_at": "2026-10-01T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "energy"
@@ -2907,11 +2871,11 @@
       "date_kind": "published"
     },
     {
-      "id": "391d15138ad7a996",
-      "title": "Turning wastewater into renewable energy - Marquette Today",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU1h5VG5YdmZaUVU3dC1fYVZONmNTR3c3MVVVREdMamJYdE15LUlZcWl6Mlc5WktPN1dCZEhZWk5VTXk5SzVjV2MyWTZ4Z0RYVlQ2SUMyVXAycVJBSXVZb2RrZkdIOFhQOThSYUlzUG1hdjUwOGo3b2gwcUFHd1poZWpLOA?oc=5",
-      "publisher": "Marquette Today",
-      "published_at": "2026-10-20T19:19:28+00:00",
+      "id": "87a212fefd828400",
+      "title": "Top 10 Things You Didn't Know About Wind Power - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWWxQdHhkRmhmdFVtZm1mRXk4aWNjZnF4UkQxYjloTEFub0MwSVRjcWppdHNDUkxtQ3J3VVZkYW5xUkRLdjQyUVVMeDlmMldoTUM0NHhZdTBsUmN4T2ptWjQ3eXJJZExJNzhta3dqY1lnQm1GdVIwclh2T3pmdC1wWUNFZ2lZUzh0cEE?oc=5",
+      "publisher": "Department of Energy (.gov)",
+      "published_at": "2026-10-23T14:00:32+00:00",
       "kind": "news",
       "family_ids": [
         "energy"
@@ -2919,11 +2883,11 @@
       "date_kind": "published"
     },
     {
-      "id": "7d7a6c96a6ce99ed",
-      "title": "California’s clean-energy grid powers through climate-driven extreme heat, meeting highest demand since 2022 - California State Portal | CA.gov",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdnhtZWk2RnFTSzAxVDkwMmVSY29mSFNpZGozQTFzakRhZXE3VzNUUGJrdlZ6NDJweFdJOE8zNmozdnBCY2tfd2dROFdXOEtKTldoREtQTmZUMld1MktqX1A1bWZOSjdScDNSRkRMNEp2NnFIUklSazBkRGxWNzZJbWJmeC1DRUhMS1lpY0g2UkJSdUpVbWU4NXpYM3V3SEJlODFBUkZpWmIzbTVfbWd0SXFEQkhnQWFaRFR6ZDVVRy16c2pjOElzM00zOHNBclZ5V0RrUWlXM1M?oc=5",
-      "publisher": "California State Portal | CA.gov",
-      "published_at": "2026-10-13T07:00:00+00:00",
+      "id": "d51da92aac573911",
+      "title": "Actis Is Said to Plan $2 Billion India Renewable Energy Platform - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb0dFbU9Qb3RzSkY5WXBfNmhpOGJXZkJFNjJPTzc0YWFuWGVtdS1ITmVzcmg4RVBKRzF5UzdKZTZFYXJXMk5fdnM3cmNRSXhkd1NKcVl4cFp0THM2bURtQzd2NVhNR181TGFIT3VUdktqZldDYmNrOENtdlRQZmtfU2lPRE92S0kyZnREUnRrOVB4N3g2dTF3dlNJbm1KY3dLckRweDFiMmdoR0xNTHRPUmktX1g?oc=5",
+      "publisher": "Bloomberg.com",
+      "published_at": "2026-09-30T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "energy"
@@ -2931,47 +2895,11 @@
       "date_kind": "published"
     },
     {
-      "id": "d9d4e98433bc9918",
-      "title": "Portland General Electric needs to double its renewable energy portfolio to meet Oregon’s first climate benchmark - Oregon Public Broadcasting - OPB",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZDUzSkZoVFZWRzJkOWpZZXczalpNRTJYZlJpYVBZR18wcVRTaTh0ai1rMFg5cHdnX014SVlzYW9LUmFlVkFycWp3Y2ZzMHh6YXpYbmRDTTNUNVplSmtGUl94Z1VUM1Z3aHc5dUlNUVkyYTk2TjJGUDZ6ak5RQ2RjN2U4U1pHbTZzb0swV3VhTV9HX2E0NWk0bldDeWZPdw?oc=5",
-      "publisher": "Oregon Public Broadcasting - OPB",
-      "published_at": "2026-10-22T23:42:27+00:00",
-      "kind": "news",
-      "family_ids": [
-        "energy"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "2c5ea2ff32db2b00",
-      "title": "How the biggest renewable energy project in US history finally got built - Vox",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWUhvclJrcXZXeS15WHlWdTlMR0VZMVB1VmlQX0RqRnZZUnJHQl9zbERYSm5xc1JNMUZuRk52Z3ozMnhKOGV4cng5eEhVcDQ5TjJIekpmaTQ0bmdGcXZ2Wm13eDNnWF9WMGNrRGhzbHVSSENVcXQ5cTRmaHBuNEtUZkh6RUxkWEt6?oc=5",
-      "publisher": "Vox",
-      "published_at": "2026-10-22T11:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "energy"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "94dd74cc40906fa1",
-      "title": "Ask the expert: What to know about renewable energy in Michigan - MSUToday",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqQjhZVHZCRS0yN09RVWkxbmpHSGZnNnhBTlpMc05OUUNZYmdGaTB5VHduRUVCVUZrZDVyc1JqeF9IbV9ocW45M052Y09LNU5jSm5Wa005TWpyd1BOVy1UNTRtQ3c0T2liRkx6SWJCcmxfSlBZ?oc=5",
-      "publisher": "MSUToday",
-      "published_at": "2026-10-12T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "energy"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "a08f80786ece285a",
-      "title": "Shock Therapy in the Land of Dragons: A Clean Energy Transition in Vietnam and Its Energy Security Implications - The SAIS Review of International Affairs",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOY2RtY2Z2bi1JUnMtdlBSc2ZSUzVnbkVvUWdRMlVKdXdiQlJNWDFaT1AtTEswd2FQUkpGelZ0S1FXdEtFblZqZ2JENlQ3VW5ycWRleS1FQ1NEemFZRDBMcWFsRTJqREF2MG9idHZHUWlLdEN4MDh1NkV6VEVPUzZIcXA0cDVucEtxSVFOeXZFcG9IMXZ1djZ1NWtuekFLdWV3WFRMcHozZTRUNFE5SnVGb01SRWtJSzhncENTYnlkTTQ0N1Y5VHlmcU9MYmFJanU1NkxoRGlLSzVJMGc?oc=5",
-      "publisher": "The SAIS Review of International Affairs",
-      "published_at": "2026-10-13T01:22:59+00:00",
+      "id": "4a22c48ac0f2f23e",
+      "title": "From energy crisis to energy transition: How renewables are reshaping energy security - UN News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzWVQ2cmxMSFlMNmtCa1RhYmRSNUtJUFlpd0lTR3ozYUxfQzRnaTdYcm9WR1FXMlNqNWhyUmRuUXlYYkFxX2Nxa3ctY3NhY2lRYXlNVk1hVQ?oc=5",
+      "publisher": "UN News",
+      "published_at": "2026-09-28T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "energy"
@@ -2991,11 +2919,83 @@
       "date_kind": "published"
     },
     {
-      "id": "60103824de8a734d",
-      "title": "Renewable Energy Update 10.9.26 - JD Supra",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xSGhlaVlqOE12ZmpVUGFpSzVJa0JFbENXbVNQMFRRWmVVQlE1SzRjR2VNQ2FtR2E4SnIxTnl6VVRPLTI0RVh2T2FfcldWbmZIZXRGaE9KQm04RGxJS3ktaVF0SlI1MjBnc1dhZW1IVWs3R1ozNEVBUWIyMi12Q0E?oc=5",
-      "publisher": "JD Supra",
-      "published_at": "2026-10-12T07:00:00+00:00",
+      "id": "88b41b9e492a680b",
+      "title": "West Virginia Files Constitutional Challenge to In-State Renewable Energy Requirements - Jones Day",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUHhkb0pJc3UwbTNZSW1oQUx0MUhsUmRtRDRvMGVwVnJmNzQxZUxpS2MzZVJYa05TZnFfSkZ4bEJsSTBkcXEyZlk2dUlYYjA2dFZQSzUtS2hudDJEN2tZX09TN0VjOTZMcmVGTnk5WHpfeEJxUTUwdXlIaERmN2l1LXF2RFhFbnNlbXRhTldncE1JZmJpTng5NGNrUHFoMko0T0lTTUNjVGtNVXBfOVM4d1dadklJZktVeERlTmZ2ZGUxWENmVG1QYlRB?oc=5",
+      "publisher": "Jones Day",
+      "published_at": "2026-10-01T14:46:24+00:00",
+      "kind": "news",
+      "family_ids": [
+        "energy"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "fc7183d7aad5d130",
+      "title": "Three EU Nations Call for New 2040 Renewable Energy Goal - Crude Oil Prices Today | OilPrice.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZTdvblJ3U1dBeU1XYlFTNmhWN3J5UzUxLTJCVkIyc05VUDN1ZFA4Y1hRT2dvdWF4bU9Tb21SUWkycVBVMGV0UGJFYWNkWnV4UjYteFNRWVVWV3JNc1p4aXZmVGxwdTZ6anF3dFh5NkxaSEpnMHlYdEdxOE43VHVOcmNPQ1NKb2VLbEQwUWRxcGJTU1RtNDJqNVE4Zkh3ekxDcmYtTDR6dkNraVNMOEU0OXBn0gG3AUFVX3lxTE5Kbm5RNnZmSU9iUHV6OUZ4V3dDa2xhZ1ZOOHQ3NThteGVZMHYzVDNaTEt4aWp0SkhPZHd4M2k2ZkV5TElLMTUzYnlzUWJaUExiZ2E5UnlzS0c3ZGNUZ09CTThMX3Rwa2h0cnNEa0F6NC1JUHpET3hzMHpiYWo0WWJ5VXpjUTVwUzItQU83VElwOWJZYTUya2J1QXIzWC1FV0loX0dHQnpUZ3ZMNnJ3YTJtZ0d0QVJuWQ?oc=5",
+      "publisher": "Crude Oil Prices Today | OilPrice.com",
+      "published_at": "2026-09-29T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "energy"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "de04013ffdbae723",
+      "title": "Renewable Energy Production and Use by State in 2026 - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CRlRSVG4zbUs3SGRFbW1lMTdPZW1ScHlSOG80ZWNlam9PRmtCZjhtUHI3N3ZhOGdSNmFwa2pxeGR4dEdyWjlnWUVMSzZPbmN3dFJBU0JBYW9vM2cySzN1dUlBZUpGR0k?oc=5",
+      "publisher": "The Motley Fool",
+      "published_at": "2026-10-06T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "energy"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "9170eb1d30201886",
+      "title": "Why clean energy hasn’t yet lowered your power bill - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRUNuS3lPUHVvS1dITXhBOTZwY2dub29mVkthd0ZUZHR0aVZrTTBjNGJXbmh1dC1KWEJFd3lyWV93aVF1emx0dnp0Q3ZNOXhIXzVIaENXNjJGdVNuVEwySnRLWG1ibzRUZXlqV083MHprNkRsV05UWDc0dHlUbjVpWmZ5bTg?oc=5",
+      "publisher": "Financial Times",
+      "published_at": "2026-10-15T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "energy"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "b2af384d1bc645e4",
+      "title": "Sumitomo Corporation to Participate in Large-Scale Renewable Energy Project in India in Partnership with Hero Group - Sumitomo Corporation",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE85SDBpcVhwRDRhaTdlOEV3bVBwLUpuY3J4aGYycXcxZ1V3N2FrLVptN2MzTG5iOFYwQVJITGZHZDU2d0tzc1RJQmV6RGVNc1owMHdkbXY0aG5KNEY2c1JTWWNTelNlTUZuaGFYUUtrVTZnZw?oc=5",
+      "publisher": "Sumitomo Corporation",
+      "published_at": "2026-10-05T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "energy"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "c392be790c428091",
+      "title": "Solar energy center begins operations with support from Elon University - Elon University",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFNGWEZ0TWRuTVVvNXVObHYtYXQzMmtJZkEwTWdhTTIyTFg4UVhzcFFaaHVETWU1djZ1c2RzMnJIVW4tTzhWQ1o0bjl4MjVpWXFWVy1JbVRvdmZFVGJFV3FiOWkycWpZZ0pYUjBrQnNYN1hEQW81QXNSOVJGSFRwZWI1dkVZbGlqcktfOVcwd2N1MlFHa3RoX2s5RnN3cWM1b0VHRml5MDJXa21sTlVMQw?oc=5",
+      "publisher": "Elon University",
+      "published_at": "2026-10-26T20:41:24+00:00",
+      "kind": "news",
+      "family_ids": [
+        "energy"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "438d43368a0d18ad",
+      "title": "Renewable energy in Europe: storage and green molecules - Moeve Global",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa1FxdVR5Rjh1T2FKckc2WUh6eWtCUVZGYkZyNHp5YmFnc0xiU20tT294aVZ6SmNBWFhaZXd3VVJZR2xrVy1pZ001TjdNNl9jQXhKOFlWak1YbGRXMU1SemNzV3hGRV8xcEpuTVpsajZvdm9sWW1EdDhJMVhlZXh1R0RxLXhQcEctcHNqOFpRVi1hb2thVFRLcmZLcjFpOFJ4?oc=5",
+      "publisher": "Moeve Global",
+      "published_at": "2026-10-13T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "energy"
@@ -3459,54 +3459,6 @@
       "date_kind": "published"
     },
     {
-      "id": "f2d09448cff4f6c6",
-      "title": "NYC Mayor’s Office of Media and Entertainment Launches “Made in NY” Filmmaker Listening Tour - NYC.gov",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BLXBUWS13aXdQUDV5cWtIZkRNSWQzLU1QcGw4NXJuaDBUZjEtR1FrUW9qN3kyN2tCaUhFMDFPNGhfb1JTWmJYWnVzWkdSUjRjMlR2bk94YUVNZngwSHl3cGhKVUJsVEtOZWhmZk9TOXY?oc=5",
-      "publisher": "NYC.gov",
-      "published_at": "2026-09-28T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "media"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "935d8105dff56d4c",
-      "title": "The 5 next big things in media and entertainment for 2026 - Fast Company",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdFZ3aS1jcXo4Qkp6TUg4NWNQWTlYVTFaaHZRR1FaTV9nVU12cHpyS1QwWFlObzJ1UUltZlVPZGo3NnJWSlRZWWs4V185RnlMNEJPS1VQN3lkVkFRb0V4T294NnV4ZnY0OUxHUHNqalFMTGNrUmFoZk9EbHpINDBsejRYWmpnZUZIb1Q1andrd3R5Y0tubTNR?oc=5",
-      "publisher": "Fast Company",
-      "published_at": "2026-10-06T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "media"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "c4d5519c23083bd7",
-      "title": "Stewardship Snippets: Entertainment and Media Studies - Grady College of Journalism and Mass Communication",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVDN6X1F4Uk51OVQyQmxPRU1qNVNCdm9jT19WMGVnbEtFSHdhdmJnLXpxd0lfYXhZNHc2UVdpdTdRZ2dOMHdhd1BSNW1GTUkxdWxjSGQwc05QS1pMX3VRNG04RzdFd1RPOHd5ekhlaEo4UExEYWJZX01EWk1BTW11OGFkYUFaaXM?oc=5",
-      "publisher": "Grady College of Journalism and Mass Communication",
-      "published_at": "2026-09-28T17:44:33+00:00",
-      "kind": "news",
-      "family_ids": [
-        "media"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "ef6e778944f657c0",
-      "title": "Biggest Names in Media, Entertainment and Sports Will Connect, Collaborate and Make Deals at Jupiter Festival Miami - Variety",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObUZpY0FaMUNjb1I1NmdZQkEzT0hMTWJUWjNFN2V2VTJOWGdqdGhVWks0UmpBa3JTNzZMTHlSNUsxd01ZR2l2LTdSYVVmNEI3Z0pZVzJNNG9iUTdiX3QwNnpSdmJvMHVHcFdHQUhQREhsbHhSamZ5Vm5scXNBWUFYZDBGWktfWC1SWV96WGVrWjBRSFQ0cW51ZDVod2FneVNxVnlKZWhsMzF5WGFxU1Q3SWo0SHVpWGhEcDBWekx5YS1VSDFxREtRWG9KLVdjam9raExNNzltUzh3bHRG?oc=5",
-      "publisher": "Variety",
-      "published_at": "2026-10-01T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "media"
-      ],
-      "date_kind": "published"
-    },
-    {
       "id": "75e6f437a9ecb6f8",
       "title": "OU launches center focused on sports, media and entertainment business - The Journal Record",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVV8tUWxRZUFBZFduN00tX1gyc1RmVlF3LVFkSVJXUzRCVUJRVlMwaEhLUVAzdjhHSGJpSG9MTzUwSTU5SGpOSDBrYi00UWRVLWxXM1ZIM011MmVTd0pjVjNPYlUzb1hyRlFuN0dZN2JXdlZBT01ZRmNXNWxkcnlvTDdWR05ITlZnNGs1eEJ3Vm1sUHpTNXdpZWNvTmxqcnVM?oc=5",
@@ -3519,11 +3471,11 @@
       "date_kind": "published"
     },
     {
-      "id": "f461b1b47943d1f7",
-      "title": "List Of Hollywood & Media Layoffs From Paramount To Warner Bros Discovery To CNN & More - Deadline",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZMmZCMVAxS0dWa2dKSGJNRFlUbk04SllZS2huVHpGN3RmT1pxdmxPQjJkbWF2cVVSR0VERTJHMWpLVEtoYXBCd0FWaG93VVJ4TEFsdXpIWG9kNDZ0c2ZodnRrbmlnTXExcUdBTGRHYkNEWkFxWWhtaQ?oc=5",
-      "publisher": "Deadline",
-      "published_at": "2026-10-14T07:00:00+00:00",
+      "id": "8364001c0f5d6b69",
+      "title": "Pryor Cashman Represents Outerlight Entertainment in its Acquisition of Bleecker Street Media - Pryor Cashman LLP",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbnhSUmxQX3hoZUY5M1lseUFHR3RlUnNReFQ1aGpEZllySTJaSkhDNE1fLVZZOG5ROURHTWp1NjBmYTFPSFd4RWdSNjdNU1FpU29hWnl1TzhpSEVSeVhXZENlb01ZLWVVOWh5TzVjV2hlbWFBNlg2OHJHQThXSi1QLXVNbWI3Q1hDRzdDOFlFQmktQUQzMXM1RnhlNmlBbHpEMlZEMTd5WWExcHk4RHFHRVpEcUVLT3RnVDdYSkxzR05QZ1RYQlE?oc=5",
+      "publisher": "Pryor Cashman LLP",
+      "published_at": "2026-10-16T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "media"
@@ -3531,11 +3483,11 @@
       "date_kind": "published"
     },
     {
-      "id": "5cd766be33b86db5",
-      "title": "Q2 Earnings Review: Media & Entertainment Stocks Led by IMAX (NYSE:IMAX) - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSUd0c0hJamluMU9WeHVldlRFdFE0QzJENGNSWWhxRDdrSG12SGJ6VFZOLVNjMnFLY3dtd1BkVE1UWXhWUFBjYXlVNWx5TXFRZ0NpdkRndEhIblhubkZ0UG1hNEhyX2ZjbC1LajNMZXJhSEFyMk1DVDlQVzFnUG40Uldobmpqa1lqYksyTE9YbG9FMWEzNmdicFJRZzViN3cybjlCZ0JaVXNMUQ?oc=5",
-      "publisher": "Yahoo Finance",
-      "published_at": "2026-09-28T07:00:00+00:00",
+      "id": "cb07827cdd099607",
+      "title": "Multitude Media Promotes Gem Pinkney To New Senior Leader Team - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYUdYeGdsRU9aNWdnRjllSVF4Z2lmdUg5NGxxNWJQdmJub1h6OWZ3c2dUOEc4WlRnRTdNa1BjLXFCdjU0NnZIb2lQR0JPZGhnNUUyRUN6SWhlaGVqTU5rUTI4bFVicXJBOEEzZkpvYlMyOG00dFR4eG95a2k3ajg3V1JERUhONmxjV21iY1IyQkdxUzYtV3Q4VWFJUUY2SGt3?oc=5",
+      "publisher": "Deadline",
+      "published_at": "2026-10-15T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "media"
@@ -3555,6 +3507,30 @@
       "date_kind": "published"
     },
     {
+      "id": "439be63db644fe6e",
+      "title": "Biola University Opens Snyder School of Cinema & Media Arts to Prepare Students for What’s Next in Entertainment - Variety",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOWpvbm04Y1QweUVXcDJ3WjMtUVpHU3ZKd0cybmQyYXc0VEpxOG1nc2x3V0tySDN4R3FFMkdJQ1dndno3dGx4U0cwR0MxVDBhMHFrLUg0RUZJanhfSDZjRlk1OXY1SlR0WHdJbjhlRW1uWjJNN1dtZ2JiV2syRy0yZTh5STRmenpnTE94ZGItTDQyR0xUOXVJMnFDNjh3dWV1ak82QU1IZlAtZGNC?oc=5",
+      "publisher": "Variety",
+      "published_at": "2026-10-15T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "media"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "8150de681b456ac9",
+      "title": "Former Virgin Music Comms Head Liz Morentin Launches Strategic Communications Agency - Billboard",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNjZNcHRJVnR3SkdwdF9rcHdIWlFXRmM3MEJBUm4za3pBR1c4MVpDT0lSZHNic3owYmpXdDN1bnc1RVlZLXpGLS1ZX3BZdjhfaWEwR3ZSSXlRZ2dUMFZBS19Dbkt0TXlkdnAyZ0doM0dESk9yMnhuaXM3OFJBVHpVaUJHTFZvUi11M0FFSlQ4N0dYdkJy?oc=5",
+      "publisher": "Billboard",
+      "published_at": "2026-10-22T14:02:06+00:00",
+      "kind": "news",
+      "family_ids": [
+        "media"
+      ],
+      "date_kind": "published"
+    },
+    {
       "id": "2cc5ff4a8d976299",
       "title": "AI Visibility Index: Media and Entertainment Insights Q4 2026 - eMarketer",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa1hEd1U2UG5wYjNwa3JVZklGZW9SQXM0S3NvdGdnS05oRTBuUjhqcGYwN0lGNDRjeUNNLVlMT3BaRUNGMld4Qm5XekNUZVVtOXhVRnQ1bFBtc2ozTEYwUEJ4TGRJeS1aam1PWlhMcDB4dnFqaFNZdUtQMUVveF9ZQVhQaW9KVVNOSFU4UWxkVTlXei1z?oc=5",
@@ -3567,11 +3543,47 @@
       "date_kind": "published"
     },
     {
-      "id": "d389cd39536410e2",
-      "title": "Breakbeat Media Secures Expanded A.R.I. Financing to Scale Entertainment Platform - citybiz",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQU1sYURGUjlJMWNQc0dQd1FIWnNBQjVUSGUyeXVBUEJPWk40TFRHSHEwZF92WjNJMHBlNXlWbU55ZU5UUGM4ZG5MN2I1b3FWS1dvUFV6bTd2QjJzMkJ1Mmc5TU05TXF1N1E0MXE3ZWdsVldwUkNVVTRXbDJjSDJpdzhyalZSZGN2dVhPeFAwb0k4MFZGSXljc2hLNHNFSHRNS1hsWW9ndW1rWkd6S2E3S2lrQzRPSWRUNDNZ?oc=5",
-      "publisher": "citybiz",
-      "published_at": "2026-10-06T07:00:00+00:00",
+      "id": "d6997d40f30a2492",
+      "title": "Gravity Media Drives Lifted Entertainment’s I'm A Celebrity... The Wild Frontier , Through Rapid-Deployment IP Production - Sports Video Group",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbDdSVHhReU5wRnRiVlUyVWU0N3huLVFxZlpuUmpmOEp1cEFxYUplanQwb2JaNEdoLVJTTlpSa2dSQ0IwVlFiUDFZMnRfeXVJTnBhVjJFT3pxVTc4Ui1CVnpEOWxJWnBUcjNLQ1ZFRE9Kb1pES0VKMENTcUxXRFVGVnBkNmFDYVhnNGcxTEhTWl9SYU9PbFFVZ3VKTVQ1czZvc3VETDQ4SFJQVDAxMHE1YkJtcHVseHF0SnVlbDY0ZEMyalZ5bDRYMF8waENqZ1BkQzZnNEhzNWRsc0JyUWRDaDNfZndwcFA1cTRmRjV3?oc=5",
+      "publisher": "Sports Video Group",
+      "published_at": "2026-10-20T14:24:48+00:00",
+      "kind": "news",
+      "family_ids": [
+        "media"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "49fe0b5cdb012ceb",
+      "title": "AMC Entertainment vs. Roblox: Which Media Stock Is a Better Buy in 2026? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSmV5QW1HTktrMHlBOEg2VDhOazZORVAzaVp0NmFab0ZWS1NrcWdNUG5Ed1ZPZllOS3VySGU0MnVXbVpmeHM0anVuNXJYTDZFS1RfQVQtXzJTMW1WNkcxTTRqOGFOSWZMUVFFUUdOZUF1S0VYM3Q0aUJMZEhxc29jSDZVdXFqLW50TzBhMFIzSEM4N2hWeW1HcEJ1cUYtRGNELUlVSUhQVkhoeDhtZUE0Ykhod2FmOU92aFpnWE9qQQ?oc=5",
+      "publisher": "The Motley Fool",
+      "published_at": "2026-10-21T01:29:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "media"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "18837462974135db",
+      "title": "Chad Lowe returns to social media with poignant post after daughter Fiona’s death at 13 - Entertainment Weekly",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWDhrYk1RT3F2eXdwbnIwSTRBcjN5YU9FSWE5ZHRINHpqNVViSDN0Q3VpUXFOVW1rQ1lJVXlNMWtnNVNRY3VzM2I5ZEl4QUt3OHVPcWNBcEhMM0VScXJwYTVjVXZkb2dGcm1sSzFWSXlhS1dad1hLaEJlTjRfNDZ0OHRQYzc5OUdudmF0QWZKTGxYMmts?oc=5",
+      "publisher": "Entertainment Weekly",
+      "published_at": "2026-10-08T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "media"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "b5c87c34e4d01c33",
+      "title": "Banijay Execs Tout Global Entertainment Ambitions Following All3Media Merger - Media Play News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTFY3Wk1OdmFOdjdGQlUtREpObWpQb3BkcGhkRTlaWWR4MkYyZFpkNERLbHJnUVNBUHlRYk9HUW9ySjVGWG9Qa0EtS2djaElpNHctQ0gtMThaODcta2JVY1p1aV9jcVNwMVFIX0xremd2cGtuNm1rbUhhTjFPOGEzTXVBNFNicVYwMlQtSmozcy16N1VYbnZXdG0yZzRFQTdNVjB3Q2dXYUVDTGs?oc=5",
+      "publisher": "Media Play News",
+      "published_at": "2026-10-12T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "media"
@@ -3591,6 +3603,18 @@
       "date_kind": "published"
     },
     {
+      "id": "bf5907c568c19a90",
+      "title": "African Media Entertainment Limited (AME.JO) Analyst insights, Price targets and Recommendations - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13YjJ6TWRsS2pJRElqMEhtSDZvZnlRZG9TZDRCeUZxbXFKWFQ4aG9mdmdqOHVEQ0pta3V6bUZmMUNWSXo5QWFnRDJKV2NhUFo5WVcwalVCa2JQU3lJSVlVV2tyZTJXQWxtV2lj?oc=5",
+      "publisher": "Yahoo Finance UK",
+      "published_at": "2026-10-21T23:01:09+00:00",
+      "kind": "news",
+      "family_ids": [
+        "media"
+      ],
+      "date_kind": "published"
+    },
+    {
       "id": "68e375894dc460cf",
       "title": "Authentic Brands Group Taps USA Today Co.'s Lark-Marie Antón As Chief Comms Officer - ADWEEK",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbkdkYmhJUkFPYkhwaWJsalprR1lwaGpGb2tkTElMQ3FjZDBPWFVac2NjRjcza3pmZlRGby14RmNVSHlRdzNIWGJxSGRkbHR0dk5xLXlwNVI0dHd5ZWI5eHBmQ2F1Vi1JRDc5SVdfVms5NDJqNkZPR2F2cEhEUDZ2aXN5WWx2NWFBOG0tclpDcUFGTTdpYlRjS0N6dFhJaHlNUW1yMQ?oc=5",
@@ -3603,11 +3627,11 @@
       "date_kind": "published"
     },
     {
-      "id": "ba679a1dc29d677a",
-      "title": "Davis Polk Welcomes Prominent Media & Entertainment Partner Glen Mastroberte in Los Angeles - The National Law Review",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOamNrOTk4UG40V3g0M2ZnVWZLcGZubGhMUUI5dTJEaDlVQlByMTBGTzNvZkRvNTdXR1lWRzNtMjJ1ZnlvSmFjYnJMM2dtMFNKM1VxRERidkVkMlZzNWdjeS1VUFhFY01yQTVYSFlpcVdoVVg0UFFaQVNySW1vMFRMSV85TEZudlBGNi1GcHpFYUV0MnpHV2FzdFlQU09vdWFKWkJ0VVJJbnNzMzF4cGtaeDVVRFg?oc=5",
-      "publisher": "The National Law Review",
-      "published_at": "2026-10-07T07:00:00+00:00",
+      "id": "f2bb9092a1c2c601",
+      "title": "Bleecker Street Media acquired by Outerlight Entertainment - Screen Daily",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN05weE43N2kzU3J1SDRKWXdTcVQ3ZXQ1VWtkUVkxSWJYaWRWMTZtelNIbERReVd4Tmhtb29RR1ZuZE1xNDNwdFBjQmk1djRvQXB2cVUtR0hNeXByREhDMXBoc2NsRDRXVmh6QmZlc0N1YUxsaE03TmhpVV9YWV9abnNXUG9NaU16OWRyc1gyVV9UVU45U0VUbjVCQW1oejdYMUIxN2kxRWZWSzQ?oc=5",
+      "publisher": "Screen Daily",
+      "published_at": "2026-10-15T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "media"
@@ -3615,11 +3639,11 @@
       "date_kind": "published"
     },
     {
-      "id": "f1c73e9e1efb6210",
-      "title": "Three Six Zero Launches Entertainment & New Media Division Led By Rebecca Dowell - CelebrityAccess",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWE5qelNvbWtGUHhvSUdjYW90OURtbHl4VWxBVkZfOWpRUllTR3k3V0RXV2p6UHAybjU0OERsTU41Vzg2YnpjaUJNcElkWUE3enBPSW04S1VZU0RqM2hXcEI0S3gzMWV4VGtfeXJmZXpXdFc4dUp6anFoempXVmY0akFkaUNtTG9VbzhzT1RveVVXNUFCUW9PdkFlQ1hhYXM1NExnRndscWlOMlBVQnZNQWJkbVBVbEVUenc?oc=5",
-      "publisher": "CelebrityAccess",
-      "published_at": "2026-10-25T11:00:04+00:00",
+      "id": "51c8ad31f595fc64",
+      "title": "Outerlight Entertainment acquires Bleecker Street Media to scale theatrical business - Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVU1mMVNUNFJfMURmWmJ2aXF4cTFGUDQ3SW44YkFJSEpiaEdBdm9FQmNZUWZOWV9FNU52NkQ1alBVUHREdFkxQTBJWWJvWUk0dTN2S0xaWFgxUjlyMU9aYWI5VnNNLXJkTFpNWHh6ejUyU0syY3UwWFVNXzNfME9vRENDZ0ViSHlkMHdqVXhiSWZnTjhZdTZXbTNqWFBuM3VHSFVrM2pNYWIzMjRQcVFJVEUyQ1ZfWC1GeWc?oc=5",
+      "publisher": "Dealroom",
+      "published_at": "2026-10-16T01:02:50+00:00",
       "kind": "news",
       "family_ids": [
         "media"
@@ -3627,11 +3651,11 @@
       "date_kind": "published"
     },
     {
-      "id": "b3a28c153af86f04",
-      "title": "Oprah Winfrey | Biography, Talk Show, Movies, & Facts - Britannica",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE10aVpEMnJSLXBWSXhyVmdsczhQQ09hbUVad3dTdXJZMjV3RG5MV0g2WVNPQ0MxY19LajdxVHY3LVlXaEtkc01HUjhKR0xlaVZfNjhfc09WSVVWTUhBOXlN?oc=5",
-      "publisher": "Britannica",
-      "published_at": "2026-10-25T05:00:00+00:00",
+      "id": "f06b444dd1038ffa",
+      "title": "David Ellison, Dina Powell McCormick, Chris Winfrey and Roger Lynch Join Paley Center Board - The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcl9yaTZwblBiWG9nd3Y2ZVJLaGdlbHhoNDBRX1c1bTE3Q2dHWURlakozcG0yanJqLXRMVURCV3BaT0FnRGUzUElZLTdWYUdfcTh2U2w5VWRmSWxQSnlzV0VIc052bGZRUV9VRmlLLXZUZ2FKa0Zub01oRDNOZlZSRW5DVjZRY291bVZmRzRkVnFGWGdQM05lTmkwUGdqX3BOQk04WExyOEJ4X1VpeVpKWlRRdXdMR2xyeF82WktXRjI0YjhJTEJV?oc=5",
+      "publisher": "The Hollywood Reporter",
+      "published_at": "2026-10-20T13:20:01+00:00",
       "kind": "news",
       "family_ids": [
         "media"
@@ -3639,35 +3663,11 @@
       "date_kind": "published"
     },
     {
-      "id": "1bfdeac253cbcf6f",
-      "title": "PRO SHOP RAISES $24 MILLION SERIES B TO ACCELERATE NEXT PHASE OF GROWTH ACROSS MEDIA, ENTERTAINMENT AND COMMERCE - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQkZtb0QyOUkxdk1jNnpNcnVwN3hsaFNrMTdGcVJ6VEphbjdTTm45bXBETEtySXc5czB2NXE5eW05TXRtVnBEWm1SNGdLMHR2T1BRQU16M3VFelg2X0ZjSGp3ckpCSl9tYXpzY3BCbmFXOFNHMm5OMWtvODBiRTB0NnhxT1NPTkh5RzBDbUVBTEJZSFVJeTBOZl9ZMHRYSHVuOXdlX2pHdVFnVU5pSWd6RDhaUUs4SmlDcU1RTUFHbXRUMzBrZkZWSVRKdHlSR3FEZnhiVHdlZVppV1YwWU9ycDUyYzVNSXlVNGM0c0l4RFdCYjN2ejNDbkFB?oc=5",
-      "publisher": "PR Newswire",
-      "published_at": "2026-10-05T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "media"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "9ceb357acf51681e",
-      "title": "Call Sheet Media Welcomes Acclaimed Musician and Entertainment Industry Veteran Lori Andrews to Its Team - EIN News",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOM1YwSWc5dXJTM19laWhSMVNKYlZFNEE5bFZxMGh5T1d5TFBncEpfMUpubGVqeHJ6MzY5UXFNdjd0UHFHQlNyZ1RKVThYeTdOWHFmY1JycHNEdzJ6OXRPX0ZDWmhsSDhFTlJnNHg2bVhTUEtwUGRVV0pFQkhkM0xFMW1YSFBiaWdqNkVkUjV1RTkxaVRXOThaOVVYampSSW9vMXBjZFh6ZUhySFc1dW9GR0JxWnU5emZrTUhPOTN1alBEZkppWkxTenRVOHltSkp3S3FDUm1YcDJib3BGNzhV?oc=5",
-      "publisher": "EIN News",
-      "published_at": "2026-10-26T20:18:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "media"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "bf5907c568c19a90",
-      "title": "African Media Entertainment Limited (AME.JO) Analyst insights, Price targets and Recommendations - Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13YjJ6TWRsS2pJRElqMEhtSDZvZnlRZG9TZDRCeUZxbXFKWFQ4aG9mdmdqOHVEQ0pta3V6bUZmMUNWSXo5QWFnRDJKV2NhUFo5WVcwalVCa2JQU3lJSVlVV2tyZTJXQWxtV2lj?oc=5",
-      "publisher": "Yahoo Finance UK",
-      "published_at": "2026-10-21T23:01:09+00:00",
+      "id": "8c52d553b108c01b",
+      "title": "Three Six Zero Launching Entertainment Biz Under Rebecca Dowell - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjdRZkpTaEtSNUZscDlHNzRtQXh5dFkwamlpdGJsQXBLUVVYcUVCZ2pRMElOZWpNelgtTTVoNTJTbHFQemRwRDctdlJFcU4wbjFiNnZnanc3QjBrY0o1NmZnRklUZ2xpeHVVa0RaR1M5cnVvekphNVBIWTNGcXY1c0lZU0RHWGhCTHFJbWFFeEU2LWdRTUUxN0YyOWsyTk0?oc=5",
+      "publisher": "Deadline",
+      "published_at": "2026-10-21T11:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "media"
@@ -3687,18 +3687,6 @@
       "date_kind": "published"
     },
     {
-      "id": "9095a9259b555efc",
-      "title": "Aaron Potts on 'Project Runway' and Fashion Leaning into Its Humanity - BKMAG",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQUhVWThONjhWamU0VGUyNkwyT0FadnBSZDZibWs3R1ZidF90SzQ1cWZWSVdrbkplZEdzUUtFZ19WNlg4WXAxNTlIb1czejY4NHZWc2otUEpFbHRfV2JWZXJKdlhMUllobVZQaE0yOEtBbjdkR25DbGFjR0lUUnJtR2FJR1c?oc=5",
-      "publisher": "BKMAG",
-      "published_at": "2026-10-09T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "creative"
-      ],
-      "date_kind": "published"
-    },
-    {
       "id": "49ba0a858aeb5adf",
       "title": "ECU Notes: Interior design, fashion students explore fabrics of life - reflector.com",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNY3V0YnJRR3VJcG1zaS1rZnlDRWNqR2F3OVlZQ3hOUnpYT2pEY2lxYllpMjYyekw0NWlQTkRQaUJ2WHQybHRXWVZrNlpUTVFOUDdvZ1BzWnJjeVdTQUd3ZXB6LXp4RDdFTkNWcWVaQ3d1d2t6eER1WGhyVnpBdHZBR2JHM1dJUjJlMVBtSVdrZU9lUnAxMW42Sm5mNDJwYzJuV2FxM3FhZExYZ1ZLdXV1S01jZnNaamZIMGdpcGI4ZkJLbHhaUjJUMmVXNEJGc0gwdUExSWZNSTBKWW1xTlFoV2o1b3p2VTlC?oc=5",
@@ -3711,22 +3699,10 @@
       "date_kind": "published"
     },
     {
-      "id": "f11ca117664d20b0",
-      "title": "Design A Fashion Board That’s Totally Aesthetic And We’ll Reveal What Your Energy Says About You - BuzzFeed",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQclB3aFNYdTN2MHo1S0ZQYThSVXVveDhRZlJYbU15WjRFOUR1Wm1vU1V3aWVnR2pzUE16MzdVUXROS2Z6Y2FDa05mejEzZVNSRU44VFJnWndqejU1YzUzcmVQaWNmWXFLQ1ZVYjBDTC1ZbS1LV3M3ckp6Skg3YlJXSElzcnJSN3hDTnBQUkxWaWNWWi1scVdHWUhlaUY4QkxtSXc?oc=5",
-      "publisher": "BuzzFeed",
-      "published_at": "2026-09-30T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "creative"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "4680ab024f16e5df",
-      "title": "Memphis designer Carolyn Corbett finds freedom through fashion - WREG.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNjF3Sm9BNWtEYzhkZE83b1R1clh4WXZkWmQxSjVJcml4dHBrUjhtekgtU1FTOUFBbmFCWGFBZGloVHZRSG40SFdZdkRZcU9pa2VHbnpSN1FMdWp4Tk42bWlpc2pvcUU4czBOUjYyakFXYmNmNGJRRGlPeUdOS1lhUW5WSXhLdnpUN2JiMS1LUnhTa3hYSU9jbzY2RmdCZ9IBowFBVV95cUxQSEFSNml5QjVQcmVnSUhHb2dmVTd5a0xJT2g2bHpWZ3gzcHkyUWxiUjU1anJxMmwxT1o2aEtwdFFqaUpwMTd0UEVqLUVINHJaT1VHX0NOWTZjaUlfYXFFY2dDOThSVXQyQjY5a1M0TnV5M1VjaE1pOHJUQmdlZnlPQzBrYzJ5QWtLZlp3TmNXQVJveGZhODA0VmR5OGZSaHpZQUtF?oc=5",
-      "publisher": "WREG.com",
+      "id": "9095a9259b555efc",
+      "title": "Aaron Potts on 'Project Runway' and Fashion Leaning into Its Humanity - BKMAG",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQUhVWThONjhWamU0VGUyNkwyT0FadnBSZDZibWs3R1ZidF90SzQ1cWZWSVdrbkplZEdzUUtFZ19WNlg4WXAxNTlIb1czejY4NHZWc2otUEpFbHRfV2JWZXJKdlhMUllobVZQaE0yOEtBbjdkR25DbGFjR0lUUnJtR2FJR1c?oc=5",
+      "publisher": "BKMAG",
       "published_at": "2026-10-09T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
@@ -3747,11 +3723,35 @@
       "date_kind": "published"
     },
     {
+      "id": "4680ab024f16e5df",
+      "title": "Memphis designer Carolyn Corbett finds freedom through fashion - WREG.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNjF3Sm9BNWtEYzhkZE83b1R1clh4WXZkWmQxSjVJcml4dHBrUjhtekgtU1FTOUFBbmFCWGFBZGloVHZRSG40SFdZdkRZcU9pa2VHbnpSN1FMdWp4Tk42bWlpc2pvcUU4czBOUjYyakFXYmNmNGJRRGlPeUdOS1lhUW5WSXhLdnpUN2JiMS1LUnhTa3hYSU9jbzY2RmdCZ9IBowFBVV95cUxQSEFSNml5QjVQcmVnSUhHb2dmVTd5a0xJT2g2bHpWZ3gzcHkyUWxiUjU1anJxMmwxT1o2aEtwdFFqaUpwMTd0UEVqLUVINHJaT1VHX0NOWTZjaUlfYXFFY2dDOThSVXQyQjY5a1M0TnV5M1VjaE1pOHJUQmdlZnlPQzBrYzJ5QWtLZlp3TmNXQVJveGZhODA0VmR5OGZSaHpZQUtF?oc=5",
+      "publisher": "WREG.com",
+      "published_at": "2026-10-09T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "creative"
+      ],
+      "date_kind": "published"
+    },
+    {
       "id": "1dc26b9da6bf2830",
       "title": "Vera Wang on Fashion, Business, and the Future of American Design - CFDA - Council of Fashion Designers of America",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZWdtbjRPSFV4LTJLUG03bmRWRjZhYkNYRzRQSkgyUTZHaEFBZ2U0WnpieVB1djJSSEI0eTh2UlBjMjBpQlExQ3Q5ZE1sZ2p6Zkh5M1dheFp5TnkyQ2NZdzRjZ3FDUGdRak1vNjE1eDM4dHZ2QS1lREF4dVNFM2dHanM4NlhNUVk4TnM3VlRKQQ?oc=5",
       "publisher": "CFDA - Council of Fashion Designers of America",
       "published_at": "2026-10-16T15:42:44+00:00",
+      "kind": "news",
+      "family_ids": [
+        "creative"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "f11ca117664d20b0",
+      "title": "Design A Fashion Board That’s Totally Aesthetic And We’ll Reveal What Your Energy Says About You - BuzzFeed",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQclB3aFNYdTN2MHo1S0ZQYThSVXVveDhRZlJYbU15WjRFOUR1Wm1vU1V3aWVnR2pzUE16MzdVUXROS2Z6Y2FDa05mejEzZVNSRU44VFJnWndqejU1YzUzcmVQaWNmWXFLQ1ZVYjBDTC1ZbS1LV3M3ckp6Skg3YlJXSElzcnJSN3hDTnBQUkxWaWNWWi1scVdHWUhlaUY4QkxtSXc?oc=5",
+      "publisher": "BuzzFeed",
+      "published_at": "2026-09-30T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "creative"
@@ -3771,11 +3771,35 @@
       "date_kind": "published"
     },
     {
+      "id": "f33fb81f82485fe2",
+      "title": "Anna Sui’s World - Newcity Design",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tMHZNNHVjS0I3ZVJPdGsxRk45eEE1dkpDUUVDTGpvQlBZb0FKMWFtejJib09NUjkzbXVfdy0tMy1lQXdRNGV1WGd6MFJQQlhadDZpQ29UcFFLYzZ6Y2VZcVVsLU4?oc=5",
+      "publisher": "Newcity Design",
+      "published_at": "2026-10-09T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "creative"
+      ],
+      "date_kind": "published"
+    },
+    {
       "id": "644463ca8bbe6ffa",
       "title": "Gators go backstage at New York Fashion Week - University of Florida",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54SzN1cFB1R1FmRzZMUGNWSEFORGtNVVhWTGxmemFVSkZ4bnd3SW1oY3lOQlVjeExpSVVkbzJ2TXQzRk1vRjdUTnV3QnBEU0toN3dPM2ZKTWNRYmoxTUR4czBkR2xzVUVEMlBUU2Z6cWdCbXdyMVdBNlNsTQ?oc=5",
       "publisher": "University of Florida",
       "published_at": "2026-10-12T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "creative"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "af1b27e245d7bc61",
+      "title": "VIDEO: Charleston Fashion & Design 2026 - Live 5 News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWFp2dm10MGZiQ2RjaTY1RlZrV1NwNjA0YlhseGF4UDN3QjFXUkpHR2g2S2FmazlfMV90Rzg1OEhoSkM4TnM2dzJXZmFkMWE4Zzg4RFA5enNJaDlhelZ0aTR3V0ZmWE5tVDM5cmlJQ1J5bElWMWhjSTFPc0F2aldrVm9sZldJckU?oc=5",
+      "publisher": "Live 5 News",
+      "published_at": "2026-10-04T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "creative"
@@ -3807,18 +3831,6 @@
       "date_kind": "published"
     },
     {
-      "id": "77081e5b2e4d3e43",
-      "title": "Models flaunt cultural designs at SU’s African Student Union Fashion Show - The Daily Orange",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LaFVINWFtSXZIaXRNcnYtR21XUWdvd2pwbWRtVHpfSWZoSXZfQmVHZTQ2WTFNMnY0dDQwOUw0YkkwcHppcENKRjA0eGY4NUpfZXlYek53aXhpYUoxNEZRZzVn?oc=5",
-      "publisher": "The Daily Orange",
-      "published_at": "2026-10-26T04:23:23+00:00",
-      "kind": "news",
-      "family_ids": [
-        "creative"
-      ],
-      "date_kind": "published"
-    },
-    {
       "id": "bf7b02d75eecdc28",
       "title": "Parsons MFA Fashion Design & Society Transforms Its Studio Into a Runway Venue For NYFW - PhotoBook Magazine",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLTdkYkVSRklYeFVWR1VhYTN5dHNaOTRNRkt5d09TNkxaVWZEcE92UHAtT1NMM0FNaXhwRnVYeW1nVXBHeDJmMFdlSnZDa0xMRmRxbXRjMTNTeHpKel9qMnExUjYyR0JjUnlwSV93SFBNZE9KeUZZOXBHNTVSTjg5Y1F3WDZtdw?oc=5",
@@ -3831,11 +3843,11 @@
       "date_kind": "published"
     },
     {
-      "id": "af1b27e245d7bc61",
-      "title": "VIDEO: Charleston Fashion & Design 2026 - Live 5 News",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWFp2dm10MGZiQ2RjaTY1RlZrV1NwNjA0YlhseGF4UDN3QjFXUkpHR2g2S2FmazlfMV90Rzg1OEhoSkM4TnM2dzJXZmFkMWE4Zzg4RFA5enNJaDlhelZ0aTR3V0ZmWE5tVDM5cmlJQ1J5bElWMWhjSTFPc0F2aldrVm9sZldJckU?oc=5",
-      "publisher": "Live 5 News",
-      "published_at": "2026-10-04T07:00:00+00:00",
+      "id": "77081e5b2e4d3e43",
+      "title": "Models flaunt cultural designs at SU’s African Student Union Fashion Show - The Daily Orange",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LaFVINWFtSXZIaXRNcnYtR21XUWdvd2pwbWRtVHpfSWZoSXZfQmVHZTQ2WTFNMnY0dDQwOUw0YkkwcHppcENKRjA0eGY4NUpfZXlYek53aXhpYUoxNEZRZzVn?oc=5",
+      "publisher": "The Daily Orange",
+      "published_at": "2026-10-26T04:23:23+00:00",
       "kind": "news",
       "family_ids": [
         "creative"
@@ -3872,18 +3884,6 @@
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLXd2QUM4a29IczRQLVhoMXgwZG9jWkpQZmJINlNDbE9vNXA2RGxZZEZBaHJqVnJuclVfSzk3YVRjTlNOX1h6ZkoyZmNTT3lTSXZ2UDFudkNoYkM2a3VTWFhpSWdwaDlpQmNwZHRjS2VTWmtBVzlfUTJrRWpVeEwyRFFQVDhEa3Y0RkM4dlZ6enZpczduR194LU9aVXpGU0VRQmtuZnJ2M19RdFl5SFJidkZabVZpS3hXMV9rQUhrMmtMdE5wQS0wVGRoYVpOTVJ1YXFPdEs0ZVlFSmxER0tZ?oc=5",
       "publisher": "Facebook",
       "published_at": "2026-10-19T16:03:29+00:00",
-      "kind": "news",
-      "family_ids": [
-        "creative"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "895a28f0feba2cf3",
-      "title": "Marquette alum takes the runway at New York Fashion Week - Marquette Wire",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNGV6b1ZXRnZ3QTUtLXlfMC1oRkh2ZjRkMGpVd1NLSFB2VnhiSHV1RlY4dlBya3Qwakg5WWRmYWNJVWhuWWVfNVFYckU2NG9ZemhUeGl4ZENJRTBUTUNHdTZzUjMxZi1rVWtoRTlRc052UEVheU4xSkxVejJ4aGNJM19LR3VLQ3NyNzlfSV91QU1hcmdoajd3RF93?oc=5",
-      "publisher": "Marquette Wire",
-      "published_at": "2026-09-29T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "creative"
@@ -4023,11 +4023,11 @@
       "date_kind": "published"
     },
     {
-      "id": "61a972cc9f8fe474",
-      "title": "What’s legal under Virginia’s marijuana laws? Differences in state, federal regulation following Louise Lucas indictment - 13newsnow.com",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOamItcEZockZBVWNNd3V5SHpWbnJIT2dXTjA4R2hWMHZhQkxQM2N5Z1ZScWQzR3NXZnhFcGJFcGlEcUE2VFQ5UWMtTnJxUTVNc2FHcktNUU1ubzZoOXRCMS1nMDlJSUVIRWNZNnAtOGZZRXhUdjhhVl9wYlJPVUliWC1QbDl1ZWhDcFVlM3lrLUNSSXVUalNPekUwbTNaaUtaWXhpRncxVDFISlFXRm13NktMeFA5cHV0WVhGZU1Jd09jc3A5dmNYQW1hZWJPMzNEMDdYNzUwYndqRlZZc1hrY1FUcmc3cVdjUDE3Z05maFM3YUk?oc=5",
-      "publisher": "13newsnow.com",
-      "published_at": "2026-10-23T22:04:00+00:00",
+      "id": "c9ad413f17abfda6",
+      "title": "OpenAI president urges AI safeguards as group he funds opposes regulation - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYmVlY3NlaE8xWXA4OUdBTUlKOEhtdWh4UEwwVVlfUDczNjczeXV1aUtLek42UjQ4b3I5NHZaRU5xYjFlVVhNWXV3Sm1rRkgxRkR0b1VWazFaT195cG5GUlF4S0FEcERoTzJJVXktUVdYOTN1ZldXREx5ZmllMVgyRG1sT0pRMF9hNF9JLVhTcnA2M3o3Qy1FS0FLS3QyMTFQVXloYU9ibmw2VWVMRzJuT3Z4dkQ1V2VyUTAxclhQdHY?oc=5",
+      "publisher": "Reuters",
+      "published_at": "2026-10-21T17:22:06+00:00",
       "kind": "news",
       "family_ids": [
         "legal"
@@ -4035,11 +4035,11 @@
       "date_kind": "published"
     },
     {
-      "id": "c9ad413f17abfda6",
-      "title": "OpenAI president urges AI safeguards as group he funds opposes regulation - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYmVlY3NlaE8xWXA4OUdBTUlKOEhtdWh4UEwwVVlfUDczNjczeXV1aUtLek42UjQ4b3I5NHZaRU5xYjFlVVhNWXV3Sm1rRkgxRkR0b1VWazFaT195cG5GUlF4S0FEcERoTzJJVXktUVdYOTN1ZldXREx5ZmllMVgyRG1sT0pRMF9hNF9JLVhTcnA2M3o3Qy1FS0FLS3QyMTFQVXloYU9ibmw2VWVMRzJuT3Z4dkQ1V2VyUTAxclhQdHY?oc=5",
-      "publisher": "Reuters",
-      "published_at": "2026-10-21T17:22:06+00:00",
+      "id": "82a41dd7e68d59ba",
+      "title": "How a Legal Backlash Against Big Tech Is Forcing Big Changes - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMVllZnZNekJYc05DRThHXzU4ZXMtZTJoOENHSVZfOXJoU01MUzVtR1duXzNsenRnWTl0ejZEY2FWV21XQ3VHcGdWMHJGOTVSOV9MclVFMDc4OEIyYjhmZF9BWEh3cGNONnBYcnVtaTl6Mkx0akwtNUtLWkxremxlWGpRXzh5Qm1xQkF5c1JRQ3k?oc=5",
+      "publisher": "The New York Times",
+      "published_at": "2026-10-22T13:53:23+00:00",
       "kind": "news",
       "family_ids": [
         "legal"
@@ -4227,18 +4227,6 @@
       "date_kind": "published"
     },
     {
-      "id": "a740da2605f77ba4",
-      "title": "The Once-Obscure Corner of Commercial Real Estate Now Riding the AI Boom - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT01JcnVxaWtJSkFvcUpJV3U1RFlhbWZ2MmNORldJbmpCTy11Wk92Z0ZUeUduQUdNNXlzRFdLQkotWHdjNnR5dTBUa3RvNnV6ZlFBUTNpUzRIRWlPczNGbS0zMHN6MXhZMUgyNERISXNKMW13bTZhYkdLRzg4aHdDLUMxcUJxZDNPNW5RZXF6QlU0SmJaZFlVa0Y0N2VXbTg0UDdZM1lhaUFkamJfUmdoSlRaTV9pcFhHQXV2eUJNT3duZw?oc=5",
-      "publisher": "WSJ",
-      "published_at": "2026-10-26T09:30:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "construction"
-      ],
-      "date_kind": "published"
-    },
-    {
       "id": "7b27e31be0b1e325",
       "title": "Home Construction Drops as Builders Confront Higher Mortgage Rates - Realtor.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUWduckR1cDB1S0RtUzJpbXBPYlNOREZqUUM5TDVEODFaWE4wa3RmR2VnRllSVHFtZ1NZdFE0TmlOS3RSa3BhcEkzT2hralRQWVVtVGg3V1BYaFpEVW9NaUpMN25JWmJ0WWpMZXd6dGU3WW9UZ1pYVDdiQlBNdzhCU1VqX0lsY09ZeDZScUlQSnlJX0l5dkdha29QTQ?oc=5",
@@ -4323,6 +4311,18 @@
       "date_kind": "published"
     },
     {
+      "id": "1f6f05d75277f71b",
+      "title": "New home prices now undercut existing home prices in these U.S. metros - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tVUR4U19saVBkcWt6RFdDckdHSVVQWFRha0UweGg3TElyeEZXdXZaQUtjamZmbng2RG9uMDB1RHZLSmsxTER5ZWYwN2k5T2dmaDlQUkY2dFRMNVE?oc=5",
+      "publisher": "qz.com",
+      "published_at": "2026-10-05T18:36:42+00:00",
+      "kind": "news",
+      "family_ids": [
+        "construction"
+      ],
+      "date_kind": "published"
+    },
+    {
       "id": "14413d39a9bb05c0",
       "title": "UW’s WORTH Institute Wins $2.5M Federal Grant to Build Rural Career Pathways in Outdoor Recreation, Tourism, Hospitality - University of Wyoming",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdmNOYjFub2g3UmRMaFpWdXludE16MWhDTElvQTFMQklsOEt6TjM3NUttSGxLVUFqdXNWdEQ3LXVTXzYzcG9HdE5mYmVWSmhoM3JKdnZLZHlCVWhJeDJQN3JqaXh1U2kyQUJmallPOXNhb0s4ZHR0Y2JyYVhIM1A1MzZhSTdpZ2hGcUhhME9BQVdwR1RPSGxrU3BPUGFaVUFWRjB5SmJsSTV4SzBjdUoxT2pyRTZYdzcwUjVLX1YzWU1yeXNhbzFpNWQ4TTViVmdxMlZMWXFSWE42bFhZcG9iTU1Bd20wUnNyMHIw?oc=5",
@@ -4335,23 +4335,11 @@
       "date_kind": "published"
     },
     {
-      "id": "f22a288cb2a90ee8",
-      "title": "Texas A&M celebrates 60 years of hospitality - AgriLife Today",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUGVWU0lpZFIyWW5ILV9EblJRMzNzMUlOZTlOMFlJYlFiZGtCeUlqSEVxOEMyUzRVSFBXUGdQRF96eHJvb2Q4UFkwdlJlZzN4bGYtTHRLam9JN0FpOXlvSzd6X3Y2VzFISzZRdHg2UWZTQklUdS1IZi1VMi1JVnpONmtZVXdWVUxvSUJiaFhfZw?oc=5",
-      "publisher": "AgriLife Today",
-      "published_at": "2026-10-14T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "hospitality"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "0e99de840c87b2ee",
-      "title": "Discover The Palm Beaches to host 2-day hospitality and tourism job fair in Lake Worth Beach & Greenacres - WPTV",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMEtXZ21teWNmakdsYWFTSGxvS0U4NDJMS1Fvb2RUdVl1TjNObl9NR2xRbkF4UEstVWVjTVlTQXU3bXBjT0ZZLXNmY1BfYnRyb2pmam1Ba0UzTXlPbW9xVHY4Y0E5TjRHNXFnRmlubjJPa1hNUlgydFlwNGRieGlsdUxob1dKQUJOVjlSSUtqXzVTRVlyaUp1QnhDSW5KWVhhZnIzdFF2TDBoZWpkNEs5Q3JiVlRvYkxvS0RRU24yYWpfVW95VlY1dGJMaV9HQUx6Wl93TA?oc=5",
-      "publisher": "WPTV",
-      "published_at": "2026-10-05T07:00:00+00:00",
+      "id": "a10416d930758e44",
+      "title": "Purdue University Northwest and Ivy Tech partner to enhance hospitality career paths for Indiana college students - Purdue University Northwest",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ3V1MC1wUXRJY09nWUJZN2dhSFlKVUFxUmxzMWZRLUxydjUydlYzeS15Z0pEMkJwVDBPUkdvZFdIR081bF8yRTBvNktXU21lUFZ3cWJoNWdfZjBycWs4VGo0SEx5ZmJKM2cwY0Y3UWdERGwzcEhmQmNCVWR6MHB0SkxRZmU1WnJLOGRralNnUTRZaHotMk9zZXdaekZsS1Q4bmJsNjFlVlZJNzdDUFVuOWtNRlBpNE5pbXI5aF9vSzhZTXJvcjFmc3FxdUhpRzg?oc=5",
+      "publisher": "Purdue University Northwest",
+      "published_at": "2026-10-13T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "hospitality"
@@ -4371,119 +4359,11 @@
       "date_kind": "published"
     },
     {
-      "id": "469fbdf4838da452",
-      "title": "Unparalleled brands, untapped potential: Accor becoming a driving force in the future of Dominican Republic tourism - Hospitality Net",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeUNEakJTX1pYU3RhcFAwalRBTVpTdFl1RE81N3ZEakNueUgzcVVMZEJvNWNvRFdqLWNybGlIOTA0YWZCQmFaMVNWWjRFbUs5cmJwX092Q3NDY2c3M0tQWXpFTjVpUGg4V3Q4T3lwWXZUVGZKZTVwbjBDWmVlRktUOXJYX2paYjFvSlZKckVlVEpaTmdxWEVjd0dsNUNGbzUyNTVydE5SWFFqejhMVE1pYnIzU1RDQi1RcGo5eFladEg1am9DQmRNVURxcmU2Y0VjV2VDbGpZM3ZaT0lEeHl4cTFzd2ZtSHJqc0FpODR3?oc=5",
-      "publisher": "Hospitality Net",
-      "published_at": "2026-10-21T10:00:05+00:00",
-      "kind": "news",
-      "family_ids": [
-        "hospitality"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "af6b06df5c09a797",
-      "title": "Purdue University Northwest, Ivy Tech Partner to Enhance Hospitality Career Paths - Building Indiana Business",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYzV6M0d2TlEyNDlNbUlhQ1FrcF91U2ZSTG5GR2xIXzhISF82RWpRaEl2T1N3SjQtQWNhY3hJNGpYZ01CTG5fbW9OMzZ5QzN6RDIzT1drV3V0aWhReWZpX2J5T3JQdFZYUHNaSExhZEVfOVVzZFI3ZmxPbl9iamhtMmd3M1phR2VZOWpZWlRKMFl6TWtha3FKZnlwdnRhdlg2QmVlSC1SRGczcjZpd00xcDhTQU1tVFBGUWgzck9XaHJNOE16?oc=5",
-      "publisher": "Building Indiana Business",
-      "published_at": "2026-10-22T11:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "hospitality"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "c38582fa8bceb33c",
-      "title": "Asheville tourism revenue increases as hotel demand slips - 828 News Now",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTk1FM1loR0lhLU5yS3kyODFRQ1FpS3dFMGs3VEJTS2Jwb1RjX3RLdEZoZ0tsbFFpMnZRQmlVc05yZ3RYTUh2QUpPNkM4RE1DOUkyQlJiWk50SnhUTXF0UHIzTjRaMkJfR3paVkFINnI0c2dWNFZaTjlDTXpyUWRGUXdWRG9pWElBVUVaX2pDU0hrdEdac2JMbA?oc=5",
-      "publisher": "828 News Now",
-      "published_at": "2026-10-02T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "hospitality"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "0914b7fbe2a22012",
-      "title": "Experience Olympia & Beyond Announces 2026 Tourism Award Winners - ThurstonTalk",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUEZaSlNiTHFMOVZTRlo4REE1b1REbFdVMXJWY0h4LWh4THcxa2N5SVBZV0xBQzdMZUFTVjhHUFBZakctd1haNTkxNWx6bW5yN01rbXBHTUIwUTFPTFZSbVNpOGNFeG42UmhZSnF3a2ppR0NlNllqVFR5aU1OcnVMZGRxR0dtRkNqQ091eE5TRGZpZDZxaG5VRXdsaDhwU0FHcEgyTXNB?oc=5",
-      "publisher": "ThurstonTalk",
-      "published_at": "2026-10-02T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "hospitality"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "1fd15771031b5712",
-      "title": "CHTA releases updated AI Workforce Guide for Caribbean Hospitality - Hotel Management",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSG52QTI2aGU5eUIwSUJmNnR2dDV4WUhvU1FmNUh0SjUta0JqUkdodlhtTjllYlkycEh0VGxSaHhBSkdoV3dOX3o4U1d6YWhtM3N2NlItSjd3cVVHTXJjYl8yeUxxTWtDR1FmN2g3cXdlYS1RdE54OHRYNWYtajFBMENnczMxdG96cE1PQ1pxaTQtZUItWHVOa045UjhFY3dqaEZDck0zMEZkUQ?oc=5",
-      "publisher": "Hotel Management",
-      "published_at": "2026-10-01T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "hospitality"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "7daf9529ba49caac",
-      "title": "Reuter begins tenure as area’s face of tourism - NEW Media Inc.",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqNVNBSUs5WEJYaG1QNVFZYm9DNDFJdlpPc0FkdDJRejNqUWFLTHFzWmZ5ZVZxRzNtWmJpLTVqdUFCUC15UU1NQVBCWWV2Umt6cnhCNTJhcVFSTFQ4QkstMmt3M0Z6ZjB2LXNxY2RHVWZtZC1aWlE?oc=5",
-      "publisher": "NEW Media Inc.",
-      "published_at": "2026-10-06T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "hospitality"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "653520f66acc95df",
-      "title": "AHC Hospitality brings back longtime leader as its new president - Crain's Grand Rapids Business",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONWotLUE2WGVISlBBa1B4ZmNqWC04b19INklMV2NJQThSSGdQNkpKWV94a3ljdWY3UG1nR2RyZHpKXzdueFV1WnlIYnBwcTY3REFzNkFEZWpsUFd3Y2Z2NHJ3YlZ0b3paSWM3TEthRjRnbkhiSmp3YVZ0Vi1YYmhMVllpS1N4U1lTUVNoeGdYV3pBeTd3REdXZ3FqdjFqS0JlOVJuRkFzeXNhbERrRU1aRFlGa01VLWs?oc=5",
-      "publisher": "Crain's Grand Rapids Business",
-      "published_at": "2026-10-14T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "hospitality"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "2064ad282969b35a",
-      "title": "Oct. 6 - Tourism Leadership Council launches SAV6 Customer Service Workshops TODAY - Savannah Business Journal",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOYjFKaW5JU2RmR1F5eWkwalNjWldCdnBrVl8yc0l5TDJueGpCcGxOU3dhSklCY1RhakZxeFZrd0pTaFJzNElWVWljVmRhdmlOakliU0pIN0JkU29vNXdldUFscndZV2ZadkpXc0hPMzY4SXdReUpVY1VWaUNEMVR1SnF3MjN3Q2Y5WFFHYVNSeVJicElBeUkwRE43MUtaMUNBUFBqSGtZSW5CcVpLclB3R2JmQm42bmdlLTJOZ1FXbTFzRzBoTlZhTWhRbm41cjhOWFZWYTExbmc5LVRZWFVDdkpBV3VROFNXejE2OVhkRmUtTWlhN0tVcGMzTnNKRXdaOFhsNGhWZzRfeFVLcktXcWw3blphZEYwOElFME1wRjBhdw?oc=5",
-      "publisher": "Savannah Business Journal",
-      "published_at": "2026-10-06T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "hospitality"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "a3301f2d4555c85a",
-      "title": "How China turned inbound tourism into a growth engine - Hospitality Investor",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNUpDaHdkaHhxMGFpa1VNb1BaRGFEUDVzVUdjcmg0OVcycGFDN1diTWdxZXpsUU1jWTRkMFJ1bjRyd08zdEJPNi1vbDdVTTU2TmpyN0NrOHNrLU9nR2pzMkwzUF95d0Jsblc1azJHYWVFRlotY2hGQTRNN3k5eEc1ZUN1Sm9aSlA1aG9jMml1ZnN2eGNoSHVaWA?oc=5",
-      "publisher": "Hospitality Investor",
-      "published_at": "2026-10-21T12:55:41+00:00",
-      "kind": "news",
-      "family_ids": [
-        "hospitality"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "240b6d072cdbe313",
-      "title": "New routes extend hotel stays - Asian Hospitality",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pLVJlZWlDMWpaOGI0cUNiM2RXT0lDY2h4aklOc3JaUFdIVVNMNXJCcTgzODVFMVFVNTZzZkhJSXBsS2doVkp6NG91TE9NYm1qNkE?oc=5",
-      "publisher": "Asian Hospitality",
-      "published_at": "2026-10-01T07:00:00+00:00",
+      "id": "3ea82197c7e622f4",
+      "title": "Florida is the ideal lab for tourism trends | Opinion - Sun Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTi0tbktvMWpJVi1KQWtRb21UUVhLN0hZMjNqZ2hDQXNLUWZLMnlURHhIZGp3Tjh4VlhtNExXbWhtNkxXUmotMy1heERWNGNXYUt2bWJuT2ZRUzBLejBob3hDQzRZQXBnVlBDd3V6aHV4WUs3UnZJUjFiVVZLZE1PWUlFYnZqMllablRGT2xCNWJXaUd5ZWlZ?oc=5",
+      "publisher": "Sun Sentinel",
+      "published_at": "2026-09-28T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "hospitality"
@@ -4515,11 +4395,11 @@
       "date_kind": "published"
     },
     {
-      "id": "015a980863ff3cf3",
-      "title": "Fall foliage will lift Japan’s hospitality market - Hospitality Net",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNejFZMWEwWGlUYUNaeXhQSWtxMGMtVFJCSXBDWUV4X18tLTc0NHpKeC10RVFmSUQ2cmxpbFd5UzlUMDV2UXVxSlFjazRMYWpGdlljX29wZlRhN21TLVR4MGUtYUtxeVlRcUZ4UmJUbDdWck9wQ3ZQWXdrSW81cTVmdlp0S3VIUC1XZXYybUEzYlFpSWJDOC1jb3Z3?oc=5",
-      "publisher": "Hospitality Net",
-      "published_at": "2026-10-07T07:00:00+00:00",
+      "id": "450964e5bf11bc37",
+      "title": "CSTS Welcomes Tourism & Hospitality Academic Leader Professor Robert Li to Advisory Board to Advance Strategic Growth and Tourism Innovation - Macau Business",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMVZZVDV5MmZYOUc2NGRkUVg2b0MtZ1pTeE82UTN2dXBhSFZKY2phdVlQbm92ZmdwTFZyUzRyTmV4aXBOUlplaDJ5a3RYSUIzU1AyR25oN0VpUmhiRTR6YWZGTEswTm9TWXcwUWVFV3JQUTY3Q3RSNjlKbmZzOHlXak56cWxuN3k5dUVqdms1Q05oSmZ0WmMxaFpHeXJXc0lRRldOSVZuUjBTcW9ZYk5zV29FaktTWjgxN2FfWHctelZ3aW1VdGttV0lsNzN2cXRWaHB2RHA0Y2hEb3pZSkNlc21KS3F5YlFFTThrTkJpWC1Qcm9RX3ZqOQ?oc=5",
+      "publisher": "Macau Business",
+      "published_at": "2026-10-14T11:30:01+00:00",
       "kind": "news",
       "family_ids": [
         "hospitality"
@@ -4527,11 +4407,131 @@
       "date_kind": "published"
     },
     {
-      "id": "c1e56fe4ebcb8562",
-      "title": "Why wellness is your hotel’s most important new booking driver - Hospitality Net",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYlowZENjQWlkMFVnZTZpa3dUeFp6V19rbWMwS3pTUl9KR3hBaFhtVk1taXVPdC1ReDFWUlNqYWZncmI2UG9SeEtGay13dG5CZjVaTjJNQXdrWWlyWWMxNUxJbFgtYTJKU2h4aGowMXEteHAxdkpoM0x1SzJmQnBMdnRmQlFHSW9tdE9GVkgyQWZkTERTV3Z0YnNXR2FFNGkycHNpbWJ5azkwc2g5?oc=5",
+      "id": "42d8b03073402fe1",
+      "title": "Budget hopes as hospitality faces 'uphill battle' - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKLUt2UmxoMWI0d0RwNVJpei1pZnl2UGs0Y2FfYkNRMFNLZTExcm9UQThTdnpsSEdRQktPOHdlbW9XZGJSM2ZTY2V6QWd0NWpYajE4V21iRXJFb1U?oc=5",
+      "publisher": "BBC",
+      "published_at": "2026-10-27T06:18:40+00:00",
+      "kind": "news",
+      "family_ids": [
+        "hospitality"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "eb7216e68a85f001",
+      "title": "Cape Fear Community College expands Hospitality Management program - KCRG",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZXVqdDRpeDJwM0h2UDBMdDktSzBwMVNDVnVmZk5wVmNmaDJXWVoxS3NJSVVBRnAzUHpSdHpCb0pZLUoxUDU4Yk1rTTBycUwzbTJsSmpMVzZ1YXo3ckFzRk9SUU1qYUNYSmotTEVSZjJuTDRzVWIyTHAwT3BJRFdHNXNuSkN2VFlvdzBXcF9NT2RRTmhnOFRfdjZ0bU1DZEl4b0NwTG5hSEc?oc=5",
+      "publisher": "KCRG",
+      "published_at": "2026-10-26T21:14:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "hospitality"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "76565000c685f0a1",
+      "title": "Cape Fear Community College expands Hospitality Management program - WECT",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSDIzMkVaUVhvMzlLN0dXaWJmNkRzQjk2YWVDV0RveGFlSUtHTmR0WHZfU2taZjM1cTVFTWJUMS04LUNFdTRlalBsMVpoTFE0SU1aYXIzNGQyVVhhQXJvNkpndW0xRE1FYUxCdlB4aG9qRmo2Rmd2UDZBZkY5SkRESUNfWTQ4ZG5PMHhYQXJqR3lmUFFMLTZCMzlQVnplTmJMalN0RU1JQWc?oc=5",
+      "publisher": "WECT",
+      "published_at": "2026-10-26T14:17:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "hospitality"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "b70f6de1ad4ffa64",
+      "title": "Radisson Is Growing at a Time When ‘Instability Is the Norm’ - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSlFzZGUzZTBoTnpuc2MwVXZFSEE2OE5uMjNCQS1VdS1lMWd6dEl5WHhNU25lM21PRGdreU9oOUd2azV6NWREVlRrXy14UHlXRFFiak12YzVRVmNPclRQR2lSWlVFbTBhM3BKUVlQdk9fdHB0a0F6ZHJ6VDFOV3FjRk10U3Z3UnJmM2QyRGZwSWJZV0JobV83RUI1TDNTRlRqTXgxeDNiQ243RHpyTkg0?oc=5",
+      "publisher": "Bloomberg.com",
+      "published_at": "2026-10-26T04:01:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "hospitality"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "35c481dad5d407a6",
+      "title": "Radisson Plans Hospitality Training for 3,000 Young People Over Seven Years - Asian Hospitality",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVTE4UXRJME1ickZtaWFOUWl4NEhsQUMzMi1MRy1rT09yQXl5ZllzWTBzLURRcUU2Q0duWmlTQlg3U1FVbUdBX2VlV3RRNDJnVjdkRWZWYkp6TlBrODh5enFKVlpOcDZoTVlJSUNiR29oRWRKb0xWNEZNN25tSG9LUnRYdFh0a0J1UkVrQ21faC0tSGc?oc=5",
+      "publisher": "Asian Hospitality",
+      "published_at": "2026-10-26T14:37:20+00:00",
+      "kind": "news",
+      "family_ids": [
+        "hospitality"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "ba7dbfde3d8e5925",
+      "title": "HVS Asia Pacific Hospitality Newsletter - Week Ending 23 October 2026 - Hospitality Net",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUnJpMFNtTUFQbmJwQVBnWTBDZlhjWXAyX3YwV2xkR1FQWDJYWU9sWVo1cDExRzM2ZGJ6dk14c1dqSWNGUUQ3SEFya3FaSkcyU0VPNHU3eTlLbkEzdUo5UGJoODZNUVVxVFFrLXIwUFlCRFZXZlo2M1VFNGtBTU5QR3pEYXpwd3pDeDNrdXd5T01lMXlNWWxZMS1QTnFTcEc3dEc4NEdTS00yUjlWTDlYSg?oc=5",
       "publisher": "Hospitality Net",
-      "published_at": "2026-10-22T15:03:37+00:00",
+      "published_at": "2026-10-27T08:24:21+00:00",
+      "kind": "news",
+      "family_ids": [
+        "hospitality"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "b2a3fd7c8c78bbc1",
+      "title": "Coffee Tourism: Why Hotels and Airports Must Improve Coffee - eTurboNews",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5iV0h4WEdCQkhmVHRSWWhEb3diZjY4UUFuTXBxNHZmUVZ6dGQtMHduSXBjcHBnUEZ1SVdkZ3doZEVmWG01UHB0R0o1TjNpVHg3QjNGd3BWaU51Q2Jad093d1YtQ2RhaEJ0V21GcDB3NlhZZ043N2d3Y0xJVGc?oc=5",
+      "publisher": "eTurboNews",
+      "published_at": "2026-10-27T11:33:14+00:00",
+      "kind": "news",
+      "family_ids": [
+        "hospitality"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "a750b630fedb7f17",
+      "title": "DOT trains 244 tourism frontliners for 49th ASEAN Summit MANILA – The Department of Tourism (DOT) has trained 244 frontline personnel across seven batches under a month-long program to prepare them for the Philippines’ hosting of the 49th ASEAN Sum - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUXdRUldjeDVIWTdGWjhBSjI0cnlTLXo2bUluQkVSSFZ1YVNKamFnYzhkU1huWTRuS1g2cGZIdXJYVUxPbFVPalRnX1ZXclFyMTZXSy16VW5yVllieXZWcE92SkpfamE4U09lVGtlRzdtMEJtbGhZWXZzczdwNGlUMTlJLUstdlJVbktSZWt5RkVhellfbHVBRjN3VXBIczJxUEtaX0hkMkI0M1cwaHdHVURaVVNWUmFBVmx5U0I0UlAtOHBjaDI0YUwyNG5fdVBBa1Frag?oc=5",
+      "publisher": "Facebook",
+      "published_at": "2026-10-19T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "hospitality"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "48f3c1159c776d9f",
+      "title": "Singapore tourism sector launches joint student chapter to strengthen talent pipeline - TTG Asia",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV3VtUFhaVUx5bFdEV3BESmhjZFo2eUZNZmlPQTM0X0dvdzFZNmJlQklGZ0RFdmxudml4Z19WLVBoNXE1VGItbWhOVUU4OEdRcGpNODZyZGVOZzlVWjgyQnZLV3pjeXdKcGN4LUFydFlndVliVUNoYkVNVGpXSENmaGhQcVlGZlNONGxXamcxdVZ1Q2ZRX2JqUWJlVWlTVjE1bHY1UWltOHRWR05EZm1RU3M3UjhzdFJQTkU1VTd3?oc=5",
+      "publisher": "TTG Asia",
+      "published_at": "2026-10-26T04:50:05+00:00",
+      "kind": "news",
+      "family_ids": [
+        "hospitality"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "dd9f186db7ca6e04",
+      "title": "ValueJet partners APCN to promote culinary tourism, hospitality development - Vanguard News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORG5HQU85SU5JaG4xVTJ1V29jVXJBNVZCMnlIeEF3YkYxd05uemhic21iZ2JTLTV0anA2NW15M2pkcnZ3UldDaVFYcFA3VndFNDAzSDA3clQyUDEyTng0NHVGMTlQRzVXbU1VR1FyQTRBUkFGbndDRlZqdU1teTdWNzA2SndnRm4ybjl5Z2dwVTdHLWx4VnNXMlBUUzdCR3o0dlkwcmdjZ2JRTmdHTGw4etIBtgFBVV95cUxQR0hWZDFOU1g1SEtiTmJYeEc5QlR4clpOUkQ2VlJoc0xPSHRhclZWVUt2OXNLWVB5ekdGcERGdUNnRVViREF6MW9RQXZMOWRFQmpHQklHWHJFTnNzM0RUSTg0YmdVeU9lOVJERXE3aXplZlNoc2pHNml5ZnZLdDdNTE1fVWNjZDc4eWt0cmExS3QtTmxEWm5OSE50TUtiR0N2eHVMeG0yZ0p5ZGs3Q0o1SjRtUDNDQQ?oc=5",
+      "publisher": "Vanguard News",
+      "published_at": "2026-10-15T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "hospitality"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "e5313ed357b2e567",
+      "title": "Tourism: Hospitality sector rallies behind gorilla conservat - NewVision.co.ug",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcHRLVVZvMU9sbU1pcTBvZndQV0poLURpbTdMWDhYakt0SndkOTRJbnhzMGo0cWxOc3ZxYUJGVXl6ZFBPaEZmQi1FRmREaDhiaXpFV0haQXNqVDhjd3I3UlR1VW1OUTkwN0p6WGdPV3Z4bDN3NzJ1WmVJbGlXbWhHa2J6TTRtRkdYVXdjTHlHLXFvb0ZxUFVjQTh3eHpsV3M1SGpSVHhtNHh2UQ?oc=5",
+      "publisher": "NewVision.co.ug",
+      "published_at": "2026-10-24T12:09:33+00:00",
       "kind": "news",
       "family_ids": [
         "hospitality"
@@ -4779,30 +4779,6 @@
       "date_kind": "published"
     },
     {
-      "id": "27926ce893605c9d",
-      "title": "Vertical Aerospace Files Counterclaims Against Archer Aviation in Ongoing eVTOL Patent Dispute - JD Supra",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZFpIRDFGUy1VVVM2aHlLNHlzbjBFZENiR2IyamJaV1JRZWpYTC1XYWlqeUdjeVJ0WDQwbWUtdUg3NXBlZXRWalV5UlRKU0hRMHNJQkdZdlpTSU5KQ1NHbVN6MXloUnVLNFhsN3lpU056OUFfb2ZPenUzN2Z2c05fcFBjNzQzbXZS?oc=5",
-      "publisher": "JD Supra",
-      "published_at": "2026-10-16T19:27:32+00:00",
-      "kind": "news",
-      "family_ids": [
-        "mobility"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "691d9dbd4d82e90d",
-      "title": "UTAC expands global aeronautics specialism - Defense and Munitions",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdnI1SEFOcXl5Q05vS3IzbU1RcFdqTC1nRVFYTUJYVm1oSlpLNlhkU1NObE5RNEpWYURJVzFQN0UtQjE2ajNIUXV5a2Y4VnZMUUhrWHFKMzctSW9yT2ZaUDhuZk9UeFU1NWNkV3AyWUY2VjkzaFYzSEtxNVZHZElLaDI0Y2djY0ZReDktQw?oc=5",
-      "publisher": "Defense and Munitions",
-      "published_at": "2026-10-03T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "mobility"
-      ],
-      "date_kind": "published"
-    },
-    {
       "id": "e8aa66b87ca34364",
       "title": "Trelleborg Expands Aerospace Portfolio With Tri-Mack Deal - PlasticsToday",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNXzdHVWUtWGZPVnpQSUxYcktWOGg0ZnZnVnZFcUp6T09nNFNRdUhjM2xYMWpqd05Hc1RLdF9ieGpjSWhCRllmZ1JSOE53MFJGa2prUDVxbGNDNmkwTjh6cVhvVGtLT3N0bEdKdng0TUpWSlBjd3NISkZVWFQ0bDMxRFB0enhqdFU4UzZUV0JMR21WUzdBN3NYZGVzdTNNNnJfRjdUblA2cklrMXNWLU9lRw?oc=5",
@@ -4863,18 +4839,6 @@
       "date_kind": "published"
     },
     {
-      "id": "b65e31eaac374c47",
-      "title": "Battery economy creates manufacturing opportunities - Battery Technology",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOb21iWUg5WF92emxnTU1CN2VLTmVUTTJQa09sYUlQVzM2Mi0zTWUxbEFfT2Z0WEVhVnJ2cE1IM2loQVNwWjA4c3pzenN4SU15STh2S0tKQllnVFNGYzVsRm5SbVhrcVJkY0RhQVZLWG9TaEpMQWJ3SlEyV1hTWXp4MGhCSFBNN21QMk1ldUVpZ2gzWWZPdTJ4VHFsUWxhWDJiTTRXd1dnWHBwNFZYRVJuNzlvRHRxVklzMDJpUFQxMXhESXhhcWQzUlBXZ1VPaXpFaWxhdXNYUndWd2VObmJpLWlnTQ?oc=5",
-      "publisher": "Battery Technology",
-      "published_at": "2026-10-09T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "mobility"
-      ],
-      "date_kind": "published"
-    },
-    {
       "id": "25951460c2c99926",
       "title": "FII: Aerospace-led growth lifted nine-month revenue 8.0% as automotive weakened - TradingView",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQQzQ4c0d3WkNrMEJmeUx5ZmJTQ2d6Z0p6akVzRnh4YXBzUDBheEwySG5HWDBDTGs0UEUxclZUWjBDa0FBZ2lyclFmRFcwVEJQdFFUNnRXelRXdjdxTTJsWnFnSFNPd0JoS2VoeExTem1SUkNySVZENzZPNGxKbVl1eFJzcjlnX1RkWUU4UnZYYzBDVzUzclRuLTNMYVN1T1BOMHdPZ0dsVDJUMEVTWWNVanRSZlo3S211aU01RllRa1gtLTE4aDdRd2NtamRQenVIbE5yczlpdFVORjJKMjl3Nll5X1YwZURMYk9WempTNXBrZw?oc=5",
@@ -4887,59 +4851,11 @@
       "date_kind": "published"
     },
     {
-      "id": "2405aa0cbd503da6",
-      "title": "SPE Automotive Division Names Finalists for 55th Automotive Innovation Awards - CompositesWorld",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMnEycnU3YXdLQzRRSUV3VV90WDZjWTctMjViRXpVQm0ybFVCR0RtMF9qYnlPVjgyQUk4T195MENRQTY2ZDRPR0IxckJiOWhma2ppbFI0SUZHSVJsTXNWTm83N2RqZl9lU3lwckdqQktPTUo1QlpudjQxZmdNWm1uUm1SYVFxVnV2c0hqVGhBaGFCdDhGYlNlOFMxZnBuT1Y3Y1I3UFBTcFZUZnBuS0ZTMnUtUmg?oc=5",
-      "publisher": "CompositesWorld",
-      "published_at": "2026-10-19T18:20:46+00:00",
-      "kind": "news",
-      "family_ids": [
-        "mobility"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "abfe06bd2df7eeb0",
-      "title": "AEye Apollo lidar selected for Lunar Outpost Pegasus lunar vehicle - Military Aerospace",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUHdpYU5KTFBEX0VUcmQyQ2tuZGtwNEx0bG9ocmpnUHV5ZVdYWG9QRER5X3hrTW8yU0F1d2FLODM2X2xydWx3cVg1SmlxRGlNckxLaFhIZldMbEwzXzdXRURKUXRxb1V5MTBoV1djSk9DT3NCbnFpT25LbHdteDVhZEF0YU9sN2s1a0FNbWdEUmZFQjJ2ZFlOdDdTWHpDSWcxSl9zYkFVN1I1VktVdUxhT3BYSVpEcmMxU2paU3BhTQ?oc=5",
-      "publisher": "Military Aerospace",
-      "published_at": "2026-09-29T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "mobility"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "cd11bed335288113",
-      "title": "Battery Show 2026: Freudenberg’s Aerospace EV Batteries - Mobility Engineering Technology",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdnlpQWgzR29fakpqOS1Vb0F4Z0haRTVGb0FSS2Jfbng2SXRCZktQTXBMbEE5S0tkckdpemJQR1FmXzlYSWNLLWVld2R3VDg3bVZLNFRPaTI3NXI4MmlSTHlmazM5bktCQXNGbGJnSUFGREV3dW9Hb3p1N3kwdVd3dm1LRmFNdUxoNVRiT1d4aTF6T1FUcVNKTmkxZGVIMlFDTEFhYzRPZEVETlJ4U3pLREZxY2dDeVBWUGpjWkNodnh4aTQ?oc=5",
-      "publisher": "Mobility Engineering Technology",
-      "published_at": "2026-10-14T16:35:18+00:00",
-      "kind": "news",
-      "family_ids": [
-        "mobility"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "dd547ba4d48460b3",
-      "title": "America's First Flying Police Car Is on Patrol - Design and Development Today",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZG9aa2gxRDI2SGxVOHFVSEFQUUpTTDBtUUUwMUZOU01xallXZmx3cEFHMEs4MTdZUk84RVNyMWhEZzU0NXZkdkVLYmRheUpTQU1WU3dsd09FdWxGMDBmX2FVOWNZTF9NZmpqcUhCOXNnZzVKdVM1SG1yOVBHeUhZNGRkZHFVNmU3NVJzVG40QmtHb2o5bVBFY0xMLUM3YWVPQzBSUEh0VjQxbmM4dEdxMFR6UWlnLW92M1Rz?oc=5",
-      "publisher": "Design and Development Today",
-      "published_at": "2026-10-20T20:54:17+00:00",
-      "kind": "news",
-      "family_ids": [
-        "mobility"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "6053257fcc781787",
-      "title": "Polar and Imec announce 8-inch GaN partnership - Compound Semiconductor",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRkNWR0h3YUJWM1ZRdDZXRXpTUURWMGFuVDRWZlltRFU5dlJlWHBpVjl2WVZCa3V2b000a0FnQnYzOGxyNGhMREMxSzJIQklLMGljczB0NTNDbF9zMmdTYm81RDBDVkcxdkdWSmk2WGExbllOcVFmaVRNTUQwS3hkM01fY0hSRjBLSWpXRENqdldLS1dzaDZLVGtIRQ?oc=5",
-      "publisher": "Compound Semiconductor",
-      "published_at": "2026-10-13T07:00:00+00:00",
+      "id": "45ed863ec4f7b25e",
+      "title": "Constellium earnings up next: Can aerospace offset auto woes? - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOTRWVVdjenQ1SzNmTUR5TXhfcjE5S01KVmY2RzBDWEdwU01hb2tfN2hpSWFkc3pJdjZ5MWpuNEVVcWp2ZmpONFN3NGhPRGk0aGZJb2tLVm1saWtzVnpEWnF2S3h3dEJkRHBzcHZTRzVRaHJRbHZjTEFoN2QyZ21XN01xN1pGd01kTHJ6d3ZHNi0tZkQxcnRxZWpmSmgwd01TZkd2dXo3bnh1OU5GWXRRMThB?oc=5",
+      "publisher": "Investing.com",
+      "published_at": "2026-10-27T14:04:57+00:00",
       "kind": "news",
       "family_ids": [
         "mobility"
@@ -4959,11 +4875,95 @@
       "date_kind": "published"
     },
     {
-      "id": "6c76ebbdc2908f4e",
-      "title": "DETRON Expands Aerospace Solutions for Mexico - MEXICONOW",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uek5VaXd6LTV4ME5KTUlMb1FtQ19PRU93YzFLTVdMeDM2WlNzV0d1MThYZkhkRjV4SXdGSF9DX3o3cEZwX1hVby1LRzJiTXdXZHlBNlhwZGJRUjlIN01nUTIzdjFtZElId09tT0MtZDdvQlZtbC1Ncw?oc=5",
+      "id": "5688b0b9652b4d5d",
+      "title": "The automotive industry, a champion of innovation - Renault Group",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbWVONklJN29LcEppUEhXODJTVnVEV3ROT0xLQURvMHhfWkJZWlJjV0xVSE5tV2VNM3F3MER5MzJJTm1nVjhMT2NGZTA2eGs0Smc2dDJtUEg1b2NlMUNiY19ub1dDWmE0ZE1TclZ5NVRNd0ZnckFJSlp3aHlsd0VYaVREZkp6ZmdtRXBsQUtQT3RQdTJia3NNLUFvUnBHcDVDUWxZ?oc=5",
+      "publisher": "Renault Group",
+      "published_at": "2026-10-01T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "mobility"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "efc8fa33f9129890",
+      "title": "Laminar Composites Market Size, Share, Growth Report, 2034 - Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RQ19aQm11aFhYeHFIcVlwQVFkZUVnM0dxQXZoUEotVFMyLTdVa2oxS1ZnTmY1THpqWkRLNDNzMEd2azM5QXVOMlhWN05jWDFwc2wtNl80Rm5BYXV4ZlQ3ZGJNR1M1NnRRbE5Uc3NhSUlWcjF1ZERsb1BsVzY?oc=5",
+      "publisher": "Fortune Business Insights",
+      "published_at": "2026-09-28T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "mobility"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "557ad848a71a1b79",
+      "title": "Honeywell Aerospace Sues Rivian and Lucid for Patent Infringement - MEXICONOW",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMmVVLS1rLWxqT1VzM0haemdBUGtMd0N5Qi1Bc0VZSXBZVkVfRC1TUWdGSGRpSDdrOFJFcThQby05QU1wTjFoZGU0MWNObDlmbWQ5cktwTWdlVENzdzFNWjZwczdIdjBjc0oweWdHNHRKZE13WUpMMzhkanN4OU1DYlRMN0tkel9jUWZsdFV0MVBiMkU?oc=5",
       "publisher": "MEXICONOW",
-      "published_at": "2026-10-01T17:46:50+00:00",
+      "published_at": "2026-09-28T15:29:29+00:00",
+      "kind": "news",
+      "family_ids": [
+        "mobility"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "1de4216454ca8a26",
+      "title": "Precision Machining Market Size, Share | Growth Forecast [2034] - Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYbjJZT1pqQUNCSXZDRC00TjlUU0lpSFVfbEdTcVBVRl9JRFE3Tm0yVkVxZEdUelFEM0VlZEQzUzRkQ2NyWkRXcHFyWHN6Z0Mwd3g4RllFZ0JaQlJJT0RjTWdEOEFJNEF5SkwycXVIUzQtLTlQWXpHR2dSTXRlQQ?oc=5",
+      "publisher": "Fortune Business Insights",
+      "published_at": "2026-10-05T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "mobility"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "282e147a73dc457f",
+      "title": "3D Printing Materials Market Size, Share | Growth Report [2034] - Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWSHlpbGRTYXVST1FRdElROEdNOVltSTVzcGduZFpUMjRFdldFUm02d1JrS2RuUWtJUlE0cm8tcHJaZ2NVTk1IWkFGdDFiczM0WVFuelNjRlVmTUl4Ml9CanJNcWFSWkJQdjJsTUFiM0M5TnZHSXM2Qmc1VXBNR3M?oc=5",
+      "publisher": "Fortune Business Insights",
+      "published_at": "2026-09-28T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "mobility"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "538f6ed95f33c204",
+      "title": "Electroplating Market Size, Share | Industry Report [2026-2034] - Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVFpQWGRDelRNaE5YZHBDNFNlcVhybElyRjhEeUJIcmNSSVQ3dDRvQ004WE54RlBFVUVvV0tpUURIeVJ5SHR3NE5nUUQ3Q0V6akJ1M3dQN1RSMlBsakRrNjBsZmQ0bGFJN0V1V3JmQ243VzRWbHRB?oc=5",
+      "publisher": "Fortune Business Insights",
+      "published_at": "2026-10-05T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "mobility"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "22d8af76ad41b25b",
+      "title": "Powder Metallurgy Materials Market Size, Share, Growth, 2034 - Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQWx2bDB6WjVpUFBGRTlsSWNCdjZjWnlvTTJiNjFabzVTZWYtenFGM080UHVKNDAtc0pHV1c0alNDTTJMblBvMENDSVdyY2FUb3JVQm1XQkZ3eDJfdFlSN3k5bnNFMEI2VG1qMHJtRnAzaUhTeFBWUXhVa3huNjdST1FaNlJZS1NZ?oc=5",
+      "publisher": "Fortune Business Insights",
+      "published_at": "2026-10-05T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "mobility"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "67ca7a8a48b034b8",
+      "title": "Laser Processing Market Size, Share, Growth Report, 2034 - Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DRktROWJCYUl6R1NyamFtcWZFdkNvQWZkaEpmTFdmOGx2bnlQQjNPcktoc3JHSEgzV1pYMXdEVnd0b0FkY29zanFmSW80dGU3VzJmLUludjE2MXc3V1kxN1lRRXF6UlNFZG1najdmdlcwV1VkTjBtTGV3?oc=5",
+      "publisher": "Fortune Business Insights",
+      "published_at": "2026-10-05T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "mobility"
@@ -4988,6 +4988,18 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbWNNZXZCeHJjcmJSbEJjYS1HNFN6bWxfb0g5M0JaN1pjUG4welAxY2lKbXZsVDBKVXZQRVhRUl9fSjZWRk5uY0xsOVdUSnlSWkVNS1M2aEF1MHotVVMzRnBCSUk1MVdlRTk5ZHZsd3dUV3RXc1QtZlFhLTVEbTdfeXg5S0duUVkzSnpJUDdqaWlISmdlVXF5WndkdWNGNUx4TWFodXZtQ1RjOW0xbGw1cFV0OVRJNVZSNENlV3RB?oc=5",
       "publisher": "League of Minnesota Cities",
       "published_at": "2026-10-26T17:58:16+00:00",
+      "kind": "news",
+      "family_ids": [
+        "government"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "efaabccd0dc4d567",
+      "title": "Election Issues We’re Watching - Rockefeller Institute of Government",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OT3R1dUJHMGU0N3czWEZRZG5MMUl6b2QzMmxnSGpEendDOFJUZGRBTjFSZE8ydGV2UURpS3o3WWQ4WnkwVG55eTZmSldWR0lvUDBJVmFkcXEyWENNbmxOVE9IdkNjZ29Xd283eA?oc=5",
+      "publisher": "Rockefeller Institute of Government",
+      "published_at": "2026-10-27T19:30:35+00:00",
       "kind": "news",
       "family_ids": [
         "government"
@@ -5175,23 +5187,11 @@
       "date_kind": "published"
     },
     {
-      "id": "be9e2e37573b2c9e",
-      "title": "Growing Places: Mobilising private finance for local nature recovery - GOV.UK",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNekRwc1BGR0JQYmxIYkxJUGpseDlsZlBmVVVLSG1VMmhQcExTV25XWVFLbkM0NWF1amN1TjFhVWNuaV9hZzZwcWxNamdJeGQ4cHlTYWU2MDgwVG95TENpc0FnY2pBcDE3M0ljNGhqMGtTSVBUR0w2RXM0U0RaUnhoUmdFNS15N19HNFRZOGpfT3pjNmdja2NJZElsZi15cjRKZGpLR1I2eV95bzNJLU9NZFFxdUxNZmEtXzhDSHBUdWwtQzNKd1o1U09WOXVBdVg2R0E2YWNuWEZ3X21SekE1VmE2Zm5kU2VqZXc0cWRaaTNvdU9fTnc?oc=5",
-      "publisher": "GOV.UK",
-      "published_at": "2026-10-26T10:14:20+00:00",
-      "kind": "news",
-      "family_ids": [
-        "government"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "91179114ec8eadcb",
-      "title": "Harvard launches $150 million research initiative - Harvard Gazette",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYUpmVlJzSkdOSEpMMmFfSGpEU2gtZ2FHdVB5WkkyWXYtNmRFVFJGcEQtWXJ6eXI0cTU1ZTc2eWtEYV9QbnNqQUtZRFRMaTZQZGtNUklxRGMwUDEwV1FON1VjMGo4QkNpdGwzY2xfM21yRFVVNjZBQ2s0bGNhYV94NFVUbGJrMDV0LTREaXlRSlpZWmFfNUd2Q19yWmE?oc=5",
-      "publisher": "Harvard Gazette",
-      "published_at": "2026-09-28T07:00:00+00:00",
+      "id": "c4085268e97008b7",
+      "title": "Beware sham scientific societies: the research community must be more vigilant - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HZm5JUnJySFVXbEJjckloQzRHQkVNRzAzV2xhamJYU3lrWnlyVFVzZ09WSkZacTNacWtaSmxwcXBuU0N1RzFhQXJnd2laMnJhODR4cXlpMzFYbldyakE0?oc=5",
+      "publisher": "Nature",
+      "published_at": "2026-09-30T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "science"
@@ -5199,10 +5199,10 @@
       "date_kind": "published"
     },
     {
-      "id": "34cd5a08520cf9fb",
-      "title": "Will AI scoop your science? Some researchers see a gloomy future - Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwaE5QTHdpb2NhOVdTaW1tcjVWTDY2TXZYUkRaQ3E5T2N6cEtHdVA0YVR2dVZFS3RfbFA1cEhzTm84LVNfQTJuMkZKRTFfWFlMOTA0WVM3bHdTMFd5U3Y4?oc=5",
-      "publisher": "Nature",
+      "id": "23b41a15e8267479",
+      "title": "Loyola receives $200K in grants to harness AI for scientific research - Loyola University Maryland",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORkQyWFYyTE9GT3dYXzNMS2hyQnhxOVpwNXJlRVJ4dmNyRXM5Vjg4QlhPYU1vZ0dNcFZUTUFuVTRoZkZYNUtOQ0VQRHJLZVMySS11MjFFREZkeEVNbXVrN2JuSGpZNHpfZVI0UlMxUVYzR1d5bzJlZ3hCSnA5UjkwVVQ1SkphUWo3bmc?oc=5",
+      "publisher": "Loyola University Maryland",
       "published_at": "2026-10-08T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
@@ -5223,11 +5223,11 @@
       "date_kind": "published"
     },
     {
-      "id": "48bded78760daf45",
-      "title": "Claude-shaped science - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UWno0NFZ1Y0JIWFRYSFZoRE9iVmx5Z093dlk0aXVQc2JHSVFocFZuelQ3azV3Mm1vcnhiLXZ5d213R0RPc29ia0NYd1VvTUJjWWZUWi1qVHItQmRnVFRyZzRUWENXV28?oc=5",
-      "publisher": "Anthropic",
-      "published_at": "2026-10-01T07:00:00+00:00",
+      "id": "6749ab77ca8d927f",
+      "title": "UNESCO Calls for Urgent Investment to Restore Scientific Research and Protect Sudan’s Knowledge - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYzNQUmV1cnBySW9WZDEzLTdjOWZtOEQ0V2FvUnNFUVlRdlVyMHVydmJGcHV1cklJNmpWYng5VE9vTGZpeFJvcy1PQi01MVVLYXVFMTRmdlotdkN5ZHNnclUydld5ZXZmY1dvY1VTZnVQSlJrZEc0dVB2VkJzX2VGTFVRUS10Z0FfUUJMYjM3dlY3UVRJTVg5ZlQwaWVCTmhMM29BZ2dVZDMxUFVMWDBjckczcUtoNFRIRjJZOEhjdw?oc=5",
+      "publisher": "UNESCO",
+      "published_at": "2026-10-22T09:43:21+00:00",
       "kind": "news",
       "family_ids": [
         "science"
@@ -5235,11 +5235,11 @@
       "date_kind": "published"
     },
     {
-      "id": "c5cd94391f58fdbb",
-      "title": "What Does an AI Research Scientist Do? Role & Path - iSchool | Syracuse University",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qbEFuYmJEV2NsWGVoVzVPMVlxbmU0c29ESUt4cC1oLWRrbzItbGJIdEJHREg3V2hlOU1HMnhBNzFzWWpFYTE0dllLbE1tVlgyeWtZZzRvaXlvcDVkSDhwTHJvSVF3VzM4S0w1SjZwQW5zVGFHWmc?oc=5",
-      "publisher": "iSchool | Syracuse University",
-      "published_at": "2026-09-29T07:00:00+00:00",
+      "id": "17aa628718e74309",
+      "title": "Why funding scientific research overseas matters - The World from PRX",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMDZEOWdMV21pMlUxTlFuTTBmS0lPdjRZMllsLThlb3VPZkh4UWVlX0FETF9TbTlhamdLeGtQWThfelZGbEdYQjFzeHp4RnFCMmtGc1dTbm9OQ0hEbE8zNkRRdGhNWGZ5THpsdmpRTk9mRjdBbG9vV0dsNzBPX1JteE05aFpadw?oc=5",
+      "publisher": "The World from PRX",
+      "published_at": "2026-10-20T19:32:33+00:00",
       "kind": "news",
       "family_ids": [
         "science"
@@ -5247,11 +5247,11 @@
       "date_kind": "published"
     },
     {
-      "id": "877e08260a288879",
-      "title": "At the top of the Golden Gate Bridge, Governor Newsom signs his final bill — investing in California’s next generation of innovation - California State Portal | CA.gov",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbVV4enN0NzRwLTlTTW9WOXBFMkx4ZHVwOHVTZ3E0NWRJSVdDVFZ1Rk5fdWpwT29UWUZBQXJLZ3dVbEttNlo4ZWtsLUdpbURfUDZ5cjZUakNSLThRUVdJRS01MnpvS1hrUWVGSDlpOVVXcVdoQTEwcTVTeDViZGhNVTM1TlRRN0dURklEekcwVkR3UkR1X2l0dVQtMUlCb21PVURZMWIxQzlNVzh1c29adXBNVjRhanBkRUJnQVIzb3JlSGVQM1Z2LVpIZHVRbi1tQUltZ3REb21tcnRtc2xwcllJcGFidDRjMFZwdmUxWGtXS1V4ZFE?oc=5",
-      "publisher": "California State Portal | CA.gov",
-      "published_at": "2026-09-30T07:00:00+00:00",
+      "id": "e42fda5dde78c655",
+      "title": "3 faculty-led projects receive Department of Energy funding to explore AI potential in scientific research - Columbia Daily Spectator",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPM3RIUVZCM3RfUFdaRGRqT0l5YXNQQ2JlbDFramJBVmt3THZWU2h2VXA3T09KRDZUX3NxYmZPY2ZORWtBZDgtamlON0ZJNTVrVVRzd012NXhFQ0hSUVJHSkRab3c2NXh2TWZ1THRnZloyaTRiWkgwMWpYVVB6VGlJNkNZcXhSR3FSeGlFVTRaVlctRUpZZ25WeXF6RHpJcjNJY0F3TlhMcElmMVYwTzhvWlNxS1JjRFZmeFVKdkgyUTdjZHNKRWphMkpzUHRHdld2R0lsYzdGS1V5VWdJRmZkNHpYN0VQM2ZMSF90MlREQWtiNHc?oc=5",
+      "publisher": "Columbia Daily Spectator",
+      "published_at": "2026-10-16T01:10:48+00:00",
       "kind": "news",
       "family_ids": [
         "science"
@@ -5259,11 +5259,11 @@
       "date_kind": "published"
     },
     {
-      "id": "aac9af7e86625846",
-      "title": "‘The Evergreen’: What a scientific study reveals about Oregon’s psilocybin therapy program - Oregon Public Broadcasting - OPB",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVkVfak9jYlVhaHREemZoRG5sbFNiRlJlOTdHbXU2RHIyV0xwNFRXci1NVEhaT0hQNjFxS0RIVjNxUDFxSV9QRmdiWDgyZzE5Zk15eFBkZ18xMVhhNGhMb3VRblphUVJuaXIxQWJJN3dCNnFHQ2l2OW9ESjZkdnVvUXYtLUdndlpQbHc?oc=5",
-      "publisher": "Oregon Public Broadcasting - OPB",
-      "published_at": "2026-10-26T13:03:00+00:00",
+      "id": "5ad47c9ade90df1f",
+      "title": "On Being a Scientist in a Disrupted Research Landscape - Issues in Science and Technology",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zeVNqbU1mbmdkR1FRVFczTEVzc1htVE1QdXNKaXFTVnRYbldPZkNrUXBYdW4wQ01MNVVibENXM19IU2ZFdkhlc0xoX25rQkVOZHhJS0ctdGlqZXRVNDBaTnJLbG16RW9nMVVjR0pZVVVPYTQ?oc=5",
+      "publisher": "Issues in Science and Technology",
+      "published_at": "2026-10-25T03:35:25+00:00",
       "kind": "news",
       "family_ids": [
         "science"
@@ -5271,11 +5271,11 @@
       "date_kind": "published"
     },
     {
-      "id": "1a1d8fa86b71ba10",
-      "title": "The Academy of Natural Sciences’ Living Legacy of Research and Discovery - Drexel University",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUWFEQ0hFdlBlbmRDVS1TTnlsZk1zME9qREpYTVp5VklSbjN3alBtTmVYZEU1X0ZmdGJxS3J4YnB2c29DRGVvcjRMRkhFTHk5TjBrSi03TmFveVVmbUxlNHRQUkl1RG91eXhpYmwyZ083dUZkd204dkxwNHY2dW5LVlBfQVpkOXgtVWJUQ3Nnc1l1QWFkN1hZNkxINUlPMU1iTzAzUzJ5dGJIb3JDWFlHOUM0dUVPeGF2WHc?oc=5",
-      "publisher": "Drexel University",
-      "published_at": "2026-09-30T07:00:00+00:00",
+      "id": "601e6cae927b2ff3",
+      "title": "1st-of-a-kind federal lab in Tri-Cities to use AI to speed scientific discovery - Tri-City Herald",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QZDhNOFY5eUNVUnQzSm00dmd1S2YzZkVEQnVmd2VEb2g1YjRweDBVRk4yUmxZMW5YR0ptRmtVc1U0NzRBdmFoWG9VSzJHdkt5ai11TEdQLVRQblhRQVdOWUYwaWhzMjdtempzWEJTX0XSAXBBVV95cUxPaFo1cGhDa0hOUkl6VWxZcXpyckVFR1FpM0xPVHJ1WThYLUdLem5hQmhRTzFrMFNwdlhIR3RlVjVNaEN2V0xiczNXTWR6c1BtVEtSUXVxU3FvZ2E5QVA3SDdKSU0yek1xVkNadGgxMTRN?oc=5",
+      "publisher": "Tri-City Herald",
+      "published_at": "2026-10-21T01:03:34+00:00",
       "kind": "news",
       "family_ids": [
         "science"
@@ -5283,10 +5283,82 @@
       "date_kind": "published"
     },
     {
-      "id": "a3e96e660fdce01d",
-      "title": "New MUSC College of Health Professions building advances education and rehabilitation research - The Medical University of South Carolina",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TMWNScndmTjFiSEx0RldXMEdGTXhGQXJYcER4cjdTVl9MajVPU2V2QnZvQzJrY0dYTmt2SEJwb1B5OVlMbVpfRkRiWGtDYlFlZ2F2anpUUG5leTBfTmxlX2R3LTBpaWk3ZGtkX3d0VDlpcEpq?oc=5",
-      "publisher": "The Medical University of South Carolina",
+      "id": "611110f882cb6af2",
+      "title": "Risk and strategy for Indonesia – China Marine Scientific Research cooperation - Asia Maritime Transparency Initiative",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMHJVZTF3LWZmQnlQbEpCLUZDSmh6aV93cEZaS2p1ZnpKcERnUWcwS2xLUTltWnEydDdjdzNURlVzb1R4b24yY3JaYjdXLUdzVjFrNDRBRUkxaFhfLUR6a2E0Y0NWX3Y1N1hBZ2Z6eUxveTVNMGVIN0luN25obEhmeGR3RG16NUk2OTl6WVFIQ1JMakQtdzlmMnNvNkx3UTFP?oc=5",
+      "publisher": "Asia Maritime Transparency Initiative",
+      "published_at": "2026-10-08T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "science"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "0ba375960d9240b9",
+      "title": "My summer studying cancer research in New York - The University of North Carolina at Chapel Hill",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EcjMwdnJSMFM0OEdsbVgzS1Vfd1ViYlB1MjlLVmhxcVhVaGVJNUF5LVE1dEgwbEhNYUJOaXd0YU5HS2pZWUZNSk9YbDdUY2szaEoxTEhzZGFJdw?oc=5",
+      "publisher": "The University of North Carolina at Chapel Hill",
+      "published_at": "2026-10-19T12:00:22+00:00",
+      "kind": "news",
+      "family_ids": [
+        "science"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "a015fae9e25ad281",
+      "title": "FSU 175: Florida State’s research legacy spans generations of discovery - Florida State University News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSDI5MHRhNWFOVjU3ZWhMUkRDY21OeGNCTU4wcWVKeEp0RFNDS1lCVFd5d3R2alpDN1JzUWd0NklRRlgxWnFUZFRPYTdIQU5yaEdyRXdibkdhT1NTWmVzY191NzIzZlZTc1pxcjlReDhZTFUyNUpIcTZxamJXUVh0NzhfUW9hNng1SlQ0aDlzYWU3d3Zfb096d190eENINjZPMHVLeG1vdnd6ZEY5T2dhVGVibGVjWFFIZmVqbUdtdzM?oc=5",
+      "publisher": "Florida State University News",
+      "published_at": "2026-10-20T12:30:50+00:00",
+      "kind": "news",
+      "family_ids": [
+        "science"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "db919b36cd309134",
+      "title": "UT Astronomer Selected for Frontiers of Research Project - College of Natural Sciences",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZktZZ3kwSENnQ2J6VGhlSlFkcmppZjlxT3kwSHNRVHFNZGF1a0RILUJ1bG1VelZDd1lpYTR5OWNJb011WmNSN0dUTFh5Z3czTUJCY2FnbFk2NElpMmtqWmVOdi1aMVhNVG9famttSmVKUUM5Z2VLMnpBVGVQX05hVVZLeGhMOUJjbVBRWmUwVnI?oc=5",
+      "publisher": "College of Natural Sciences",
+      "published_at": "2026-09-28T07:00:00+00:00",
+      "kind": "news",
+      "family_ids": [
+        "science"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "da776f3ca156e383",
+      "title": "Purdue researcher leads group advising the nation on future of lunar exploration - Purdue University",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcEFrWW03eUN2T1Q0b0poc19kR1BXeDVIZmF4ejFIalhDNXFZb2ttV1RwUE1VYkUwNVk0aHZkTFBXU2x2VEp5SWhYN2RyRnhLaHJjQjdEMUlESkxnN014RzAtaEp3WnhUX2lXU1lsSjVZZ0hMLXJWMXUwNm1kenYyeDFyYmJCbnpYcks3TFI5Z1E1ZXZ6TkdqSXFoSlh0MkE0Y1dPc3J2eW9IQzVxV1FkQXFacFVYNWR0NVNGdA?oc=5",
+      "publisher": "Purdue University",
+      "published_at": "2026-10-21T19:49:52+00:00",
+      "kind": "news",
+      "family_ids": [
+        "science"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "3b811df12b114aa6",
+      "title": "Trump cuts have hurt Mass. research labs. Scientists hope midterms can ease the pain - WBUR",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQczF0SDFlR2FSanU0N1ppRGgyZlNBVmFiNlRfM0pJSGRDSFJlUXJCNFVkWmdPTFZadjJaelJ5ZzlJZU9xY2FFZm9jcmhwN2x3NG5STXZvMVV3Z2xLYmtieUdoTVVKdkdmd2hoUTYyejJhM05NTjhPbFRSLThtRDNnSmo2UHZEaFhWdThibWFiQjMxcDZ1elNtNUtnbl8?oc=5",
+      "publisher": "WBUR",
+      "published_at": "2026-10-23T10:00:25+00:00",
+      "kind": "news",
+      "family_ids": [
+        "science"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "a939c5ce2ae9750d",
+      "title": "Ai2 at COLM 2026: Open research, from models to agents for science - Allen Institute for Artificial Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pN2QwTUZLMVJ1RWZnb3ZMNXdJZEJwY3ZaYkhoaGF2Z0d1SzgyVVJ3ZkZhZ2ZXbGhISnlocm4weWFISXhNaWd2UXhvTFZWbHZCa0E?oc=5",
+      "publisher": "Allen Institute for Artificial Intelligence",
       "published_at": "2026-10-09T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
@@ -5295,11 +5367,11 @@
       "date_kind": "published"
     },
     {
-      "id": "fcd654e0656b302d",
-      "title": "Doctoral student studies the human brain and how those studies make it to the lab - University of Cincinnati",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSlRuREdfU2NzWEN4ME9ZLWNleWppTHBUMzl2RXRvdzhoMmdVT2FTNlJmLVJsNEh2ZHRIbEVmX3VJbnJEOC1DcjVvQUVVZGJXeHRSWE5NZ2ZmRGR0ZEh3U2tWSTBQX2F4TVBhYkhUNFRuRWpMOUtkMlY1R3BWaWJoNDk2bnp5OHY0bkx5WVplR2pESU1Dcll6QndHQlE3VVRIakR1VEhjNA?oc=5",
-      "publisher": "University of Cincinnati",
-      "published_at": "2026-09-29T07:00:00+00:00",
+      "id": "a281c04940528f54",
+      "title": "Breast Cancer Research Foundation Hosts Annual Scientific Retreat - Breast Cancer Research Foundation | BCRF",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mYmVfb19GNVRHaENmNkp6QnZBTFY3UFZYRzV1RDYya09qVlloOE9fQTNWcFgxSUtJMWJpaGZrWEF1cVE2T2dKV3lQTUpKeFBjSHU1UUwtRGxCdGtsODlFZVphekpCVjFPQjRLdA?oc=5",
+      "publisher": "Breast Cancer Research Foundation | BCRF",
+      "published_at": "2026-10-22T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "science"
@@ -5307,71 +5379,11 @@
       "date_kind": "published"
     },
     {
-      "id": "416e08cada9a8188",
-      "title": "UT San Antonio Health Science Center study finds elevated levels of toxicants in teeth of children with autism - UT Health San Antonio",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdEFrR0RRTjdaVTRUUTk4NzA4OHhJQ1ZlTTVoMTF1MFUtTFVCRHFna2MwQjEzUWhOR09CNnpDcWFsaGt2TWptVUdVSTJVOFNEN0RoUlpvdmpneGhlWnM5OTJYdWhzWlNwUW1hX3V5SzNEdldxei1rdTZDT3BmQUg1SktHcXNNNmRtZ2ota2FFUU1pS0FudWk1anNtTEtrVVVQY2FraEw4QU94Q19ha0Y1S2JVWldPakFLQU95TjlhejZ5UVVVbHowUjlEXzRCbS1FeHc?oc=5",
-      "publisher": "UT Health San Antonio",
-      "published_at": "2026-10-05T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "science"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "7235536348cb7c36",
-      "title": "75 Breakthroughs by America's National Laboratories - Department of Energy (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMl93d2JwbHZOdEpwWjdFRGs1aWdjalVzWUV2dEUyNEhteWxrT2dHTVhOMDdpandVR3ZqV2VaUHhWOXBuaURpUDlBMHpHRmVpUV9ac3VGU0N0SnpVRlliYVZVY0l6aUMxcm9manl0SFFDUHlWLVdtLWV0cTRlMF9tbHhqYU5KcTFa?oc=5",
-      "publisher": "Department of Energy (.gov)",
-      "published_at": "2026-10-23T14:00:32+00:00",
-      "kind": "news",
-      "family_ids": [
-        "science"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "4e0b5d4c41266567",
-      "title": "Research Roundup: Scientists restore bleached coral, engineer protein-based material, use AI to simulate drug effects - The Stanford Daily",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ3d2c2R0MWdURjc5dFpzUER1Slc5V25IMFlsaC1RbnJzN1plT1JBMWJRRnZVc3ZQTGcwcGNLektmNHRyMEtSd29WU0tvX25YMWFNd0VaenFjZ2w5eFhMOTVIalBNSmpjTkY0VmZJazZPaWlrQkJ6UDIxWXNBbURYUkd5bVpyTzZRX0hZTHN6OGxhZw?oc=5",
-      "publisher": "The Stanford Daily",
-      "published_at": "2026-10-26T06:31:27+00:00",
-      "kind": "news",
-      "family_ids": [
-        "science"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "1299abe91574a46e",
-      "title": "Air Force Research Laboratory completes flight of XQ-67A, advancing autonomous technology - Eglin Air Force Base (.mil)",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZ2V0TURFclVWaGJYMHZLcU00V3g3OW9WSVhZTUViRWY5M1pnR0puREY1T0R1WnhOX1Q4eWJENUZWUFVjMTM4cVRsbEdFdW5kb0dyNzhNMzdyRHR6NngzQTB1eEFuZVdMOXlDaFFfRUVoLUl6T2JxTnhRRnQzemJZczRGbGlEbXNLY2tUWElEZG5hTDlIY014UXFNdXVTYTNtcVlncEhMb25xVlpPQTRRZ1p5Z3F6b0pIa1dhR1lObUQ5RFhvNWhUWWFGTm5UQm1jMndfQW5yRm5BZw?oc=5",
-      "publisher": "Eglin Air Force Base (.mil)",
-      "published_at": "2026-10-27T13:29:54+00:00",
-      "kind": "news",
-      "family_ids": [
-        "science"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "7d919bcce80d7790",
-      "title": "Opinion | Prop 38 asks: Should California take on more debt to fund a single field of medical research? - CalMatters",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbkRPTGE4ak5TUnpZUW1aQnY2TXB1RkhLWWJjc3FreDQxdHg0dkRtN3VRdWstSUhKRnMyMEQxZU9qY0pTWUdIQlA2eUNWYTZSam4xSFpCQ2xrdG9nMGJxdlBlQ1FqQXUwY1g4dGFYVnBrN3I2VnZmNjlPZG9wNkExeXVBanNnQXM5djR3?oc=5",
-      "publisher": "CalMatters",
-      "published_at": "2026-10-14T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "science"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "350d35ea3833532f",
-      "title": "Mack Paul discusses “Miracle Road: The Story of Research Triangle Park” - NC Newsline",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQUltM3dMSWZLTnRTajYtb1lzU2ZGbzk5TG9wQ2QwQTZndzZrdlUtSy1QdmdQb1pHMTZRcU1jMldIbWdfX0FKVWgyNVJLVmFfeUd4bWhPTF9OMVdtc3JTbnZUdzNsajJQanVYMU1aQklTLVdDM3VRbnpUNHJfOXNWc2xPTXVUWVc3WHNmbThVeGtDYl8tRVNUbU5MRkk1M29oRmxyVVFn?oc=5",
-      "publisher": "NC Newsline",
-      "published_at": "2026-10-26T14:08:24+00:00",
+      "id": "030ecfea93184f9f",
+      "title": "Several S&T researchers among top 2% cited scientists in their fields - Missouri S&T",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdExXLTZOVWdhYlo1bEw4SzRUVDJRSVdaZTZMQlBScTVLQmpKcjJIbnFaWDZVWVZkUXF0ZUpqMGlFYWk0bnAySmhMUElhdTdMZlE2TXZpMTYwZ2phbEFNc0Y2UVdnWGtES29MVGRmeC1BblJxQ3h6alB2Z0hvbko3VmxoTm5rMzNMcjRaUEJPY1psVzM0VTZ5ektkR1k0QWs?oc=5",
+      "publisher": "Missouri S&T",
+      "published_at": "2026-10-20T23:25:25+00:00",
       "kind": "news",
       "family_ids": [
         "science"
@@ -5384,18 +5396,6 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mT3FxTUpGSndLdWh6emNISWRnSmNEdEZFZHdMWGlZZWQyaWp3cElhVGdCX3BTTDVySVhIOExMU0xacGk4MGdKNUhJUVBFVTNpOUN2aWpyUlBuTVh1STlGdkdLSmRnbW1GNEF6NkpPRHBBNC0wMTR1UEJZVGNGUQ?oc=5",
       "publisher": "OpenAI",
       "published_at": "2026-10-21T13:10:52+00:00",
-      "kind": "news",
-      "family_ids": [
-        "science"
-      ],
-      "date_kind": "published"
-    },
-    {
-      "id": "900336b899b2fff7",
-      "title": "How to spend $25 billion on science: OpenAI’s staggeringly rich research charity gets under way - Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XSUpHZTlDUzFxZkxVYWxQY0lKR05tX2toYWFtQW5scFdYUjloSW9iVW40eU1uWU9ZMEowZ25HZkhvMTFVdkpzZ3hWWkhlUUtQY3cxZ3JNQzdtaDlycGQw?oc=5",
-      "publisher": "Nature",
-      "published_at": "2026-09-30T07:00:00+00:00",
       "kind": "news",
       "family_ids": [
         "science"
@@ -5487,18 +5487,6 @@
       "date_kind": "published"
     },
     {
-      "id": "3a642f380252226a",
-      "title": "Monthly Retail Trade - Sales Report - Census.gov",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTZ0xCM0k1TjhISk1PSHVjZmNkRkluTlhWVXFXTzRXWEY5ek02S0ZKT3NBbzgtNVVPdmN5ZDc1ZzQ5QzBjd0lOUW50RmxRVnlfUnc?oc=5",
-      "publisher": "Census.gov",
-      "published_at": "2026-10-15T07:00:00+00:00",
-      "kind": "news",
-      "family_ids": [
-        "service"
-      ],
-      "date_kind": "published"
-    },
-    {
       "id": "2fa605e0dfc3ab81",
       "title": "Consumer Price Index, Northeast region — September 2026 - Bureau of Labor Statistics (.gov)",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ2lPN2JNZ19uSTZtbGJmMWZhUWRjVU5Mc3NTdnBDdHI4ejRYM1BRRU9DUTJ2Um5MLVV0RGFiMVN4NmlaYjJiWnBwSkVkNGNqX1MxeTlodkh4WUNpQ2dUZXZTLWZqRjlqd3FZZVNlVkl5QjFhaEhkaHFyTWdOSGx4bnhYUjlNNGdWSnQySGZ0TQ?oc=5",
@@ -5564,6 +5552,18 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZW1iaVdZQW8yUlVhZkpPUzgxY0thcXFkNm96YVU2R2pJQlpwU0hyWm5sV0Z6SzFVUTJHU3NNaFVlcEFxMDE3QnE4UnBsZzRMSU9KTkh3TmR5cVNpUDZfanFsUUw4NnBlREN1emppYnZnSUFJVjhVLXdoQ1dpOE1tSXd0eFFwUQ?oc=5",
       "publisher": "JD Supra",
       "published_at": "2026-10-26T19:41:06+00:00",
+      "kind": "news",
+      "family_ids": [
+        "service"
+      ],
+      "date_kind": "published"
+    },
+    {
+      "id": "efa87f62da6413ae",
+      "title": "Japan's September corporate services prices rise 3.7% yr/yr - Central Oregon Daily",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUXhIYjNLSE5NSHloZmJwUmtXV1FUY3hzZHBoYUZ5cU9mZEFRd1JIeEt6ZlN1cVdyWXprQVFTeTJjTmIycTlkc3JzTjBaVHBBQU5aREhtTm1KaVdHM21QVUY2QTJkS3pMOURzcXJFdXN1OVg0YWdaeW8zc1NNRWRYQkVHZ19wczdlUGE1bUZ3a0tiQW10NS04QjVFdGdoeW5qZTdqdm1GalZIdld3N1M1YTFHa3k0SkZyekdON0cwREYzRkk4bDJIMHFwTy1sUkRLYk5wMXJWZXVlbk9WWlNZd3hJci1STmlFd0lpcA?oc=5",
+      "publisher": "Central Oregon Daily",
+      "published_at": "2026-10-27T00:23:23+00:00",
       "kind": "news",
       "family_ids": [
         "service"
