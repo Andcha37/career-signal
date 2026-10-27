@@ -7,9 +7,11 @@
 export const SOURCES = [
   {id:'gdelt',name:'GDELT Global News',category:'글로벌 뉴스'},
   {id:'hackernews',name:'Hacker News / Algolia',category:'기술·산업 게시물'},
-  {id:'crossref',name:'Crossref',category:'연구·학술 문헌'}
+  {id:'crossref',name:'Crossref',category:'연구·학술 문헌'},
+  {id:'openalex',name:'OpenAlex',category:'공개 연구·과학 기술'}
 ];
 export const MAX_QUERIES=8;
+import {matchCompanyArticles} from './company-research.js';
 const MAX_ARTICLES=90;
 const API_TIMEOUT=18000;
 
@@ -75,6 +77,15 @@ export function crossrefURL(q,from,to){
   const p=new URLSearchParams({'query.bibliographic':q,filter:`from-pub-date:${from},until-pub-date:${to}`,rows:'20',select:'DOI,title,URL,published,published-online,published-print,issued,publisher,type',sort:'relevance'});
   return 'https://api.crossref.org/works?'+p;
 }
+export function openAlexURL(q,from,to){
+ const p=new URLSearchParams({search:q,filter:'from_publication_date:'+from+',to_publication_date:'+to,per_page:'20',select:'id,title,publication_date,doi,primary_location'});
+ return 'https://api.openalex.org/works?'+p;
+}
+export function normalizeOpenAlex(json){
+ return (json?.results||[]).map(a=>({title:a.title,url:a.doi||a.id,
+ published_at:isoDay(a.publication_date),publisher:a.primary_location?.source?.display_name||'OpenAlex',
+ kind:'research',source:'OpenAlex',date_kind:'published'}));
+}
 export function normalizeGdelt(json){
   return (json?.articles||[]).map(a=>({
     title:a.title,url:a.url,published_at:isoDay(a.seendate),publisher:a.domain||'GDELT',kind:'news',source:'GDELT',
@@ -105,7 +116,7 @@ export function mergeResults(batches,from,to){
     seen.add(key);seen.add('t:'+titleKey);return true;
   }).sort((a,b)=>(b.relevance||0)-(a.relevance||0)||b.published_at.localeCompare(a.published_at)).slice(0,MAX_ARTICLES)
 }
-export async function liveResearch({terms,from,to,onProgress=()=>{},signal}){
+export async function liveResearch({terms,from,to,onProgress=()=>{},signal,companyNames=[]}){
   const plan=planQueries(terms);
   const problems=[];const batches=[];const checked=[];
   const jobs=[];
@@ -122,6 +133,9 @@ export async function liveResearch({terms,from,to,onProgress=()=>{},signal}){
     for(const q of plan.queries.slice(0,4)){
       jobs.push({source:'Crossref',queries:[q],query:()=>requestJSON(crossrefURL(q,from,to),signal).then(normalizeCrossref)});
     }
+    for(const q of plan.queries.slice(0,4)){
+      jobs.push({source:'OpenAlex',queries:[q],query:()=>requestJSON(openAlexURL(q,from,to),signal).then(normalizeOpenAlex)});
+    }
   }
   // Parallel provider calls with bounded total volume. Failed providers don't stop others.
   const all=await Promise.all(jobs.map(async (job,i)=>{
@@ -137,6 +151,7 @@ export async function liveResearch({terms,from,to,onProgress=()=>{},signal}){
   }));
   for(const {source,hits} of all){checked.push({source,count:hits.length});batches.push(hits);}
   let results=mergeResults(batches,from,to);
+  if(companyNames.length)results=matchCompanyArticles(results,companyNames);
   // An API can match body text rather than title; expose relevance conservatively.
   results=results.map(a=>({...a,relevance:Math.max(...plan.queries.map(q=>exactTermScore(a.title,q)),0)+(a.kind==='news'?1:0)}))
     .sort((a,b)=>b.relevance-a.relevance||b.published_at.localeCompare(a.published_at));
