@@ -32,10 +32,12 @@ export async function searchNews({terms,from,to,mode='keywords',companyNames=[],
    const json=await res.json().catch(()=>({error:'JSON 응답을 받지 못했습니다.'}));
    if(!res.ok)throw Error('News gateway HTTP '+res.status+': '+(json.sources||[]).map(x=>x.source+' '+x.status).join(', ').slice(0,240));
    batches.push(json.articles||[]);
-   for(const s of json.sources||[]){checked.push(s);if(!s.success)problems.push(s.source+': '+s.status)}
+   for(const s of json.sources||[])checked.push(s);
    onProgress();
   }catch(e){problems.push(q+': '+(e?.message||String(e))+(e instanceof TypeError?' (CSP/CORS/네트워크 점검 필요)':''))}finally{clearTimeout(timer)}
  }));
+ const providerFailures=[...new Set(checked.filter(x=>!x.success).map(x=>x.source+': '+x.status))];
+ if(!batches.flat().length)problems.push(...providerFailures);
  const seen=new Set(),all=[];
  for(const a of batches.flat()){
   if(!a?.title||!a?.url||!a?.published_at||a.published_at<from||a.published_at>to)continue;
