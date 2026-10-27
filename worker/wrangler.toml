@@ -1,0 +1,4 @@
+name = "career-signal-news"
+main = "news-gateway.js"
+compatibility_date = "2026-10-15"
+workers_dev = true
