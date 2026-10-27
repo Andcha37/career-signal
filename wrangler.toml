@@ -1,0 +1,6 @@
+# Fallback configuration for Cloudflare Git integration when repository root is selected.
+# If Cloudflare's Root directory is "worker", worker/wrangler.toml is used instead.
+name = "career-signal"
+main = "./worker/news-gateway.js"
+compatibility_date = "2026-10-15"
+workers_dev = true
