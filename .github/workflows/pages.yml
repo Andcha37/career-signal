@@ -21,6 +21,7 @@ jobs:
       - name: Verify JavaScript modules
         run: |
           for path in src/*.js worker/*.js; do node --check "$path"; done
+          node --test worker/news-gateway.test.mjs
       - uses: actions/configure-pages@v5
         with:
           enablement: true
