@@ -48,7 +48,7 @@ async function run(){
  try{
  // The retrieval layer is independent from the local LLM; only Research starts either.
  const [newsResult,otherResult]=await Promise.allSettled([
-  searchNews({terms,from,to,mode,companyNames:names,onProgress:()=>{status.textContent='Google News 자료 수집 중…'}}),
+  searchNews({terms,from,to,mode,companyNames:names,onProgress:()=>{status.textContent='정식 뉴스 API 조회 중…'}}),
   mode==='company'?Promise.resolve({articles:[],problems:[],checked:[],plan:{partial:false,total:0,queries:[]},startedAt:new Date().toISOString()}):liveResearch({terms,from,to,onProgress:()=>{status.textContent='연구·커뮤니티 자료 수집 중…'}})
  ]);
  const news=newsResult.status==='fulfilled'?newsResult.value:{articles:[],problems:['Google News: '+String(newsResult.reason)],checked:[],configured:false};
@@ -63,7 +63,7 @@ async function run(){
  status.textContent='실시간 검색 '+rows.length+'건 · 검색 시각 '+new Date(response.startedAt).toLocaleString('ko-KR')+' · '+providers;
  if(response.plan.partial){add(items,'p','notice','선택된 '+response.plan.total+'개 직무 중 '+response.plan.queries.length+'개 대표 검색어를 분산 선택해 조회했습니다. 전체 직무의 완전한 검색은 아닙니다.');}
  if(news.scopeNote)add(items,'p','notice',news.scopeNote);
- if(!news.configured)add(items,'p','notice','구글 뉴스 미연결: Cloudflare Worker를 배포하고 주소를 설정해야 합니다. 아래 결과는 다른 공개 검색 서비스의 자료입니다.');
+ if(!news.configured)add(items,'p','notice','뉴스 API가 설정되지 않았습니다. 아래 결과는 다른 공개 검색 서비스의 자료입니다.');
  const allProblems=[...news.problems,...response.problems];
  if(allProblems.length){add(items,'p','notice','제공자 제한·연결 상태: '+[...new Set(allProblems)].join(' | ')+' · 브라우저 직접 요청에는 CORS와 호출 제한이 적용될 수 있습니다.');}
  if(!rows.length){add(items,'p','notice',allProblems.length?'검색 제공자 오류로 뉴스 결과를 확보하지 못했습니다. 이는 관련 뉴스가 없다는 의미가 아닙니다. 위 오류를 확인하세요.':'검색 서비스 응답은 받았지만 지정 기간과 기업명에 부합하는 자료는 찾지 못했습니다. 회사명·별칭 또는 날짜를 조정해 보세요.');return}
