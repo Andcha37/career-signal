@@ -1,17 +1,12 @@
-# Google News + optional Naver News gateway
+# Google News gateway
 
-The GitHub Pages frontend cannot directly fetch Google News RSS because of cross-origin browser restrictions. This Cloudflare Worker is a bounded read-only news proxy.
+Career Signal uses Google News RSS in Korean and English through a Cloudflare Worker, because browser requests to RSS are constrained by CORS. No search API keys or credentials are required.
 
-## Free deployment (manual one-time step)
+## Deployment
+1. Create a Cloudflare Workers **Free** account and a Worker named `career-signal-news`; do not upgrade to a paid tier.
+2. Paste [the Worker source](news-gateway.js) into its editor and click Deploy.
+3. Copy the worker's base URL, e.g. `https://career-signal-news.<subdomain>.workers.dev`.
+4. Set `NEWS_GATEWAY_URL` in [src/config.js](../src/config.js) to that base URL, commit and allow Pages to publish.
+5. Verify `/health`, then search a company on the website.
 
-1. Create a **Cloudflare Workers Free** account, without enabling a paid plan. Name a Worker `career-signal-news`.
-2. Replace its source with `worker/news-gateway.js`. Use the Worker editor's **Deploy** action.
-3. Copy the resulting Worker URL, such as `https://career-signal-news.<your-subdomain>.workers.dev`.
-4. Edit `src/config.js` in this repository and set `NEWS_GATEWAY_URL` to that exact base URL. Never enter a secret or an account token in GitHub source files.
-5. Wait for the GitHub Pages deployment to complete. Test the Worker `/health` endpoint and then search for `현대자동차` in the website.
-
-Google News requires **no credential**. Naver News is optional and uses an official developer application's `NAVER_CLIENT_ID` and `NAVER_CLIENT_SECRET`, configured only as **Worker Secrets**, never exposed to GitHub/browser. Naver search API quotas/terms apply. Do not enable paid services if strict zero billing is required.
-
-Worker source only accepts fixed /search and /health paths, limited dates and bounded search lengths, never user-supplied upstream URLs. Google RSS content may vary or be unavailable. The Worker public endpoint can still be accessed directly despite an Origin allowlist; that is not reliable abuse prevention. Cloudflare and public search providers can see visitor IP and submitted search words. No exhaustive web coverage is implied.
-
-**Ambiguous companies:** `현대` may refer to 현대자동차, 현대건설, 현대해상, 현대백화점 and others. For accurate results enter the specific legal company name and its English name. Current search uses title-based company mention filtering and can still omit relevant articles.
+The Worker searches Google News KR and EN and extracts public article headline metadata. It does **not** retrieve article bodies. Google News RSS can change or become unavailable, and Google/Cloudflare can observe user search terms and IP addresses. The public Worker endpoint is not abuse-proof; Origin restrictions alone are not authentication. The operator GitHub username is public.
