@@ -1,2 +1,2 @@
-// The gateway is optional. Never place API secrets here.
-export const NEWS_GATEWAY_URL = '';
+// Public Google News gateway endpoint; never store credentials in browser code.
+export const NEWS_GATEWAY_URL = 'https://career-signal.andycha0307.workers.dev';
