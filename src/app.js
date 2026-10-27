@@ -33,7 +33,7 @@ const windowHint=add(left,'p','hint');const setHint=()=>windowHint.textContent=m
 const start=button(left,'Research 시작 →',run,'start');
 add(left,'p','privacy','🔒 Research 클릭 전 AI 실행 없음 · API Key 불필요 · 검색 시 공개 검색 제공자에 검색어 전송');
 add(right,'h2','','02 / Research Results');const status=add(right,'p','status','직무·회사명·키워드 중 하나를 선택하고 Research를 눌러주세요. 공개 검색 서비스에 검색어와 접속 IP가 노출될 수 있습니다.');
-const items=add(right,'div','items');const essayTitle=add(right,'h3','section-title','Research Essay');const output=add(right,'div','essay','분석 전입니다.');
+const items=add(right,'div','items');const essayTitle=add(right,'h3','section-title','한국어 분석 보고서');const output=add(right,'div','essay','분석 전입니다.');
 essayTitle.hidden=true;output.hidden=true;
 async function run(){
  const aliases=mode==='company'?keywords(aliasInput.value).slice(0,2):[];
@@ -61,7 +61,7 @@ async function run(){
  }
  essayTitle.hidden=false;output.hidden=false;
  const topic=mode==='roles'?[...selected].map(id=>allRoles.find(r=>r.id===id)?.name).filter(Boolean).slice(0,10).join(', '):mode==='company'?names[0]:terms.join(', ');
- const fallback=briefing(rows,topic,from,to);
+ const fallback=briefing(rows,topic,from,to,mode);
  output.textContent='검색 자료를 우선 표시했습니다. 브라우저 내 AI 모델을 로딩하는 중입니다. WebGPU가 없는 기기는 규칙 기반 브리핑을 제공합니다.';
  try{
    const {generate}=await import('./webllm.js');
